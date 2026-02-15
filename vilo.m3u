@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0,Jednotka HD
 http://88.212.15.19:80/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:0,Dvojka HD
@@ -11,8 +11,6 @@ http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_markiza_25p/playlist.m3u8
 #EXTINF:0,Markiza Krimi
 http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
-#EXTINF:0,Markiza Klasik
-https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:0,WAU HD
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
 #EXTINF:0,TV JOJ HD 
@@ -23,10 +21,6 @@ http://88.212.15.19:80/live/test_pluska_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:0,JOJ SVET
 http://88.212.15.19:80/live/test_joj_svet/playlist.m3u8
-#EXTINF:0,JOJ24
-http://178.23.88.55/JOJ_24/index.m3u8
-#EXTINF:0,Parlament
-http://88.212.15.9:5000/live/tv_nr_sr/playlist_key_url.m3u8
 #EXTINF:0,TA3
 http://88.212.15.19:80/live/test_ta3_25p/playlist.m3u8
 #EXTINF:0,CT24
@@ -135,6 +129,8 @@ http://88.212.15.19:80/live/test_home_hevc/playlist.m3u8
 http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:0,Hobby TV
 https://176.116.105.82/HobbyTV_HD/index.m3u8
+#EXTINF:0,SkveleTV
+https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 #EXTINF:0,VIASAT EXPLORE
 http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:0,TLC
@@ -143,10 +139,12 @@ http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.19:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:0,History
 http://88.212.15.19:80/live/test_history/playlist.m3u8
+#EXTINF:0,History2 
+http://212.102.38.45/live/test_h2/playlist.m3u8
 #EXTINF:0,CS History
 http://88.212.15.17/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:0,Viasat History HD
-http://dvr1.kablova.tv/Viasat_History/mpegts
+http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:0,CS Mystery
 http://88.212.15.17/live/test_cs_mystery_avc_25p/playlist.m3u8
 #EXTINF:0,Discovery Channel
@@ -243,6 +241,8 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 http://88.212.15.17/live/test_uatv/playlist.m3u8
 #EXTINF:0,Espresso
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:0,Current Time
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0,ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:0,ITV3
@@ -265,8 +265,6 @@ http://88.212.15.19:80/live/test_superyacht/playlist.m3u8
 http://88.212.15.19:80/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:0,JOJ SPORT
 http://88.212.15.19:80/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:0,JOJ SPORT2
-http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
 #EXTINF:0,SPORT 1
 http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0,SPORT 2
@@ -323,6 +321,10 @@ http://88.212.15.19:80/live/eclutch_1/index.m3u8
 http://88.212.15.19:80/live/eclutch_2/index.m3u8
 #EXTINF:0,Tanec
 https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
+#EXTINF:0,TV Poprad
+https://dash3.antik.sk/live/test_poprad/playlist.m3u8
+#EXTINF:0,TV Reduta SNV
+https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
 #EXTINF:0,TV LIPTOV
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:0,TV Ruzomberok
@@ -405,12 +407,16 @@ http://88.212.15.17/live/test_senzi_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_folklorika_atktv/playlist.m3u8
 #EXTINF:0,MUSIC TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0,Friends
+https://hls.watchfriends.net/hls/friends/master.m3u8
 #EXTINF:0,Pianko
 http://88.212.15.19:80/live/test_pianko/playlist.m3u8
 #EXTINF:0,AQUARIUM
 http://iptv.prosto.tv:7000/ch310/video.m3u8?secret=191yc7ul
 #EXTINF:0,INFOKANAL ANTIK
 http://88.212.15.19/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:0,Chilli TV
+https://dash2.antik.sk/live/chilli_tv/index.m3u8
 #EXTINF:29,JASNA BIELA PUT
 https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist_w1917403866.m3u8
 #EXTINF:31,JASNA ZAHRADKY
@@ -481,6 +487,8 @@ https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
 https://dash2.antik.sk/live/test_nitra_zobor_panorama_atk_1200/playlist.m3u8
 #EXTINF:0,PRESOV stanica
 http://stream.kukaj.se/stream/1/video.m3u8
+#EXTINF:0,Košice Herlianska
+http://212.102.38.45/live/test_herlianska/playlist.m3u8
 #EXTINF:0,VRBOV
 https://frn.rtsp.me/zxG1p_50EC_Uu2008hzIsg/1710494907/hls/hhzBEYKK.m3u8
 #EXTINF:0,RAJECKE TEPLICE
@@ -493,6 +501,38 @@ https://nstream.tssgroup.cloud/tss/fitechbb/video1.m3u8
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:0,VATIKAN
 http://78.130.250.2:8023/play/a06l/index.m3u8
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
+http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna.cz
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Rádio 80 - 90s
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio CZ-SK
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun radio Cs
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio 80.90.Roky
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio FM
+http://live.slovakradio.sk:8000/FM_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
+https://stream.bauermedia.sk/rock-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk mora
+http://ice6.abradio.cz/relax-sea128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk búrky
+http://ice6.abradio.cz/relax-thunder-rain128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk vtákov
+http://ice6.abradio.cz/relax-morning-birds128.mp3
 #EXTINF:0,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,BBC 
