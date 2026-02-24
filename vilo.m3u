@@ -27,7 +27,7 @@ https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 #EXTINF:0,TA3
 http://88.212.15.19:80/live/test_ta3_25p/playlist.m3u8
 #EXTINF:0,CT24
-#EXTINF:0,http://88.212.15.19:80/live/test_ct24_hevc/playlist.m3u8
+http://88.212.15.19:80/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:0,CNN Prima News
 http://88.212.15.19:80/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:0,CT1
@@ -611,3 +611,4 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
