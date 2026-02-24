@@ -1,27 +1,23 @@
 #EXTM3U
-#EXTINF:0,Jednotka HD
+#EXTINF:0,Jednotka
 http://88.212.15.19:80/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:0,Dvojka HD
+#EXTINF:0,Dvojka
 http://88.212.15.19:80/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:0,RTVS 24 HD
+#EXTINF:0,RTVS24
 http://88.212.15.19:80/live/test_trojka_25p/playlist.m3u8
-#EXTINF:0,DAJTO HD 
+#EXTINF:0,DAJTO 
 http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
-#EXTINF:0,Markiza HD
+#EXTINF:0,Markiza
 http://88.212.15.19:80/live/test_markiza_25p/playlist.m3u8
 #EXTINF:0,Markiza Krimi
 http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
-#EXTINF:0,Markiza Klasik
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_markiza_klasik/playlist_cbcs.mpd
-#EXTINF:0,WAU HD
+#EXTINF:0,WAU
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
-#EXTINF:0,TV JOJ HD 
+#EXTINF:0,JOJ 
 http://88.212.15.19:80/live/test_joj_hd_high_hevc/playlist.m3u8
-#EXTINF:0,JOJ PLUS HD 
+#EXTINF:0,JOJ PLUS 
 http://88.212.15.19:80/live/test_pluska_25p/playlist.m3u8
-#EXTINF:0,DOMA HD
+#EXTINF:0,DOMA
 http://88.212.15.19:80/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:0,JOJ SVET
 http://88.212.15.19:80/live/test_joj_svet/playlist.m3u8
@@ -44,11 +40,11 @@ http://88.212.15.19:80/live/test_nova_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_nova_action_hevc_25p/playlist.m3u8
 #EXTINF:0,Nova Cinema
 http://88.212.15.19:80/live/test_nova_cinema_hevc_25p/playlist.m3u8
-#EXTINF:0,NOVA LADY
+#EXTINF:0,Nova LADY
 http://88.212.15.19:80/live/test_nova_lady_hevc_25p/playlist.m3u8
-#EXTINF:0,NOVA FUN
+#EXTINF:0,Nova FUN
 http://88.212.15.19:80/live/test_nova_fun_hevc_25p/playlist.m3u8
-#EXTINF:0,NOVA KRIMI
+#EXTINF:0,Nova KRIMI
 http://88.212.15.19:80/live/test_nova_gold_hevc_25p/playlist.m3u8
 #EXTINF:0,WARNER TV
 http://88.212.15.19:80/live/warner_tv/index.m3u8
@@ -113,7 +109,7 @@ http://88.212.15.19:80/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:0,Krimi Barrandov
 http://88.212.15.17/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:0,STORY4
-http://178.143.8.242:8001/1:0:16:3CF8:C95:3:EB0000:0:0:0:
+http://87.197.97.129:8001/1:0:16:3CF8:C95:3:EB0000:0:0:0:
 #EXTINF:0,Film+ Europe
 http://185.188.188.237:5000/live/filmeuropeplus/playlist.m3u8
 #EXTINF:0,Film Europe
@@ -144,8 +140,6 @@ http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.19:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:0,History
 http://88.212.15.19:80/live/test_history/playlist.m3u8
-#EXTINF:0,History2 
-http://212.102.38.45/live/test_h2/playlist.m3u8
 #EXTINF:0,CS History
 http://88.212.15.17/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:0,Viasat History HD
@@ -172,10 +166,12 @@ http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_haha_tv/playlist.m3u8
 #EXTINF:0,MNAU
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:0,FOOD NETWORK
-http://caffe.link:25461/Mukyotac/BCTG6t6jhPB3/6915
+#EXTINF:0,FOOD NETWORK PL
+https://tvh.cyn.cz/stream/channelid/1848249400?profile=pass
 #EXTINF:0,PAPRIKA
 http://88.212.15.19:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:0,MNAM
+https://tvh.cyn.cz/stream/channelid/1734547950?profile=pass
 #EXTINF:0,KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:0,SEZNAM.CZ
@@ -212,8 +208,6 @@ http://88.212.15.19:80/live/test_nicktoons/playlist.m3u8
 http://88.212.15.19:80/live/test_lala_25p/playlist.m3u8
 #EXTINF:0,DOCUBOX
 http://88.212.15.17/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0,World Fishing Network
-https://stream1.freetv.fun/world-fishing-network-5.ctv
 #EXTINF:0,OUTDOOR CHANNEL
 http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
 #EXTINF:0,BRAVO
@@ -222,6 +216,12 @@ http://41.205.93.154/BRAVO/mpegts
 http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 #EXTINF:0,TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:0,BBC EARTH PL
+https://tvh.cyn.cz/stream/channelid/2129891902?profile=pass
+#EXTINF:0,BBC FIRST PL
+https://tvh.cyn.cz/stream/channelid/217468626?profile=pass
+#EXTINF:0,BBC LIFESTYLE PL
+https://tvh.cyn.cz/stream/channelid/1446127560?profile=pass
 #EXTINF:0,TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:0,TVP WORLD
@@ -240,14 +240,14 @@ https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 http://88.212.15.19:80/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0,CGTN
 http://88.212.15.17/live/test_cgtn/playlist.m3u8
-#EXTINF:0,CBC NEWS
-http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:0,UATV
 http://88.212.15.17/live/test_uatv/playlist.m3u8
 #EXTINF:0,Espresso
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:0,Current Time
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:0,ITV1
+https://tvh.cyn.cz/stream/channelid/122770451?profile=pass
 #EXTINF:0,ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:0,ITV3
@@ -258,8 +258,6 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:0,BBC3 CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0,INTRAVEL
-https://jmp2.uk/str-7047.m3u8
 #EXTINF:-1 group-title="SPORT ",AUTO MOTO SPORT
 http://88.212.15.19:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",SUPERYACHT
@@ -269,9 +267,8 @@ http://88.212.15.19:80/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",JOJ SPORT
 http://88.212.15.19:80/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",JOJ SPORT2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport2-720.m3u8
 #EXTINF:-1 group-title="SPORT ",SPORT 1
 http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",SPORT 2
@@ -300,8 +297,6 @@ http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
 #EXTINF:-1 group-title="SPORT ",PREMIER SPORT 2
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-#EXTINF:-1 group-title="SPORT ",PREMIER SPORT 3
-http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=7NDbKyE
 #EXTINF:-1 group-title="SPORT ",SPORTY TV
 http://88.212.15.19:80/live/sporty_tv/index.m3u8
 #EXTINF:-1 group-title="SPORT ",Fast and FunBox
@@ -336,6 +331,8 @@ http://99.27.51.147:8080/BeinSport/index.m3u8
 http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:-1 group-title="SPORT ",BEIN Sport 3
 http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT ",Sport F1
+https://tvh.cyn.cz/stream/channelid/1431292058?profile=pass
 #EXTINF:0,Padel Time
 http://88.212.15.19:80/live/padel_time/index.m3u8
 #EXTINF:0,eClutch1
@@ -385,9 +382,11 @@ http://88.212.15.19:80/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0,RAI3
 http://88.212.15.19:80/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,ORF1
-https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:0,ORF2
-https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+https://tvh.cyn.cz/stream/channelid/988527403?profile=pass
+#EXTINF:0,ORF 2
+https://tvh.cyn.cz/stream/channelid/1272176973?profile=pass
+#EXTINF:0,ORF SPORT +
+https://tvh.cyn.cz/stream/channelid/64997323?profile=pass
 #EXTINF:0,REBEL
 http://88.212.15.19:80/live/test_rebel/playlist.m3u8
 #EXTINF:0,MUSICBOX HITS
