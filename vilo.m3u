@@ -27,7 +27,7 @@ https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 #EXTINF:0,TA3
 http://88.212.15.19:80/live/test_ta3_25p/playlist.m3u8
 #EXTINF:0,CT24
-http://88.212.15.19:80/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:0,http://88.212.15.19:80/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:0,CNN Prima News
 http://88.212.15.19:80/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:0,CT1
@@ -102,7 +102,7 @@ http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:0,Prima MAX
 http://185.188.188.237:5000/live/primamax/playlist.m3u8
-#EXTINF:0,TV Barrandov HD
+#EXTINF:0,TV Barrandov
 http://88.212.15.19:80/live/test_barrandov/playlist.m3u8
 #EXTINF:0,Kino Barrandov
 http://88.212.15.19:80/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
@@ -142,7 +142,7 @@ http://88.212.15.19:80/live/test_upnetwork/playlist.m3u8
 http://88.212.15.19:80/live/test_history/playlist.m3u8
 #EXTINF:0,CS History
 http://88.212.15.17/live/test_cs_history_avc_25p/playlist.m3u8
-#EXTINF:0,Viasat History HD
+#EXTINF:0,Viasat History
 http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:0,CS Mystery
 http://88.212.15.17/live/test_cs_mystery_avc_25p/playlist.m3u8
@@ -150,7 +150,7 @@ http://88.212.15.17/live/test_cs_mystery_avc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:0,Investigation Discovery
 http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:0,National Geographic HD
+#EXTINF:0,National Geographic
 http://88.212.15.19:80/live/test_ngc/playlist.m3u8
 #EXTINF:0,National Geographic Wild
 http://88.212.15.19:80/live/test_ngw/playlist.m3u8
@@ -166,12 +166,8 @@ http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_haha_tv/playlist.m3u8
 #EXTINF:0,MNAU
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:0,FOOD NETWORK PL
-https://tvh.cyn.cz/stream/channelid/1848249400?profile=pass
 #EXTINF:0,PAPRIKA
 http://88.212.15.19:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
-#EXTINF:0,MNAM
-https://tvh.cyn.cz/stream/channelid/1734547950?profile=pass
 #EXTINF:0,KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:0,SEZNAM.CZ
@@ -216,12 +212,8 @@ http://41.205.93.154/BRAVO/mpegts
 http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 #EXTINF:0,TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0,BBC EARTH PL
-https://tvh.cyn.cz/stream/channelid/2129891902?profile=pass
-#EXTINF:0,BBC FIRST PL
-https://tvh.cyn.cz/stream/channelid/217468626?profile=pass
-#EXTINF:0,BBC LIFESTYLE PL
-https://tvh.cyn.cz/stream/channelid/1446127560?profile=pass
+#EXTINF:0,CANAL+ DOMO PL
+https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusdomohdraw/canalplusdomohdraw.mpd
 #EXTINF:0,TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:0,TVP WORLD
@@ -246,8 +238,6 @@ http://88.212.15.17/live/test_uatv/playlist.m3u8
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:0,Current Time
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:0,ITV1
-https://tvh.cyn.cz/stream/channelid/122770451?profile=pass
 #EXTINF:0,ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:0,ITV3
@@ -287,16 +277,6 @@ http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",Nova sport 6
 http://178.143.8.242:8001/1:0:16:312:c94:3:eb0000:0:0:0:
-#EXTINF:-1 group-title="SPORT ",ONEPLAY1
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 group-title="SPORT ",ONEPLAY2
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 group-title="SPORT ",ONEPLAY3
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 group-title="SPORT ",PREMIER SPORT 1
-http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 group-title="SPORT ",PREMIER SPORT 2
-http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
 #EXTINF:-1 group-title="SPORT ",SPORTY TV
 http://88.212.15.19:80/live/sporty_tv/index.m3u8
 #EXTINF:-1 group-title="SPORT ",Fast and FunBox
@@ -315,24 +295,24 @@ http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",GOLF
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",NHL Network
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="SPORT ",TNT Sport 1
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="SPORT ",TNT Sport 2
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="SPORT ",TNT Sport 3
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="SPORT ",TNT Sport 4
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="SPORT ",BEIN Sport
+#EXTINF:-1 group-title="SPORT ",BEIN Sports 1
 http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 group-title="SPORT ",BEIN Sport 2
+#EXTINF:-1 group-title="SPORT ",BEIN Sports 2
 http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1 group-title="SPORT ",BEIN Sport 3
+#EXTINF:-1 group-title="SPORT ",BEIN Sports 3
 http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:-1 group-title="SPORT ",Sport F1
-https://tvh.cyn.cz/stream/channelid/1431292058?profile=pass
+#EXTINF:-1 group-title="SPORT ",Sky Sports F1
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102172.m3u8
+#EXTINF:-1 group-title="SPORT ",Sky Sports Football
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102175.m3u8
+#EXTINF:-1 group-title="SPORT ",NHL
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/97780.m3u8
+#EXTINF:-1 group-title="SPORT ",TNT SPORTS 3
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102179.m3u8
+#EXTINF:-1 group-title="SPORT ",TNT SPORTS 4
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102178.m3u8
+#EXTINF:-1 group-title="SPORT ",Super Tennis IT
+http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
 #EXTINF:0,Padel Time
 http://88.212.15.19:80/live/padel_time/index.m3u8
 #EXTINF:0,eClutch1
@@ -371,8 +351,10 @@ https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 https://stream-18.mazana.tv/kuryrtv.m3u8s
 #EXTINF:0,TV DOKTOR
 https://live.tvdoktor.sk/high/index.m3u8
-#EXTINF:0,NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,LUX
+http://88.212.15.19:80/live/test_lux_hevc/playlist.m3u8
+#EXTINF:0,NOE
+http://88.212.15.19:80/live/test_noe_hevc/playlist.m3u8
 #EXTINF:0,FashionBox
 http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,FashionTV
@@ -381,12 +363,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://88.212.15.19:80/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0,RAI3
 http://88.212.15.19:80/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0,ORF1
-https://tvh.cyn.cz/stream/channelid/988527403?profile=pass
-#EXTINF:0,ORF 2
-https://tvh.cyn.cz/stream/channelid/1272176973?profile=pass
-#EXTINF:0,ORF SPORT +
-https://tvh.cyn.cz/stream/channelid/64997323?profile=pass
 #EXTINF:0,REBEL
 http://88.212.15.19:80/live/test_rebel/playlist.m3u8
 #EXTINF:0,MUSICBOX HITS
@@ -405,7 +381,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://88.212.15.19:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:0,OCKO
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-#EXTINF:0,Ocko Expres HD
+#EXTINF:0,Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:0,OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
@@ -445,8 +421,6 @@ http://88.212.15.19:80/live/test_arirang/playlist.m3u8
 http://iptv.prosto.tv:7000/ch310/video.m3u8?secret=191yc7ul
 #EXTINF:0,INFOKANAL ANTIK
 http://88.212.15.19/live/test_infokanal_tizen/playlist.m3u8
-#EXTINF:0,Chilli TV
-https://dash2.antik.sk/live/chilli_tv/index.m3u8
 #EXTINF:29,JASNA BIELA PUT
 https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist_w1917403866.m3u8
 #EXTINF:31,JASNA ZAHRADKY
@@ -457,13 +431,17 @@ https://stream.profi-net.sk/tmr/STREAM6.stream/chunklist_w1269245836.m3u8
 https://stream.profi-net.sk/tmr/STREAM21.stream/chunklist.m3u8
 #EXTINF:0,OPALISKO
 https://kukaj.profi-net.sk/commercial/OPALISKO.stream/chunklist_w281603752.m3u8
-#EXTINF:0,PARTIZANSKA LUPCA
+#EXTINF:0,NIZKE TATRY - kamziky
+https://kukaj.profi-net.sk/live/KAMZIKY.stream/chunklist_w366099569.m3u8
+#EXTINF:0,PARTIZANSKA LUPCA - bociany
 https://kukaj.profi-net.sk/live/BOCIANY_LUPCA.stream%20/chunklist_w1814489146.m3u8
+#EXTINF:0,SPISSKE BYSTRE - bociany
+https://kukaj.profi-net.sk/live/BOCIANY_SPISSKEBYSTRE.stream/chunklist_w44212850.m3u8
 #EXTINF:0,TATRALANDIA1
 https://stream.profi-net.sk/tmr//STREAM48.stream/chunklist_w145363969.m3u8
 #EXTINF:0,TATRALANDIA2
 https://stream2.profi-net.sk/tmr/STREAM12.stream/playlist.m3u8
-#EXTINF:0,TATRALANDIA vn tro
+#EXTINF:0,TATRALANDIA3
 https://stream2.profi-net.sk/tmr/STREAM2.stream/playlist.m3u8
 #EXTINF:0,BESENOVA LAZY river
 https://stream2.profi-net.sk/tmr/STREAM51.stream/playlist.m3u8
@@ -475,7 +453,7 @@ https://stream.profi-net.sk/tmr/STREAM14.stream/chunklist_w341247000.m3u8
 https://stream.profi-net.sk/tmr/STREAM44.stream/chunklist_w1962130475.m3u8
 #EXTINF:0,SEDLO2
 https://stream.profi-net.sk/tmr/STREAM29.stream/chunklist.m3u8
-#EXTINF:0,LOMNICA
+#EXTINF:0,LOMNICA1
 https://stream.profi-net.sk/tmr/STREAM33.stream/chunklist_w844137970.m3u8
 #EXTINF:0,LOMNICA2
 https://stream.profi-net.sk/tmr/STREAM34.stream/chunklist_w1881293020.m3u8
@@ -489,36 +467,30 @@ http://stream.strba.sk:1935/strba/VYHLAD_SKOK.stream/playlist.m3u8
 http://stream.strba.sk:1935/strba/STRB_AREAL.stream/playlist.m3u8
 #EXTINF:0, Strbske Pleso5
 http://stream.strba.sk:1935/strba/BEZ_AREAL.stream/playlist.m3u8
+#EXTINF:0, Strbske Pleso6
+http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:0, Solisko - Furkotka
 http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
 #EXTINF:0,DONOVALY4
 https://stream.profi-net.sk/donovaly/KASA_ZAHRADISTE.stream/chunklist_w1890987052.m3u8
-#EXTINF:0, Strbske Pleso6
-http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:0,park tv
 http://88.212.15.19:80/live/test_park_tv/playlist.m3u8
-#EXTINF:0,Barrandovsky  most
+#EXTINF:0,Barrandovsky  most - Praha
 https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
-#EXTINF:0,Letisko Vaclava Havla
+#EXTINF:0,Letisko Vaclava Havla - Praha
 https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
 #EXTINF:0,Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:0,Vitznau-Rigi CH
 https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
-#EXTINF:0,Kralovstvi zeleznic 
-https://live.idnes.cz/slow/kralovstvizeleznic_720p/manifest.m3u8
 #EXTINF:0,Hrochy - ZOO
 https://live.idnes.cz/slow/hrosi_720p/manifest.m3u8
-#EXTINF:0,Ladovi medvedi - ZOO Brno
-https://live.idnes.cz/slow/zoobrno_720p/manifest.m3u8
 #EXTINF:0,Krmitko Ohio USA
 https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
 #EXTINF:0,Nitra ZOBOR
 https://dash2.antik.sk/live/test_nitra_zobor_panorama_atk_1200/playlist.m3u8
 #EXTINF:0,PRESOV stanica
 http://stream.kukaj.se/stream/1/video.m3u8
-#EXTINF:0,Košice Herlianska
-http://212.102.38.45/live/test_herlianska/playlist.m3u8
 #EXTINF:0,Tri Koruny
 http://stream.kukaj.se/stream/15/video.m3u8
 #EXTINF:0,RAJECKE TEPLICE
@@ -563,6 +535,94 @@ http://ice6.abradio.cz/relax-sea128.mp3
 http://ice6.abradio.cz/relax-thunder-rain128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk vtákov
 http://ice6.abradio.cz/relax-morning-birds128.mp3
+#EXTINF:0,Ambient Sleeping Pill [Opt-1]" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations" - #EXTINF:0,Ambient Sleeping Pill [Opt-1]
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14823
+#EXTINF:0,Ambient Sleeping Pill [Opt-2]" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations" - #EXTINF:0,Ambient Sleeping Pill [Opt-2]
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14824
+#EXTINF:0,Audio Noir Radio" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations" - #EXTINF:0,Audio Noir Radio
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14826
+#EXTINF:0,(ILR) Classic FM	
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14388
+#EXTINF:0,JamendoLounge
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14389
+#EXTINF:0,Hot 108 JAMZ" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="Radio Stations" - ,Hot 108 JAMZ
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14663
+#EXTINF:0,2000 FM - Hard Rock" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="Radio Stations",0,2000 FM - Hard Rock
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14656
+#EXTINF:0,011.FM - Motown live
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17846
+#EXTINF:0,011.FM - Retro 70s
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17858
+#EXTINF:0,011.FM - Totally 90s
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17826
+#EXTINF:0,1 Faith FM
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17785
+#EXTINF:0,1 HITS 50s live
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17872
+#EXTINF:0,107.5 Cool FM
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17548
+#EXTINF:0,181. FM Hip HOP
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17523
+#EXTINF:0,1Faith FM - Christmas Classics 
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17823
+#EXTINF:0,2000 FM - RNB and Hip Hop
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17598
+#EXTINF:0,50's Radio (VanDAmm Special)
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17541
+#EXTINF:0,57 Chevy Love Songs
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17838
+#EXTINF:0,91.7 Giant FM
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/23003
+#EXTINF:0,A1 Crooners
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17857
+#EXTINF:0,ABC 50's
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17873
+#EXTINF:0,ABC 60's
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17552
+#EXTINF:0,ACDC 247
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/23004
+#EXTINF:0,Ace Radio
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17783
+#EXTINF:0,Alex Jones - Infowars.com
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17579
+#EXTINF:0,All Underground Hip Hop
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17588
+#EXTINF:0,Alternative Rock
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17849
+#EXTINF:0,Ambient Sleeping Pill
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14657
+#EXTINF:0,Ambient Sleeping Pill [Opt-2]
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14658
+#EXTINF:0,America's Greatest 70s Hits
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17575
+#EXTINF:0,Amsterdam Trance
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14721
+#EXTINF:0,Antena 1 FM 94.7
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14724
+#EXTINF:0, Jungle -  Breakbeat" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="Radio Stations",arty Vibe: Drum&Bass, Jungle, Breakbeat
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17855
+#EXTINF:0,Associated Press Radio live
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17800
+#EXTINF:0,BBC World Service Online
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:0,Be Good Radio
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17798
+#EXTINF:0,BeGoodRadio - 80s New Wave live
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17802
+#EXTINF:0,BeGoodRadio - 80s Rock Mix
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17836
+#EXTINF:0,Best Hits Radio 80's
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17539
+#EXTINF:0,BestNet Radio
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17789
+#EXTINF:0,Big R Radio
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17519
+#EXTINF:0,blackbox RnB
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17517
+#EXTINF:0,BluesMen Channel 
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17853
+#EXTINF:0,BumpinRadio.com - Hip Hop and R&B
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17599
 #EXTINF:0,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,BBC 
@@ -611,4 +671,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-
