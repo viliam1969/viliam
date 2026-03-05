@@ -313,6 +313,8 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102179.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102178.m3u8
 #EXTINF:-1 group-title="SPORT ",Super Tennis IT
 http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
+#EXTINF:-1 group-title="SPORT ",Real Madrid TV
+http://88.212.15.19:80/live/real_madrid_tv/index.m3u8
 #EXTINF:0,Padel Time
 http://88.212.15.19:80/live/padel_time/index.m3u8
 #EXTINF:0,eClutch1
@@ -671,3 +673,4 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
