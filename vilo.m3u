@@ -168,6 +168,8 @@ http://88.212.15.19:80/live/test_haha_tv/playlist.m3u8
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:0,PAPRIKA
 http://88.212.15.19:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:0,FOOD NETWORK
+http://hls.sohu.blog/my.php?id=28
 #EXTINF:0,KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:0,SEZNAM.CZ
@@ -232,6 +234,8 @@ https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 http://88.212.15.19:80/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0,CGTN
 http://88.212.15.17/live/test_cgtn/playlist.m3u8
+#EXTINF:0,Newsmax
+https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0,UATV
 http://88.212.15.17/live/test_uatv/playlist.m3u8
 #EXTINF:0,Espresso
@@ -311,12 +315,8 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102172.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102175.m3u8
 #EXTINF:-1 group-title="SPORT ",NHL
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/97780.m3u8
-#EXTINF:-1 group-title="SPORT ",TNT SPORTS 3
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102179.m3u8
 #EXTINF:-1 group-title="SPORT ",TNT SPORTS 4
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102178.m3u8
-#EXTINF:-1 group-title="SPORT ",Super Tennis IT
-http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
 #EXTINF:-1 group-title="SPORT ",Real Madrid TV
 http://88.212.15.19:80/live/real_madrid_tv/index.m3u8
 #EXTINF:0,Padel Time
@@ -361,6 +361,8 @@ https://live.tvdoktor.sk/high/index.m3u8
 http://88.212.15.19:80/live/test_lux_hevc/playlist.m3u8
 #EXTINF:0,NOE
 http://88.212.15.19:80/live/test_noe_hevc/playlist.m3u8
+#EXTINF:0,English Club
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:0,FashionBox
 http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,FashionTV
@@ -377,6 +379,8 @@ http://88.212.15.19:80/live/mb_hits/index.m3u8
 http://88.212.15.19:80/live/mb_dance/index.m3u8
 #EXTINF:0,MUSICBOX CLASSIC
 http://88.212.15.19:80/live/mb_classic/index.m3u8
+#EXTINF:0,MUSICBOX SEXY
+http://88.212.15.19:80/live/mb_sexy/index.m3u8
 #EXTINF:0,MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:0,360TuneBox
@@ -427,6 +431,12 @@ http://88.212.15.19:80/live/test_arirang/playlist.m3u8
 http://iptv.prosto.tv:7000/ch310/video.m3u8?secret=191yc7ul
 #EXTINF:0,INFOKANAL ANTIK
 http://88.212.15.19/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="sixx.de@SD",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:29,JASNA BIELA PUT
 https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist_w1917403866.m3u8
 #EXTINF:31,JASNA ZAHRADKY
@@ -437,11 +447,11 @@ https://stream.profi-net.sk/tmr/STREAM6.stream/chunklist_w1269245836.m3u8
 https://stream.profi-net.sk/tmr/STREAM21.stream/chunklist.m3u8
 #EXTINF:0,OPALISKO
 https://kukaj.profi-net.sk/commercial/OPALISKO.stream/chunklist_w281603752.m3u8
-#EXTINF:0,NIZKE TATRY - kamziky
+#EXTINF:0,NIZKE TATRY kamziky
 https://kukaj.profi-net.sk/live/KAMZIKY.stream/chunklist_w366099569.m3u8
-#EXTINF:0,PARTIZANSKA LUPCA - bociany
+#EXTINF:0,PARTIZANSKA LUPCA bociany
 https://kukaj.profi-net.sk/live/BOCIANY_LUPCA.stream%20/chunklist_w1814489146.m3u8
-#EXTINF:0,SPISSKE BYSTRE - bociany
+#EXTINF:0,SPISSKE BYSTRE bociany
 https://kukaj.profi-net.sk/live/BOCIANY_SPISSKEBYSTRE.stream/chunklist_w44212850.m3u8
 #EXTINF:0,TATRALANDIA1
 https://stream.profi-net.sk/tmr//STREAM48.stream/chunklist_w145363969.m3u8
@@ -451,7 +461,7 @@ https://stream2.profi-net.sk/tmr/STREAM12.stream/playlist.m3u8
 https://stream2.profi-net.sk/tmr/STREAM2.stream/playlist.m3u8
 #EXTINF:0,BESENOVA LAZY river
 https://stream2.profi-net.sk/tmr/STREAM51.stream/playlist.m3u8
-#EXTINF:0,LIPTOVSKA MARA - MARINA LIPTOV
+#EXTINF:0,LIPTOVSKA MARA MARINA LIPTOV
 https://stream2.profi-net.sk/live/MARINA.stream/chunklist_w409357769.m3u8
 #EXTINF:31,HREBIENOK
 https://stream.profi-net.sk/tmr/STREAM14.stream/chunklist_w341247000.m3u8
@@ -475,21 +485,21 @@ http://stream.strba.sk:1935/strba/STRB_AREAL.stream/playlist.m3u8
 http://stream.strba.sk:1935/strba/BEZ_AREAL.stream/playlist.m3u8
 #EXTINF:0, Strbske Pleso6
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
-#EXTINF:0, Solisko - Furkotka
+#EXTINF:0, Solisko Furkotka
 http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
 #EXTINF:0,DONOVALY4
 https://stream.profi-net.sk/donovaly/KASA_ZAHRADISTE.stream/chunklist_w1890987052.m3u8
 #EXTINF:0,park tv
 http://88.212.15.19:80/live/test_park_tv/playlist.m3u8
-#EXTINF:0,Barrandovsky  most - Praha
+#EXTINF:0,Barrandovsky  most Praha
 https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
-#EXTINF:0,Letisko Vaclava Havla - Praha
+#EXTINF:0,Letisko Vaclava Havla Praha
 https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
 #EXTINF:0,Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
-#EXTINF:0,Vitznau-Rigi CH
+#EXTINF:0,Vitznau Rigi CH
 https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
-#EXTINF:0,Hrochy - ZOO
+#EXTINF:0,Hrochy ZOO
 https://live.idnes.cz/slow/hrosi_720p/manifest.m3u8
 #EXTINF:0,Krmitko Ohio USA
 https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
@@ -505,7 +515,7 @@ https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 https://webcam.bergregions.insyscd.net/live/meander_aqua_2/index.m3u8
 #EXTINF:0,Kováčová
 https://nstream.tssgroup.cloud/tss/fitechbb/video1.m3u8
-#EXTINF:0,NEW YORK
+#EXTINF:0,NEW YORK Madison Square
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:0,VATIKAN
 http://78.130.250.2:8023/play/a06l/index.m3u8
@@ -541,11 +551,277 @@ http://ice6.abradio.cz/relax-sea128.mp3
 http://ice6.abradio.cz/relax-thunder-rain128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk vtákov
 http://ice6.abradio.cz/relax-morning-birds128.mp3
-#EXTINF:0,Ambient Sleeping Pill [Opt-1]" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations" - #EXTINF:0,Ambient Sleeping Pill [Opt-1]
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc25.jpg",Cesky rozhlas 3 - Vltava (All Format / Classic)
+http://icecast5.play.cz:8000/cro3-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi12.jpg",Impuls Radio  (Pop)
+http://icecast5.play.cz/impuls128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioi13.jpg",Cesky Impuls (Oldies)	
+http://icecast6.play.cz:8000/cesky-impuls.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc24.jpg",Radio Cas (Ostrava)(Pop / Oldies)
+http://icecast7.play.cz:8000/casradio128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc23.jpg",Radio Cas Rock (Rock)
+http://icecast7.play.cz:8000/casrock128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg",Signal Rádio (Pop / Oldies)
+http://icecast1.play.cz/signal128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioj12.jpg",Limonadovy JOE (All Format)
+http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop17.jpg",Proglas (All Format)
+http://icecast2.play.cz/proglas128
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc34.jpg",Classic Praha (Classic)
+http://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radio111.jpg",Radio 1 (Alternative)
+http://icecast6.play.cz/radio1-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioj10.jpg",E-Radio JAZZINEC (Jazz)
+http://ice3.abradio.cz/jazzinec128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh14.jpg",HipHopVibes Radio (Hiphop)
+http://mp3stream4.abradio.cz/hiphopvibes128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiov10.jpg",VPV radio (Zpravodajstvi)
+http://88.99.38.244:8000/stream128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios17.jpg",Radio Samson FM (Country / Folk)
+http://icecast8.play.cz/samsonfm128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radio610.jpg",Radio 66 (Country / Folk)
+http://ice3.abradio.cz/route128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof15.jpg",Radio Folk (Country / Folk)
+http://mp3stream2.abradio.cz/folk128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh13.jpg",Radio Humor (Mluvene slovo)
+http://mp3stream4.abradio.cz:8000/humor128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg",Radio Pohadka (Mluvene slovo)
+http://ice3.abradio.cz/pohadka128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod14.jpg",Radio Domino (Mluvene slovo)
+http://mp3stream4.abradio.cz/domino128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod13.jpg",Radio Dechovka ( Dechovka / Folk )
+http://icecast5.play.cz:8000/dechovka128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioo12.jpg",Oldies radio ( Oldies )
+http://ice.abradio.cz/oldiesradio128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radion13.jpg",Radio Nostalgie ( Dance / Oldies / Pop )
+http://icecast3.play.cz/radio-nostalgie128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok13.jpg",Radio Kiss (Pop / Dance)
+http://icecast4.play.cz:8000/kiss128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok12.jpg",Radio Kromeriz (Pop) 
+http://icecast6.play.cz/radio-kromeriz128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioj11.jpg",Radio JIH (Pop) 
+http://icecast6.play.cz/jih128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioj13.jpg",Radio Jih – Cimbalka (Folk) 
+http://icecast6.play.cz/jihcimbalka128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok11.jpg",Radio Krokodyl (Pop)
+http://icecast4.play.cz/krokodyl128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiot11.jpg",Radio Tloskov (Pop)
+http://ice3.abradio.cz/tloskov128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiov11.jpg",Radio Vysocina (Pop)
+http://ice3.abradio.cz/radiovysocina128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc16.jpg",COOP TIP Radio (Pop)
+http://ice4.abradio.cz/coop128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod12.jpg",DAB Plus Top 40 (Pop / Dance)
+http://icecast6.play.cz/dabplus-top40.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc13.jpg",Radio Cerna Hora (Pop)
+http://ice.abradio.cz/cernahora128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob12.jpg",Radio Blanik (Pop)
+http://ice.abradio.cz/blanikfm128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob12.jpg",Radio Blanik Cz (Pop)
+http://ice.abradio.cz/blanikcz128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc37.jpg",Hitradio City (Praha) (Pop)
+http://ice.abradio.cz/cityfm128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh12.jpg",Hitradio City Osmdesatka (Pop / Oldies)
+http://ice.abradio.cz/city80128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh16.jpg",Hitradio City Devadesatka (Pop / Oldies)
+http://ice.abradio.cz:8000/city90128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh17.jpg",Radio City milenium (Pop / Oldies)
+http://ice.abradio.cz/citymi128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh18.jpg",Hitradio City Zona lasky (Pop / Oldies)
+http://ice.abradio.cz/cityzl128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio PopRock (Pop / Rock)
+http://ice.abradio.cz/hitpoprock128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Zona lasky (Pop / Rock)
+http://ice.abradio.cz/hitzl128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Osmdesatka (Pop / Oldies)
+http://ice.abradio.cz/hit80128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Devadesatka (Pop / Oldies)
+http://ice.abradio.cz/hit90128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio City (Brno) (Pop)
+http://ice.abradio.cz/citybrno128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Dragon (Pop)
+http://ice.abradio.cz/dragon128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio FM Crystal (Pop)
+http://ice.abradio.cz/crystal128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Orion (Pop)
+http://ice.abradio.cz/orion128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio Vysocina (Pop)
+http://ice5.abradio.cz/hitvysocina128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg",Hitradio FM Plus (Pop)
+http://ice.abradio.cz/fmplus128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod11.jpg",Radio Depeche Mode (Solo pro...)
+http://mp3stream4.abradio.cz:8000/depeche128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc18.jpg",Club Radio  (Dance)
+http://icecast2.play.cz:8000/Clubradio.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiof23.jpg",Radio Free 107 Fm (Dance)
+http://icecast8.play.cz/freeradio128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios14.jpg",Radio Spin 96,2 FM (Dance)
+http://icecast4.play.cz/spin128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-id="Dance Radio" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiod10.jpg",Dance Radio (Dance / Electronica)
+http://pool.cdn.lagardere.cz/dance-radio128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios11.jpg",SeeJay Radio (Dance / Electronica)
+http://mp3stream.abradio.cz:8000/seejay128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg",Radio Chillout (Dance / Electronica)
+http://mp3stream4.abradio.cz/chillout128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios10.jpg",Drumandbass Radio SHADOWBOX (Dance / Electronica)
+http://ice3.abradio.cz/shadowbox128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioc10.jpg",Dance Club Radio (Dance / Electronica)
+http://mp3stream4.abradio.cz/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh10.jpg",Helax 93,7 (Dance / Electronica)
+http://ice.abradio.cz:8000/helax128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios13.jpg",Radio Hana - Skyrock (Rock) 
+http://icecast8.play.cz/skyrock128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior22.jpg",RockZone 105,9 (Rock)
+http://icecast2.play.cz/rockzone128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioh20.jpg",HEY Radio (Rock)
+http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob11.jpg",Radio Beat (Rock)
+http://ice5.abradio.cz/beat128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiob10.jpg",Radio Best of Rock (Rock)
+http://mp3stream4.abradio.cz/bestofrock128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiom10.jpg",Metalomanie (Rock)
+http://ice.abradio.cz/metalomanie128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior10.jpg",Rocková zabava (Rock)
+http://ice.abradio.cz/rockzabava128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioz10.jpg",Znamka Punku (Rock)
+http://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioo10.jpg",Radio Oldies Rock (Rock)
+http://ice3.abradio.cz/alternative128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioa10.jpg",Alternative Times Radio (Rock)
+http://ice3.abradio.cz/alternative128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioe16.jpg",WebRadio Epigon (Rock)
+http://mp3stream3.abradio.cz/epigon128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior24.jpg",Radiodrom rock! (Rock)
+http://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg",Rock Radio (Rock)
+http://ice.abradio.cz:80/sumava128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg",Radio Oldies Rock (Rock)
+http://mp3stream4.abradio.cz/oldiesrock128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior18.jpg",Relaxace - Jedouci Vlak (Relaxace) 
+http://ice6.abradio.cz/relax-train128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior19.jpg",Relaxace - Relaxace - More (Relaxace) 
+http://ice6.abradio.cz/relax-sea128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior20.jpg",Relaxace - Letni bourka (Relaxace) 
+http://ice6.abradio.cz/relax-thunder-rain128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior21.jpg",Relaxace - Ohen v krbu (Relaxace) 
+http://ice6.abradio.cz/relax-fire128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior22.jpg",Relaxace - Zpev ptaku (Relaxace) 
+http://ice6.abradio.cz/relax-morning-birds128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Czech Republic" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radiok21.jpg",Radio Koleda (Christmas Radio) 
+http://ice.abradio.cz/koleda128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof18.jpg",Radio FM
+http://live.slovakradio.sk:8000/FM_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof20.jpg",Fun Radio (Pop / Top40 )
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof22.jpg",Fun Radio CZ-SK (Pop / Oldies)
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo=" https://i11.servimg.com/u/f11/19/40/01/67/radiof21.jpg",Fun Radio 80 - 90 roky (Pop / Oldies) 
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof23.jpg",Fun Radio Dance  (Dance) 
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiog10.jpg",G-Radio
+http://88.212.34.18:8050/mp3midband
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioi10.jpg",INRO 
+http://inro.tuzvo.sk:8800/inrosq
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg",Radio Janko Hrasko (Folklor) 
+http://78.24.9.110:31088/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj11.jpg",Radio Jemne  
+http://stream.jemne.sk/jemne-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj12.jpg",Radio Jemne Chillout  
+http://stream.radioservices.sk/chillout.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj13.jpg",Radio Junior   
+http://icecast.stv.livebox.sk/junior_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiok11.jpg",Radio Kiss
+http://stream.radiokiss.sk:8000/kissmp3_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiok12.jpg",Radio Kosice (Pop / Top40 )
+http://194.145.206.131:8000/radiokosice-64.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiol12.jpg",Radio Litera 
+http://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiol10.jpg",Radio Lumen
+http://audio.lumen.sk:8000/live128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiop13.jpg",Radio Patria 
+http://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiop12.jpg",Radio Piestany 
+http://live.radiopiestany.sk:8000/live.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiop11.jpg",Pigy - rozpravkove radio (Mluvene slovo) 
+http://pool.cdn.lagardere.cz/web-pgsk-rozpravky
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiop10.jpg",Radio Plus 
+http://stream.sepia.sk:8000/plus128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior15.jpg",Radio Rapes
+http://158.193.51.60:8000/live.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior14.jpg",Radio Rebeca 
+http://allnet.radionet.sk:8000/radiorebeca.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior10.jpg",Radio Regina Zapad
+http://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior11.jpg",Rockova republika (Rock)
+http://217.67.31.66:8000/republika128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior12.jpg",Radio Roma 
+http://allnet.radionet.sk:8000/radioroma128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior13.jpg",Rusyn FM 
+http://stream.rusyn.fm/rusyny.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios16.jpg",Radio SiTy (Pop / Top40 )
+http://217.73.17.42:8000/hq.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/sk1110.jpg",Radio.sk 
+http://server1.internetoveradio.sk:8819/radiosk
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios17.jpg",SKY Radio 
+http://stream.skyradio.sk:8000/sky128
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios15.jpg",Radio Slovakia International 
+http://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios12.jpg",Radio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios14.jpg",StuRKo
+http://sturko.intrak.upjs.sk:8000/StuRKo_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Slovakia" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiov11.jpg",Radio Vlna
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior17.jpg",Radio RMF FM (Pop / 90s / 00s )
+http://195.150.20.5:8000/rmf_fm
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_15.png",Radio RMF - 80s (Pop / Oldies)
+http://217.74.72.11/80S
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior20.jpg",Radio RMF - 80s Disco (Disco / Oldies)
+http://31.192.216.10/80SDISCO
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_16.png",Radio RMF - 90s (Pop / Oldies)
+http://31.192.216.5:8000/rmf_90s
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_11.png",Radio RMF - 2000 (Pop / Oldies)
+http://195.150.20.7/2000
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_14.png",Radio RMF - Bravo (Dance)
+http://195.150.20.242:8000/rmf_bravo
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_10.png",Radio RMF - Party (Dance)
+http://31.192.216.5:8000/rmf_party
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_18.png",Radio RMF - Dance (Dance)
+http://217.74.72.11:8000/rmf_dance
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_13.png",Radio RMF- Beatlemania (Solo pro...)
+http://195.150.20.8/BEATLEMANIA
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_17.png",Radio RMF - Chillout
+http://217.74.72.4:8000/rmf_chillout
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_19.png",Radio RMF - Rock (Rock)
+http://195.150.20.5:8000/rmf_rock
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radior19.jpg",Radio RMF - Classic Rock (Rock)
+http://31.192.216.5:8000/rmf_classic_rock
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio_20.png",Radio RMF - Love
+http://195.150.20.242:8000/rmf_love
+#EXTINF:-1 $ExtFilter="Radio" group-title="Poland" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radioz13.jpg",Radio ZET Dance (Dance)
+http://zetdan-02.cdn.eurozet.pl:8416/
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/ffh_di10.jpg",FFH Digital
+http://mp3.ffh.de/radioffh/hqlivestream.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg",FFH Eurodance (Dance / Oldies)
+http://mp3.ffh.de/ffhchannels/hqeurodance.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/ffh_di12.jpg",FFH Top 40
+http://mp3.ffh.de/ffhchannels/hqtop40.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/ffh_di13.jpg",FFH Lounge
+http://mp3.ffh.de/ffhchannels/hqlounge.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/ffh_br10.jpg",FFH Brandneu
+http://mp3.ffh.de/ffhchannels/hqbrandneu.aac
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/ffh_di10.jpg",FFH - Die 80-er (Pop / Oldies)
+http://mp3.ffh.de/ffhchannels/hq80er.mp3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/ffh_ju10.jpg",FFH - Just 90s (Pop / Oldies)
+http://mp3.ffh.de/ffhchannels/hq90er.aac
+#EXTINF:-1 $ExtFilter="Radio" group-title="Germany" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/ffh_we10.jpg",FFH - Weinachtsradio
+http://mp3.ffh.de/ffhchannels/hqxmas.aac
+#EXTINF:0,Ambient Sleeping Pill [Opt-1]
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14823
-#EXTINF:0,Ambient Sleeping Pill [Opt-2]" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations" - #EXTINF:0,Ambient Sleeping Pill [Opt-2]
+#EXTINF:0,Ambient Sleeping Pill [Opt-2]
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14824
-#EXTINF:0,Audio Noir Radio" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations" - #EXTINF:0,Audio Noir Radio
+#EXTINF:0,Audio Noir Radio
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14826
 #EXTINF:0,(ILR) Classic FM	
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/14388
@@ -677,5 +953,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-
-
