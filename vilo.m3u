@@ -169,7 +169,7 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:0,PAPRIKA
 http://88.212.15.19:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:0,FOOD NETWORK
-http://hls.sohu.blog/my.php?id=28
+http://84.17.50.102/foodnetwork/index.m3u8
 #EXTINF:0,KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:0,SEZNAM.CZ
@@ -252,6 +252,10 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:0,BBC3 CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+#EXTINF:0,FOX
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:0,CBS
+http://84.17.50.102/cbs/index.m3u8
 #EXTINF:-1 group-title="SPORT ",AUTO MOTO SPORT
 http://88.212.15.19:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",SUPERYACHT
@@ -431,12 +435,16 @@ http://88.212.15.19:80/live/test_arirang/playlist.m3u8
 http://iptv.prosto.tv:7000/ch310/video.m3u8?secret=191yc7ul
 #EXTINF:0,INFOKANAL ANTIK
 http://88.212.15.19/live/test_infokanal_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben (1080p)
+#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SAT1Gold.de@SD",SAT.1 Gold (576p)
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:0,ORF1
+http://147.32.95.18:42666/udp/233.10.47.98:1234
+#EXTINF:0,ORF2
+http://147.32.95.18:42666/udp/233.10.47.99:1234
 #EXTINF:29,JASNA BIELA PUT
 https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist_w1917403866.m3u8
 #EXTINF:31,JASNA ZAHRADKY
