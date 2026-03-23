@@ -130,6 +130,8 @@ http://88.212.15.19:80/live/test_spektrum/playlist.m3u8
 http://88.212.15.19:80/live/test_home_hevc/playlist.m3u8
 #EXTINF:0,HGTV
 http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
+#EXTINF:0,FINE LIVING
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/46700
 #EXTINF:0,SkveleTV
 https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 #EXTINF:0,VIASAT EXPLORE
@@ -212,6 +214,8 @@ http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
 http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0,NAUTICAL CHANNEL
 http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
+#EXTINF:0,BBC EARTH
+http://46.149.191.217:9002/play/a01k
 #EXTINF:0,TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:0,CANAL+ DOMO PL
@@ -299,6 +303,16 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 3" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 3
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309213
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 4" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 4
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309214
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 5" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 5
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309215
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 6" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 6
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309216
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 7" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 7
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309217
 #EXTINF:-1 group-title="SPORT ",PREMIER SPORT 1
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",PREMIER SPORT 2
