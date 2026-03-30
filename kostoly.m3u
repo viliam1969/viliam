@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Trebisov
+http://88.212.15.19/live/test_kostol_trebisov/playlist.m3u8
+#EXTINF:-1,Zdana
+http://88.212.15.19/live/test_zdana/playlist.m3u8
+#EXTINF:-1,Secovce
+http://88.212.15.19/live/test_secovce/playlist.m3u8
+#EXTINF:-1,Terasa Kosice
+http://88.212.15.19/live/test_terasa/playlist.m3u8
+#EXTINF:-1,Nizna Mysla
+http://88.212.15.19/live/test_mysla/playlist.m3u8
+#EXTINF:-1,Kavecany
+http://88.212.15.19/live/test_kavecany/playlist.m3u8
+#EXTINF:-1,Budimir
+http://88.212.15.19/live/test_budimir/playlist.m3u8
+#EXTINF:-1,Myslava
+http://88.212.15.19/live/test_myslava/playlist.m3u8
+#EXTINF:-1,Kosice
+http://www.ikostol.sk/live/kostol_dom/playlist.m3u8
+#EXTINF:-1,Vranov nad Toplou
+https://www.ikostol.sk/live/kostol_vranov/playlist.m3u8
+#EXTINF:-1,Cana
+https://www.ikostol.sk/live/kostol_cana/playlist.m3u8
+#EXTINF:-1,Myslava
+https://www.ikostol.sk/live/kostol_myslava/playlist.m3u8
+#EXTINF:-1,Sastin Straze
+https://www.ikostol.sk/live/sastin/playlist.m3u8
+#EXTINF:-1,Kosice Juh
+https://www.ikostol.sk/live/kostol_milosrdenstva/playlist.m3u8
+#EXTINF:-1,Kosice Dom sv. Alzbety
+https://www.ikostol.sk/live/kostol_dom/playlist.m3u8
