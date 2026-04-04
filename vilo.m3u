@@ -91,7 +91,7 @@ http://88.212.15.17/live/test_prima_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDYQKIAK/753-prima-love-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="496-prima-love",Prima LOVE
 http://88.212.15.19:80/live/test_prima_love_hevc/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus" tvg-logo="https://marhycz.github.io/picons/640/primaplus.png",Prima Plus
+#EXTINF:-1 group-title="České" tvg-id="Prima SK" tvg-name="Prima SK" tvg-logo="https://marhycz.github.io/picons/640/primask.png",Prima SK
 http://88.212.15.19:80/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="220-prima-cool" tvg-logo="https://marhycz.github.io/picons/640/primacool.png",Prima Cool
 http://88.212.15.19:80/live/test_prima_cool_hd_hevc_50/playlist.m3u8
@@ -110,7 +110,7 @@ http://88.212.15.19:80/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="Krimi Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3W5rtnx1/barandov-krimi.png" group-title="Czech/Slovak",Barrandov Krimi
 http://88.212.15.17/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Story4.cz" ,STORY4
-http://87.197.97.129:8001/1:0:16:3CF8:C95:3:EB0000:0:0:0:
+http://178.143.8.242:8001/1:0:16:3CF8:C95:3:EB0000:0:0:0:
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6QOIAK/957-film-europe-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="Film.Europe.+.cz",Film Europe+
 http://185.188.188.237:5000/live/filmeuropeplus/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6AOIAK/956-film-europe-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="570-film-europe",Film Europe
@@ -133,6 +133,8 @@ http://88.212.15.19:80/live/test_home_hevc/playlist.m3u8
 http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Dokumentárne" tvg-id="Fine Living" tvg-name="Fine Living" tvg-logo="https://marhycz.github.io/picons/640/fineliving.png",Fine Living
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/46700
+#EXTINF:-1 group-title="Dokumentárne" tvg-id="Hobby.TV.cz" tvg-name="HobbyTV" tvg-logo="https://marhycz.github.io/picons/640/hobbytv.png",Hobby TV
+http://a4529.alfa48.xyz:80/yildirim241222-2/n6hb9Sab/185925
 #EXTINF:-1 tvg-id="Skvelé.TV.cz" group-title="Lifestyle" tvg-logo="https://marhycz.github.io/picons/640/skveletv.png",SkveleTV
 https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDJAOIAK/978-viasat-explore-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="69-viasat-explorer",Viasat Explore
@@ -159,6 +161,7 @@ http://88.212.15.19:80/live/test_ngc/playlist.m3u8
 http://88.212.15.19:80/live/test_ngw/playlist.m3u8
 #EXTINF:-1 group-title="Dokumentárne" tvg-id="Love.Nature.cz" tvg-logo="https://marhycz.github.io/picons/640/lovenature.png",LOVE NATURE
 http://88.212.15.19:80/live/test_lovenature/playlist.m3u8
+
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDKAOIAK/980-viasat-nature-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="249-viasat-nature",Viasat Nature
 http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 #EXTINF:-1 group-title="Dokumentárne" tvg-id="207-the-fishing-and-hunting" tvg-logo="https://marhycz.github.io/picons/640/fishingandhunting.png",Fishing & Hunting
@@ -172,7 +175,7 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDHQOIAK/975-paprika-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="Paprika.(hu).cz",Paprika TV
 http://88.212.15.19:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/cJcMjpmb/food-network.png" group-title="Czech/Slovak",Food Network
-http://84.17.50.102/foodnetwork/index.m3u8
+http://a4529.alfa48.xyz:80/yildirim241222-2/n6hb9Sab/185920
 #EXTINF:0,KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="1192-seznam.cz-tv" tvg-logo="https://marhycz.github.io/picons/640/seznamtv.png",Seznam.cz TV
@@ -255,10 +258,6 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:0,BBC3 CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0,FOX
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:0,CBS
-http://84.17.50.102/cbs/index.m3u8
 #EXTINF:-1 group-title="Dokumentárne"  tvg-id="704-auto-motor-und-sport-channel",Auto Motor und Sport Channel
 http://88.212.15.19:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",SUPERYACHT
@@ -302,16 +301,6 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 3" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 3
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309213
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 4" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 4
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309214
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 5" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 5
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309215
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 6" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 6
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309216
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Canal+ Sport 7" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Czech Republic",CZ: Canal+ Sport 7
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309217
 #EXTINF:-1 group-title="SPORT ",PREMIER SPORT 1
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",PREMIER SPORT 2
@@ -320,12 +309,6 @@ http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDCQMIAK/837-golf-channel-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="127-golf-channel",Golf channel
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",BEIN Sports 1
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 group-title="SPORT ",BEIN Sports 2
-http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1 group-title="SPORT ",BEIN Sports 3
-http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:-1 group-title="SPORT ",Sky Sports F1
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102172.m3u8
 #EXTINF:-1 group-title="SPORT ",Sky Sports Football
@@ -336,12 +319,6 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/97780.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102178.m3u8
 #EXTINF:-1 group-title="SPORT ",Real Madrid TV
 http://88.212.15.19:80/live/real_madrid_tv/index.m3u8
-#EXTINF:0,Padel Time
-http://88.212.15.19:80/live/padel_time/index.m3u8
-#EXTINF:0,eClutch1
-http://88.212.15.19:80/live/eclutch_1/index.m3u8
-#EXTINF:0,eClutch2
-http://88.212.15.19:80/live/eclutch_2/index.m3u8
 #EXTINF:0,Tanec
 https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
 #EXTINF:0,TV Poprad
@@ -438,8 +415,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:60,Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,Friends
-https://hls.watchfriends.net/hls/friends/master.m3u8
 #EXTINF:0,Pianko
 http://88.212.15.19:80/live/test_pianko/playlist.m3u8
 #EXTINF:0,Arirang Korea
