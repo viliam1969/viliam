@@ -10,7 +10,7 @@ http://88.212.15.19:80/live/test_trojka_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="https://marhycz.github.io/picons/640/markiza.png",Markíza
 http://88.212.15.19:80/live/test_markiza_25p/playlist.m3u8
-#EXTINF:0, tv_id="MarkizaKrimi.sk" site_id="Mark%EDza+KRIMI" tvg-logo="https://marhycz.github.io/picons/640/markizakrimi.png",Markíza Krimi
+#EXTINF:0, tv_id="MarkizaKrimi.sk" tvg-logo="https://picon.cz/markizakrimi.png",Markíza Krimi
 http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="718-wau" tvg-logo="https://marhycz.github.io/picons/640/wautv.png",WAU
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
@@ -20,9 +20,9 @@ http://88.212.15.19:80/live/test_joj_hd_high_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="225-doma" tvg-logo="https://marhycz.github.io/picons/640/doma.png",Doma
 http://88.212.15.19:80/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ_SVET.cz" tvg-name="JOJ SVET" tvg-logo="https://marhycz.github.io/picons/640/jojsvet.png",JOJ SVET
+#EXTINF:-1 tvg-id="JOJ_SVET.cz" tvg-name="JOJ SVET" tvg-logo="JOJ Svet HD.png",JOJ SVET
 http://88.212.15.19:80/live/test_joj_svet/playlist.m3u8
-#EXTINF:0 tvg-id="JOJ.24.cz" tvg-name="JOJ 24" tvg-logo="https://marhycz.github.io/picons/640/joj24.png" ,JOJ24
+#EXTINF:0 tvg-id="JOJ.24.cz" tvg-name="JOJ 24" tvg-logo="JOJ 24 HD.png" ,JOJ24
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD3AKIAK/758-ta3-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="42-ta3",TA3
@@ -45,9 +45,9 @@ http://88.212.15.19:80/live/test_nova_cinema_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD4QGIAK/505-nova-fun-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="707-nova-fun",Nova Fun
 http://88.212.15.19:80/live/test_nova_fun_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi" tvg-logo="https://marhycz.github.io/picons/640/novakrimi.png",Nova KRIMI
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi" tvg-logo="https://marhycz.github.io/picons/1080/novakrimi.png",Nova KRIMI
 http://88.212.15.19:80/live/test_nova_gold_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Warner.TV.cz" tvg-name="WARNER TV" tvg-logo="https://marhycz.github.io/picons/640/warner.png",WARNER TV
+#EXTINF:-1 group-title="Filmové" tvg-id="Warner.TV.cz" tvg-name="WARNER TV" tvg-logo="https://marhycz.github.io/picons/1080/warner.png",WARNER TV
 http://88.212.15.19:80/live/warner_tv/index.m3u8
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO.cz" tvg-logo="https://marhycz.github.io/picons/640/hbo.png",HBO
 http://88.212.15.19:80/live/test_hbo_hd_hevc/playlist.m3u8
@@ -91,7 +91,7 @@ http://88.212.15.17/live/test_prima_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDYQKIAK/753-prima-love-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="496-prima-love",Prima LOVE
 http://88.212.15.19:80/live/test_prima_love_hevc/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima SK" tvg-name="Prima SK" tvg-logo="https://marhycz.github.io/picons/640/primask.png",Prima SK
+#EXTINF:-1 tvg-id="Pn4-V6rFB4T8o7rARC2I9SryjDP6LpwSVAsWc2_1" tvg-logo="Prima SK.png" catchup-days="7" catchup-type="default" catchup-source="plugin://plugin.video.directone/?stationid=Pn4-V6rFB4T8o7rARC2I9SryjDP6LpwSVAsWc2_1&askpin=False&catchup_id={catchup-id}",Prima SK
 http://88.212.15.19:80/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="220-prima-cool" tvg-logo="https://marhycz.github.io/picons/640/primacool.png",Prima Cool
 http://88.212.15.19:80/live/test_prima_cool_hd_hevc_50/playlist.m3u8
@@ -117,7 +117,7 @@ http://185.188.188.237:5000/live/filmeuropeplus/playlist.m3u8
 http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDGAOIAK/972-epic-drama-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1209-epic-drama",Epic Drama
 http://178.143.8.242:8001/1:0:19:3700:C8C:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="Filmové" tvg-id="Canal+.Action.cz" tvg-logo="https://marhycz.github.io/picons/640/canalplusaction.png" ,CANAL+ ACTION
+#EXTINF:-1 group-title="Filmové" tvg-id="Canal+.Action.cz" tvg-logo="CANAL_ Action.png" ,CANAL+ ACTION
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDNQSIAK/1243-travel-channel-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="104-travel-channel",Travel channel
 http://88.212.15.19:80/live/test_travel_channel_hd_hevc/playlist.m3u8
@@ -195,15 +195,14 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0,CARTOONITO
 http://88.212.15.19:80/live/test_boomerang_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.cz" tvg-name="Nickelodeon CZ" tvg-logo="Nickelodeon CZ.png",Nickelodeon CZ
-http://88.212.15.19:80/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="nLXHAUXpmep8G_rhosyMRLxXAdvuTnfLdYbrxs6v" tvg-logo="Nickelodeon CZ.png" catchup-days="7" catchup-type="default" catchup-source="plugin://plugin.video.directone/?stationid=nLXHAUXpmep8G_rhosyMRLxXAdvuTnfLdYbrxs6v&askpin=False&catchup_id={catchup-id}",Nickelodeon CZhttp://88.212.15.19:80/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick Jr..cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/W4v9Ms9D/nick_jr.png" group-title="Czech/Slovak",Nick Jr.
 http://88.212.15.19:80/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 group-title="Detské" tvg-id="137-jim-jam" tvg-logo="https://marhycz.github.io/picons/640/jimjam.png",Jim Jam
 http://88.212.15.19:80/live/test_jim_jam/playlist.m3u8
-#EXTINF:-1 tvg-id="jojko.sk" tvg-name="Jojko" tvg-logo="Jojko.png",Jojko
+#EXTINF:-1 tvg-id="I7pkoeQ8QlkWCMWwkcFM40_vTTYwRWmKa8rWMmAl" tvg-logo="Jojko.png" catchup-days="7" catchup-type="default" catchup-source="plugin://plugin.video.directone/?stationid=I7pkoeQ8QlkWCMWwkcFM40_vTTYwRWmKa8rWMmAl&askpin=False&catchup_id={catchup-id}",Jojko
 http://88.212.15.19:80/live/test_jojko_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="minimax.cz" tvg-name="Minimax" tvg-logo="Minimax.png",Minimax
+#EXTINF:-1 tvg-id="RwUo7XpUgl3QOx5OFInh3I4cL5SRf1d9OUKEsAnT" tvg-logo="Minimax.png" catchup-days="7" catchup-type="default" catchup-source="plugin://plugin.video.directone/?stationid=RwUo7XpUgl3QOx5OFInh3I4cL5SRf1d9OUKEsAnT&askpin=False&catchup_id={catchup-id}",Minimax
 http://88.212.15.19:80/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/DyYkd4sS/nicktoons.png" group-title="Czech/Slovak",Nicktoons
 http://88.212.15.19:80/live/test_nicktoons/playlist.m3u8
@@ -221,7 +220,7 @@ http://46.149.191.217:9002/play/a01k
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 group-title="Poľské" tvg-logo="https://marhycz.github.io/picons/640/canalplusdomo.png",CANAL+ DOMO PL
 https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusdomohdraw/canalplusdomohdraw.mpd
-#EXTINF:-1 group-title="Poľské" tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png",TVP INFO
+#EXTINF:-1 group-title="Poľské" tvg-logo="https://marhycz.github.io/picons/1080/tvpinfo.png",TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 group-title="Poľské" tvg-logo="https://marhycz.github.io/picons/640/tvpworld.png",TVP WORLD
 http://88.212.15.19:80/live/test_tvp_world/playlist.m3u8
@@ -233,13 +232,13 @@ http://88.212.15.19:80/live/test_cnn_1200_atk/playlist.m3u8
 http://88.212.15.17/live/test_euronews/playlist.m3u8
 #EXTINF:0,SKYNEWS
 http://88.212.15.17/live/test_skynews/playlist.m3u8
-#EXTINF:0,FRANCE24
-https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="vJAad-8fXo3ZajQnHjSxQEgDFrE-95Pe_B24kB6J" tvg-logo="France 24 _in 
+ish_.png",France 24 (in English)https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:0,TRT WORLD
 http://88.212.15.19:80/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0,CGTN
 http://88.212.15.17/live/test_cgtn/playlist.m3u8
-#EXTINF:0,Newsmax
+#EXTINF:-1 tvg-id="M7Xv6_N9CDQHvVP0aJKDHOuJCResQZjTIg-pigWP" tvg-logo="Newsmax HD.png",Newsmax HD
 https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0,UATV
 http://88.212.15.17/live/test_uatv/playlist.m3u8
@@ -265,9 +264,9 @@ http://88.212.15.19:80/live/test_ams/playlist.m3u8
 http://88.212.15.19:80/live/test_superyacht/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC3AMIAK/822-sport.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1512-rtvs-sport",:Šport
 http://88.212.15.19:80/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="2458874496" tvg-logo="jojsporthd.png" ,JOJ Sport HD
+#EXTINF:-1 tvg-id="2458874496" tvg-logo="JOJ Sport HD" ,JOJ Sport HD
 http://88.212.15.19:80/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",JOJ SPORT2
+#EXTINF:-1 group-title="SPORT " tvg-logo="JOJ Sport 2",JOJ SPORT2
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/joj_sport2-720.m3u8
 #EXTINF:-1 group-title="Sportovní" tvg-id="75-sport1",Sport 1
@@ -300,7 +299,7 @@ http://88.212.15.19:80/live/test_arenasport_dva/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDPASIAK/1246-eurosport-2-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="59-eurosport-2",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",CANAL+ SPORT2 
+#EXTINF:-1 group-title="SPORT" tvg-logo="CANAL_ Sport 2.png",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",PREMIER SPORT 1
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
@@ -356,7 +355,7 @@ https://live.tvdoktor.sk/high/index.m3u8
 http://88.212.15.19:80/live/test_lux_hevc/playlist.m3u8
 #EXTINF:0,NOE
 http://88.212.15.19:80/live/test_noe_hevc/playlist.m3u8
-#EXTINF:0,English Club
+#EXTINF:-1 tvg-id="USD5Yoto772mOG-dRpONh_z66EKE8udfsF-io6Bb" tvg-logo="English Club TV.png",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:0,FashionBox
 http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
@@ -384,15 +383,15 @@ http://88.212.15.19:80/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,STINGRAY iconcerts
 http://88.212.15.19:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-name="Óčko" group-title="Hudba",Óčko
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-id="jYZN6FfHJXAGhbgiTcrfgXFUPaZbUvkuIKgAHbXk" tvg-logo="OCKO.png",Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-id="Óčko.EXPRES.HD.cz" tvg-name="Óčko Expres HD" group-title="Hudba",Óčko Expres HD
+#EXTINF:-1 tvg-id="zolnIsTHJy7ZoRLgEInTDgfHNrQ7nBhDM0Roafg-" tvg-logo="Ocko Expres HD.png",Ocko Expres HD
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-id="Óčko.STAR.HD.cz" tvg-name="Óčko Star HD" group-title="Hudba",Óčko Star HD
+#EXTINF:-1 tvg-id="Q-rDCjC6ITWDtfSRoZqq50sPsCXlgeyE6ivy0Frb" tvg-logo="OCKO STAR.png",OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDDAMIAK/838-ocko-black-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1242-ocko-black",Ocko Black
 http://88.212.15.19:80/live/test_ocko_black/playlist.m3u8
-#EXTINF:0,Retro Music TV
+#EXTINF:-1 tvg-id="lx0FN9A_KVIVEolqyR65aRh3VsrGh3UvwvdjgMdd" tvg-logo="Retro Music TV.png",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0,OIK TV
 http://streamer05.low-latency.cz/oiktv/index.m3u8
