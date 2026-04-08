@@ -109,7 +109,7 @@ http://88.212.15.19:80/live/test_barrandov/playlist.m3u8
 http://88.212.15.19:80/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="Krimi Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3W5rtnx1/barandov-krimi.png" group-title="Czech/Slovak",Barrandov Krimi
 http://88.212.15.17/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Story4.cz" ,STORY4
+#EXTINF:-1 group-title="České" tvg-id="Story4.cz" tvg-logo="1_0_16_3CF8_C95_3_EB0000_0_0_0.png" ,STORY4
 http://178.143.8.242:8001/1:0:16:3CF8:C95:3:EB0000:0:0:0:
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6QOIAK/957-film-europe-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="Film.Europe.+.cz",Film Europe+
 http://185.188.188.237:5000/live/filmeuropeplus/playlist.m3u8
@@ -141,7 +141,7 @@ https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 group-title="Dokumentárne" tvg-id="549-tlc" tvg-logo="https://marhycz.github.io/picons/640/tlc.png",TLC
 http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne" tvg-id="Kanal.1.cz" tvg-logo="https://marhycz.github.io/picons/640/kanal1.png",Kanal1
+#EXTINF:-1 group-title="Dokumentárne" tvg-id="Kanal.1.cz" tvg-logo="https://marhycz.github.io/picons/1080/kanal1.png",Kanal1
 http://88.212.15.19:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="Dokumentárne" tvg-id="History.HD.UK.cz" tvg-logo="https://marhycz.github.io/picons/640/history.png",History
 http://88.212.15.19:80/live/test_history/playlist.m3u8
@@ -167,7 +167,7 @@ http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 http://88.212.15.19:80/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDMASIAK/1240-animal-planet-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="28-animalplanet",Animal Planet
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/haha.png",HAHA TV
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/1080/haha.png",HAHA TV
 http://88.212.15.19:80/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/mnau.png" ,MNAU
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
