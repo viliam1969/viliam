@@ -10,7 +10,7 @@ http://88.212.15.19:80/live/test_trojka_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="https://marhycz.github.io/picons/640/markiza.png",Markíza
 http://88.212.15.19:80/live/test_markiza_25p/playlist.m3u8
-#EXTINF:0, tv_id="MarkizaKrimi.sk" tvg-logo="https://picon.cz/markizakrimi.png",Markíza Krimi
+#EXTINF:0, tv_id="MarkizaKrimi.sk" tvg-logo="https://marhycz.github.io/picons/1080/markiza.png", Markíza Krimi
 http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="718-wau" tvg-logo="https://marhycz.github.io/picons/640/wautv.png",WAU
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
