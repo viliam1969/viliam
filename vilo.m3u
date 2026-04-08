@@ -4,7 +4,7 @@
 http://88.212.15.19:80/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDVQKIAK/747-dvojka-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="11-stv2",Dvojka
 http://88.212.15.19:80/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD3QKIAK/759-24-rtvs.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1324-rtvs-24",:24 (RTVS)
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD3QKIAK/759-24-rtvs.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1324-rtvs-24",:24
 http://88.212.15.19:80/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Dajto.cz" tvg-logo="http://4.bp.blogspot.com/-OujRadr7UqE/UDVZoXH8f1I/AAAAAAAAL2Q/n2UJxl90_7c/s320/Dajto+logo+2012.png",Dajto
 http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
@@ -20,9 +20,9 @@ http://88.212.15.19:80/live/test_joj_hd_high_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="225-doma" tvg-logo="https://marhycz.github.io/picons/640/doma.png",Doma
 http://88.212.15.19:80/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ_SVET.cz" tvg-name="JOJ SVET" tvg-logo="JOJ Svet HD.png",JOJ SVET
+#EXTINF:-1 tvg-id="BcXiTzVt28EbDQSXDKo_P1aX9E0o0sl6ASinT0Js" tvg-logo="JOJ Svet HD.png",JOJ Svet 
 http://88.212.15.19:80/live/test_joj_svet/playlist.m3u8
-#EXTINF:0 tvg-id="JOJ.24.cz" tvg-name="JOJ 24" tvg-logo="JOJ 24 HD.png" ,JOJ24
+#EXTINF:-1 tvg-id="yqiFOx2nt1vT3kFJk4B0xT1FsAKPVYRchWUvrScw" tvg-logo="JOJ 24 HD.png" catchup-days="7" catchup-type="default" catchup-source="plugin://plugin.video.directone/?stationid=yqiFOx2nt1vT3kFJk4B0xT1FsAKPVYRchWUvrScw&askpin=False&catchup_id={catchup-id}",JOJ 24 
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD3AKIAK/758-ta3-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="42-ta3",TA3
@@ -47,7 +47,7 @@ http://88.212.15.19:80/live/test_nova_lady_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_nova_fun_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Filmové" tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi" tvg-logo="https://marhycz.github.io/picons/1080/novakrimi.png",Nova KRIMI
 http://88.212.15.19:80/live/test_nova_gold_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Warner.TV.cz" tvg-name="WARNER TV" tvg-logo="https://marhycz.github.io/picons/1080/warner.png",WARNER TV
+#EXTINF:-1 group-title="Filmové" tvg-id="Warner.TV.cz" tvg-name="WARNER TV" tvg-logo="https://marhycz.github.io/picons/1080/warnertv.png",WARNER TV
 http://88.212.15.19:80/live/warner_tv/index.m3u8
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO.cz" tvg-logo="https://marhycz.github.io/picons/640/hbo.png",HBO
 http://88.212.15.19:80/live/test_hbo_hd_hevc/playlist.m3u8
