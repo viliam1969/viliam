@@ -47,7 +47,7 @@ http://88.212.15.19:80/live/test_nova_lady_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_nova_fun_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Filmové" tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi" tvg-logo="https://marhycz.github.io/picons/1080/novakrimi.png",Nova KRIMI
 http://88.212.15.19:80/live/test_nova_gold_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Warner.TV.cz" tvg-name="WARNER TV" tvg-logo="https://marhycz.github.io/picons/1080/warnertv.png",WARNER TV
+#EXTINF:-1 group-title="Filmové" tvg-id="Warner.TV.cz" tvg-name="WARNER TV" tvg-logo="http://play.wisp.cat/logos/2211.png",WARNER TV
 http://88.212.15.19:80/live/warner_tv/index.m3u8
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO.cz" tvg-logo="https://marhycz.github.io/picons/640/hbo.png",HBO
 http://88.212.15.19:80/live/test_hbo_hd_hevc/playlist.m3u8
@@ -169,6 +169,8 @@ http://88.212.15.19:80/live/test_fishing_hunting/playlist.m3u8
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/1080/haha.png",HAHA TV
 http://88.212.15.19:80/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Strike.TV.cz",Strike TV 
+http://lb.wisp.cat/lb0/CZ_Strike_TV/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/mnau.png" ,MNAU
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDHQOIAK/975-paprika-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="Paprika.(hu).cz",Paprika TV
@@ -301,10 +303,32 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="CANAL_ Sport 2.png",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",PREMIER SPORT 1
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/2772.png" tvg-id="Canal+.Sport.3.cz",Canal+ Sport 3
+http://lb.wisp.cat/lb0/Canal_plus_Sport_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/2773.png" tvg-id="Canal+.Sport.4.cz",Canal+ Sport 4
+http://lb.wisp.cat/lb0/Canal_plus_Sport_4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/2774.png" tvg-id="Canal+.Sport.5.cz",Canal+ Sport 5
+http://lb.wisp.cat/lb0/Canal_plus_Sport_5_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-id="Canal+.Sport.6.cz",Canal+ Sport 6 
+http://lb.wisp.cat/lb0/Canal_plus_Sport_6_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-id="Canal+.Sport.7.cz",Canal+ Sport 7
+http://lb.wisp.cat/lb0/Canal_plus_Sport_7_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-id="Canal+.Sport.8.cz",Canal+ Sport 8
+http://lb.wisp.cat/lb0/Canal_plus_Sport_8_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/1771.png" tvg-id="Oneplay.Sport.1.cz",Oneplay Sport 1
+http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/1773.png" tvg-id="Oneplay.Sport.2.cz",Oneplay Sport 2
+http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/1499.png" tvg-id="Oneplay.Sport.3.cz",Oneplay Sport 3
+http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://play.wisp.cat/logos/2725.png" tvg-id="Oneplay.Sport.3.cz",Oneplay Sport 4
+http://lb.wisp.cat/lb0/Oneplay_Sport_4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="SPORT " tvg-id="Premier.Sport.1.cz" tvg-logo="https://marhycz.github.io/picons/640/premiersport1.png",PREMIER SPORT 1
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",PREMIER SPORT 2
+#EXTINF:-1 group-title="SPORT " tvg-id="Premier.Sport.2.cz" tvg-logo="https://marhycz.github.io/picons/640/premiersport2.png",PREMIER SPORT 2
 http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT " tvg-id="Premier.Sport.3.cz" tvg-logo="https://marhycz.github.io/picons/640/premiersport3.png",PREMIER SPORT 3
+http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 group-title="SPORT ",Tennis
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDCQMIAK/837-golf-channel-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="127-golf-channel",Golf channel
