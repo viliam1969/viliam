@@ -391,8 +391,7 @@ http://88.212.15.19:80/live/test_rai_uno_tizen/playlist.m3u8
 http://88.212.15.19:80/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rebel.png" tvg-id="Rebel.cz" group-title="Hudobné" tvg-country="CZ",REBEL
 http://88.212.15.19:80/live/test_rebel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12158" tvg-id="
-.Box.Hits.cz" group-title="Hudobné" tvg-country="E",MUSICBOX HITS
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12158" tvg-id="Music.Box.Hits.cz" group-title="Hudobné" tvg-country="E",MUSICBOX HITS
 http://88.212.15.19:80/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12160" tvg-id="Music.Box.Dance.cz" group-title="Hudobné" tvg-country="E",MUSICBOX DANCE
 http://88.212.15.19:80/live/mb_dance/index.m3u8
