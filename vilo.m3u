@@ -11,7 +11,7 @@ http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=9415" tvg-id="Markíza.KRIMI.cz" group-title="Filmové" tvg-country="SK",Markíza Krimi
 http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/wauhd.png" tvg-id="WAU.cz" group-title="Filmové" tvg-country="SK",WAU
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12482" tvg-id="JOJ.Krimi,cz" group-title="Filmové" tvg-country="SK",JOJ Krimi
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojhd.png" tvg-id="JOJ.cz" group-title="Filmové" tvg-country="SK",JOJ
 http://88.212.15.19:80/live/test_joj_hd_high_hevc/playlist.m3u8
@@ -130,8 +130,6 @@ http://88.212.15.19:80/live/test_spektrum/playlist.m3u8
 http://88.212.15.19:80/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8325" tvg-id="HGTV.cz" group-title="Dokumentárne" tvg-country="CZ",HGTV
 http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/fineliving.png" tvg-id="Sky.Living.HD.cz" group-title="Dokumentárne" tvg-country="CZ",Fine Living
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/46700
 #EXTINF:-1 tvg-logo="https://digitalne.ellano.sk/images/hobbytv.png" tvg-id="Hobby.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Hobby TV
 http://a4529.alfa48.xyz:80/yildirim241222-2/n6hb9Sab/185925
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11727" tvg-id="Skvelé.TV.cz" group-title="Dokumentárne" tvg-country="SK",SkveleTV
@@ -212,16 +210,12 @@ http://88.212.15.19:80/live/test_nicktoons/playlist.m3u8
 http://88.212.15.19:80/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/docubox.png" tvg-id="DocuBox.HD.cz" group-title="Dokumentárne" tvg-country="ENG",DOCUBOX
 http://88.212.15.17/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/outdoorchannel.png" tvg-id="Outdoor.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",OUTDOOR CHANNEL
-http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nauticalhd.png" tvg-id="Nautical.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",NAUTICAL CHANNEL
 http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="PL",BBC EARTH
 http://46.149.191.217:9002/play/a01k
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpolonia.png" tvg-id="Polonia.cz" group-title="Filmové" tvg-country="PL",TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/canalplusdomo.png" tvg-id="Canal+.Domo.cz" group-title="Dokumentárne" tvg-country="PL",CANAL+ DOMO PL
-https://liveovh009.cda.pl/ajbTaU7DSSfSeeVbGGuHCw/1767075029/33/enc128/canalplusdomohdraw/canalplusdomohdraw.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/TVP_World_%282021%29.svg" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
@@ -242,7 +236,7 @@ http://88.212.15.19:80/live/test_trt_world_atktv/playlist.m3u8
 http://88.212.15.17/live/test_cgtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11735" tvg-id="Newsmax.TV.cz" group-title="Spravodajské" tvg-country="ENG",Newsmax
 https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7713" tvg-id="Ukraine.1.cz" group-title="Spravodajské" tvg-country="UA",UATV
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10807" tvg-id="Freedom.cz" group-title="Spravodajské" tvg-country="UA",Freedom
 http://88.212.15.17/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/espresso_tv_4-yy_logotip_zelenyy.png?Xevrfskxt9JZBbQIdC.JA4IzLagTljQ9&itok=26lWgs7v" tvg-id="Espreso.TV.cz" group-title="Spravodajské" tvg-country="UA",Espresso
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
@@ -250,16 +244,6 @@ https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
 http://88.212.15.19:80/live/bbc_first/index.m3u8
-#EXTINF:-1 tvg-logo="https://smallimg.pngkey.com/png/small/49-498402_itv2-2015-blue-colored-gradient-itv2-logo-png.png" tvg-id="ITV2.cz" group-title="Filmové" tvg-country="ENG",ITV2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/itv3-logo-png_seeklogo-458197.png" tvg-id="ITV3.cz" group-title="Filmové" tvg-country="ENG",ITV3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/itv4-logo-png_seeklogo-458199.png" tvg-id="ITV4.cz" group-title="Filmové" tvg-country="ENG",ITV4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1042.1635541150.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC2
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/cbbc-logo-png_seeklogo-475471.png" tvg-id="CBBC.cz" group-title="Filmové" tvg-country="ENG",BBC3 CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/automotorsport.png" tvg-id="Auto.Motor.Sport.cz" group-title="Športové" tvg-country="CZ",Auto Motor Sport Channel
 http://88.212.15.19:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11728" tvg-id="Superyacht.cz" group-title="Športové" tvg-country="ENG",SUPERYACHT
@@ -333,12 +317,6 @@ http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/golfchannel.png" tvg-id="Golf.Channel.cz" group-title="Športové" tvg-country="CZ",Golf channel
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" tvg-id="Sky.Sports.F1.cz" group-title="Športové" tvg-country="ENG",Sky Sports F1
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102172.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" tvg-id="Sky.Sports.Football.cz" group-title="Športové" tvg-country="ENG",Sky Sports Football
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/102175.m3u8
-#EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/09/nhl-tv-vector-logo.png" tvg-id="NHL.cz" group-title="Športové" tvg-country="ENG",NHL
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/97780.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12502" tvg-id="Real.madrid.cz" group-title="Športové" tvg-country="ENG",Real Madrid TV
 http://88.212.15.19:80/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12283" tvg-id="Tanec.cz" group-title="Iné" tvg-country="SK",Tanec
@@ -381,6 +359,10 @@ http://88.212.15.19:80/live/test_lux_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_noe_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7810" tvg-id="English.Club.TV.cz" group-title="Iné" tvg-country="ENG",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2023/09/lang-lab-720x420.jpg" tvg-id="LangLab.cz" group-title="Iné" tvg-country="ENG",Langlabs
+http://88.212.15.19:80/live/langlabs/index.m3u8
+#EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2023/09/LINGO-TOONS_logo1-720x420.jpg" tvg-id="LingoToons.cz" group-title="Iné" tvg-country="ENG",Lingotoons
+http://88.212.15.19:80/live/lingotoons/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png?_=20191110105547" tvg-id="FashionBox.HD.cz" group-title="Móda" tvg-country="ENG",FashionBox
 http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11724" tvg-id="FashionTV.cz" group-title="Móda" tvg-country="ENG",FashionTV
@@ -441,8 +423,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/NOW_90s_%26_00s.png" tvg-id="Now.90.cz" group-title="Hudobné" tvg-country="ENG",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12266" tvg-id="Pianko.cz" group-title="Iné" tvg-country="SK",Pianko
-http://88.212.15.19:80/live/test_pianko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7937" tvg-id="Arirang.cz" group-title="Spravodajské" tvg-country="Korea",Arirang Korea
 http://88.212.15.19:80/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D_dS13cUyTcXM3BjR9BaF-B_MLvzO9_Oq-EafTQvaZgi54MLQ5CSm2I3SSqJdwSSjvoY=w240-h480-rw" tvg-id="Aquarium.cz" group-title="Iné" tvg-country="UA",AQUARIUM
