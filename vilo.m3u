@@ -11,6 +11,8 @@ http://88.212.15.19:80/live/test_dajto_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=9415" tvg-id="Markíza.KRIMI.cz" group-title="Filmové" tvg-country="SK",Markíza Krimi
 http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11007" tvg-id="Markíza.KLASIK.cz" group-title="Filmové" tvg-country="SK",Markíza Klasik
+http://178.143.8.242:8001/1:0:16:3C2B:C90:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12482" tvg-id="JOJ.Krimi,cz" group-title="Filmové" tvg-country="SK",JOJ Krimi
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojhd.png" tvg-id="JOJ.cz" group-title="Filmové" tvg-country="SK",JOJ
@@ -130,6 +132,8 @@ http://88.212.15.19:80/live/test_spektrum/playlist.m3u8
 http://88.212.15.19:80/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8325" tvg-id="HGTV.cz" group-title="Dokumentárne" tvg-country="CZ",HGTV
 http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/fineliving.png" tvg-id="Sky.Living.HD.cz" group-title="Dokumentárne" tvg-country="CZ",Fine Living
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/46700
 #EXTINF:-1 tvg-logo="https://digitalne.ellano.sk/images/hobbytv.png" tvg-id="Hobby.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Hobby TV
 http://a4529.alfa48.xyz:80/yildirim241222-2/n6hb9Sab/185925
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11727" tvg-id="Skvelé.TV.cz" group-title="Dokumentárne" tvg-country="SK",SkveleTV
@@ -164,6 +168,8 @@ http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 http://88.212.15.19:80/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/animalplanet.png" tvg-id="Animal.Planet.cz" group-title="Dokumentárne" tvg-country="CZ",Animal Planet
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/jpg/01/10/02/71/1000_F_110027197_b3UsmkUaTnDsGW2HanCrW95kXlJUUYYw.jpg" tvg-id="Wild.Nature.cz" group-title="Dokumentárne" tvg-country="ENG",Wild Nature
+https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7817" tvg-id="HaHa.TV.cz" group-title="Iné" tvg-country="SK",HAHA TV
 http://88.212.15.19:80/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parabola.cz/img_magazin/2022/logo-strike-tv.jpg" tvg-id="Strike.TV.cz" group-title="Iné" tvg-country="SK",Strike TV 
@@ -212,8 +218,16 @@ http://88.212.15.19:80/live/test_lala_25p/playlist.m3u8
 http://88.212.15.17/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nauticalhd.png" tvg-id="Nautical.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",NAUTICAL CHANNEL
 http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ4AAACUCAMAAABV5TcGAAAAb1BMVEX///8EQSMAQCEAPh4ANAkAOBMAKwAALQAAPBsAKQAAMgDl6ecALwAAJwD19/bEzMfc4d7P1tKyvbaVpJtRbVyir6d0iXweSzG9xsDt8O47XUhrgnRcdmaBk4hIZ1QwVj8AIAAAHAAAAwAADAAAFADSHeU6AAAPbElEQVR4nO1c65ajPK4tjA2GAOESIORC+jtn3v8ZhwRJlo2p5PRKnaqZQn96dcoxtixvbW2bfHxsttlmm2222WabbbbZZpttttlmm2222WabbbbZZpttttlmm2222WY/14rvHsCPsuZP+d1D+Dk2jGmYbf4Aa2MdBJs/ZqsDKYLJRLz5o2j7LAxmE788PorjOZLojMnC/Lfml6Gsr2OUKmGcEYio+u5h/f+bus9cxXGqdGCZyH+hNz7Ew4KFieQ3euNj6QiIjf13j+xbbM0bx+8e2PeY3x1J/d3j+ibzeiNqvntY32W4OzQjHNn1u0f1bZZEkyV/9OFC/pDn7x7U91mxm+zOPnvMtury3WN62eovo80nZGHq9FWPeLuV/2Td19RVnQRv6N7v8eEHsrJOCRWNX0AJ2gghVQ7eBkX/MmcvymPdNm29371vfP4HZff9rTP1blZQ5US//JMuei3iF/yxq899FqdSKimzSI7NV2oELUR09GYCXUiE0WjF0Tf1Qk1XtLdcKlYACS2jvv0yuAvmXBj2b+73hjCarhCO06Pu/Tw+dl3MxRK0UKbN1zikioEXtO/t94owqg7+BgcFq72ugBRdrjx18QxH8kso/0XDoN7r7WOCC7kSdRd01zp5b1Pl98U84vjw/gDZAfqr7q3dDimsqkj8SeWa4bTW6GoxZiuRgabU2zH1CguQvLdn4l+JH6CbGOekVwjaPrWFNKHV3SwgCd+uGAD86/GtvTYpDDj1b4Q6oVkqf8S3OQsNodJcH7rr9Xo+5RmDE5G/F0BqGHf6WrevPhwZx4qXK5rrmlrYxcYZYaq6o9lyVZdSCg/E//j34l/aLYRIfKn18R/xWsKHkBbS23pnQCHzR88lNc6Ib+4iFK16npX+xjDLqteUmVFP+a15YT0QOLyDLYwKshI9B8o6gQy88NAl4pPY+ls7g5fzl0KuTB77OLo+bf3p0hM/W4sek4NFvqYZ7bPw7Wc2QwJA+poY0SkAtuT6ZMvMvfpzxsWQici/8rRTtFqf707rd59SNFiuvNRvQVteqCcc9tEo8xafhnAEyss4TA5WJ+713VTS1pX5ZHDZ/d9QhaJgj4CUFd6eNXxYa3Z0INL+s6ffm8Rej9W56cObY00DyWK26sJoKmmngvZAEeV8u/yjmv9T9V82hzDKs/4C8tcRonLB/nftJYjzpL9YeURKzhLD1W398XCH9pYqZWL68G4V0yA1sXO8xUg2hI5P3oXYSTHB2oVHTFFW6/6pb5HSU6diqpDjx1RGKFdSu2F1SKR+ALeWHA1319hySHZaRZB7ReHDW5ZU/IBVBNjAxMZujCwuqnNP3MEXddzjH+sxz7JE+CvfvblicZ+onECqxHLFWubhkmvesGfTKhrN/aHDNedPvvJulZPp2l/MYJnL6uA2cY69p68uUlbRkyo7u3EfZHqegPSUCefEUQ1EfsRyJeeT2mdOFalDPuwi438L0xV/rGSVjqGP9GXhFrs33z/HnkLOrVWMN6D4YvMV/7iJYhcsK+UpQODJPGibfPFwzYG2ltbfQu3fL7aL6cuR+aaXBxNwhCH2O9oPpMFbz2XeeBC7Xc/nGwb2U6rIIyiRxSyYeKlAlrK4vzk9aV9SmlDXB7McRoPMV/70SO4jQMvixuY11bT0dGuDM28E9+xbxfYoMyuWjn8+0w24PNPxrWDKJAO1SOpNtPkxwrf0heBXonyiEAlodLbNvaGzQ3fDiYrYhMdOGG/cOcPejXDLd0f2V5UmcWSlBy4KMoak00hFOBbjXZDOAnmNMPGlXvLg+ezAA9gXHCUyDtl5vqIe2leJAWQ6qFLm5qkyPy72O4eDyoSoTs774mNouT9EZOZgRIh4nBoWTeZ4l6Sz88cRu31VY2145HmDA2dKrPCaLr8xSKeucIQRFhsCuQpzx2CYdXyBHFEy1c0EUkn9aA1wArmHuoOi5UHq9+CaF4WjyrDRwC+vYMUQ5AAce/4V8noDhVM4//ccBVYrA1BaNnBCzDYLlY+CnXZcWRWFKaAgnDKlQjUvTwhZbwCHzf+HTlh4fWKFfX0wXLbY4eRRQBssqTRFwMcIze5rW1opZGKYJaVldRo+4HTGbKwzujzkMmtFgWuotIcAYZWCjdCLc/cDdPLSPdHRGrZPXjnAuhHjOFjsy+AXeCme1rFx2JQ49URqD8ZzMS65kfclJwI7irAMKUpNOYMF/2nuHFT2ATwPebwAsfwVrcQCDu9XjvB8keycAQV8DB+U67OyvEkXNOmw7kHxYTUJqOhc0Ln6TO6glhSZHOT2eCI1BxsGB2xjlFmT596wgcNbrYSIzBA4BZ1MwD+0q8Ed4fgJm5oLHlxNhA4Uu1wRjTYLARRqMiJjC4fl1LyYA+TWCb2tYT2/uVGEn9GihyGO0mqg7wVCWhiAP9BBps+FW+YIH3CvwOQpkbsqHSoXRLAq3FQJG+nFZvFnOzgwur21h20Xu0QQctECQZqEqF1CHyARDpPrI8TtSLuP4OD4A+7WwCwJt7GjxSkpzozCiFqyszjS6OaiCH2LxQaAloieQkfrMH+PCIYOoytTNMLuo8VxCBXL28ktE0Red3bJi3drAItxknWG3bjYjxsV9yO1ZAmQCDsMEcQRZOX4led3vnaRA3jpYq9gcFLRj1n3Uar1xgEidPZdEEbHIrE+EZA1UMvEvYLdxC7nKWG5KMtiS3PFY6BKEnQcBHoh5gaI4flThZKWk2B9kZmxCW08RI5H9Vguq2wyGZSGv4FLYfr7ecEwmjEvLKUHfBj6be+6ZwpQij9gb0ijgNIg+jwPDnOx4SZWxoORZipxSCsArPWaP3R+39yh9dcIswPMErcmKk/L9VPWw4xISHvnxo7JZjRBeo71BHoneSbW7jGSVQdbfMnBsLMYdxH6B+lknftyqo4equnR4jTS5SdQD5QwjiVwueey1p2GYn+VrEQExdJkntm3FBzPrkFgxXVfedgtqSvWYbCb6gdAUFC0lH3qBIhQ+Vjxxm4fBcAPUNL1mwoYDAqHgyt/uIx9Yr2cJKF3TO3oW5BMn6cVBOApRhHaXI0Uya5R0Ar4hBfLbRArtiuEvsK8dhxIWdYAboVYB/C41PcXijHJwVprew0yQAaicyBuYO5Tz66Z08WGKR8BgLu6vUmyFGkQvo6zq+stw33B/nTlpIbdu8N662xNeskAcW5UHDBVwbIwh11OGidKX69yjgpz7D2G91AeO4IAJVmTcFBXWJ7UHHFfGQTnyjKnm4B2EGFIyZTbI9KARZZ1TMgAGWLGJvWYAZ77PwkOOlV50AdQnd2CZZFk6SOPsITpwZyici3boptQsABSgYy3xDoMDgTS2i42qeuE5moEXQgGRLr4SVohzeDxzhcskOPDZZIlGr58A5kaG8GakVRhyfoA3NAJzGGhSRLXjp3Jcgtl3tE+IKkCD10HzFlmneveJ29RofjwACC27Q4qXGOzqSHTLQMbIZbRxZKJYVadisANaoydZowh1GPMNu45xuNSLzvJIwGJZk/XlM3qhTpNr86jSKSFwwd0h0U7kM9wibHM3BAAI4VoXHyfnI4G5SwAN6SfhYdJVAENYzBIlE6WRXl/aXmQUukSCjoJ0u5w7z4VKrlwRjHQITOwO190uHzmYYC5C1WEos00LpgubnsPQ2ymmuBh4SjWRrKEsDEcRu4nq0qnniBvCCK3GIYG6VA70v/LJkUiLWq0iB0czXpPJY0003VHZfgtfWbuWAiHH0NahzWr/AFHrAjCpjU4GvskT3NlzQjPqB2Za8rYKyfApHEQawYc5OkT6xm7qsPosDMyyf+8QDfKj3v8ZbsDOY99PGnOleZm/JjQ88sJxYmcz97rA7QxoyWfMgmUjkhMDCNNZGd6JE9ZQFzapehsOxL62cXdvZHA3eMN2x2A/vYZWWNg+PH1gRcCSxKxl2YnscBFfoOQSPU3Yw50oUmk5KIBPqP8WWiHz2DDfLlAFV3HkGxfXcypiUsIETuAowNEZgzdGsbu714bLCnF/WGN4WxCx+I3ADdYiRFkcuZA+hd/yzxwDoEQXYR73A89sr3XmsMkhoYDCUvLk2J0PiRa2M+swrtY59FqX6c245g+Yr1dI5PClLV60DMcSQyBJ4jpteKYZ1W8eDijeHGiI2C34kemiLpVaS7rW6+RYe3pvU2iLBqGTTG2aunot+nykCI67B++3NWXiNW10q4dRh4dZUi3briQgN+0xAXc6aHYF0NNX1zOhRSMuCuHXX2IzEVUS7yhGfzx0OOTxfSJrslbU9eddvUCZuZ1Ip2l/e0WxpJLCLEjmMCGDe9Hlw2dddiH0OAhB98QK0Sam2sEvtcGqZJXWcQHY//CA9WeXjG/s+tAyqmhkpKttau9BknNeb8Iba1N5O6zSK1JR3N1zpwKGXcol1a2vtrZ9xsWrb+Ocn7vAmfo3u4BZ0ENCyBbLc4j5jG6ynzemkMNT3O5uIGLMtuUCc3XnMtaXm9466Po2ZU6Y6F9r5bi3/9OI6phGDqd71aVPNnCtHhcSlzcl8EBRBcPOfOM1X2tJDBCmjWDxXNWXvwa1NJxsrcR4uqezfiHSXWKfWr++FN0x4G9uZmIi1+59wUfrdPA6/dF3InFRU940sIcTXy5E9F27o8GzaI5syJ/okEhtBCyjDZ+CgUax25MlA5DPZXxuPgDg294fhau3etp7GO1cPnKkfLehLuPkV8SVcsDKDPbkd930/HJ3bRFM98cXT0UpfN6ykZNbDBUyIgm/1E2Y98fWu7XaoS7xsEDfaPxkzebrgxshBvEd+tWVcPdIVf6/jtJWuXnT7XFOogfLafB5KM3TI9TX6FYHyVK4pT0dl2UyfsbdTIJnr6Ws2sOWR5P9qc/1583Pso5O4tQLm8AP7FpKUKZ6vH5a0LVdZxS3e3crjv3+skP6NAbFpxU75uu6671i3f5h7IsX2ra9lGWxfHt7152XrwN8SVGOr785KzwXe/SDdXeVUd+mpmrUePaSK//+oG/mfFFxq4R+t+bqnr5m37ZjX5BZMrHlwUIVId7jfGb/GHeq5uYi6Xl7ib0A6L2i34HkcsaOpOXpq7K6th2fWIq198UH2dL5tEqmyyVdhGgftFvqF4/uTw0W3p665vrP9yObv1hm14tnP5LbTis38jVyeGrf2vq59m+j30RYq4Q/TY7niLpSuXZV/183H+Clc0tmepZfTcl0yTofumPyZIVVdtdxnE8dM3x9yHGZpttttlmm2222WabbbbZZpttttlmm2222WabbbbZf5z9G29OuBb2wVNFAAAAAElFTkSuQmCC" tvg-id="Wonder.uk@SD" group-title="Dokumentárne" tvg-country="ENG",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/MovieSphere_2020_logo.jpg/revision/latest?cb=20250814094924" tvg-id="MovieSphere.us@UK" group-title="Filmové" tvg-country="ENG",Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="PL",BBC EARTH
 http://46.149.191.217:9002/play/a01k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1920px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
+https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP2_HD_logo.svg/960px-TVP2_HD_logo.svg.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
+https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpolonia.png" tvg-id="Polonia.cz" group-title="Filmové" tvg-country="PL",TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
@@ -244,6 +258,12 @@ https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
 http://88.212.15.19:80/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1042.1635541150.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC2
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/cbbc-logo-png_seeklogo-475471.png" tvg-id="CBBC.cz" group-title="Filmové" tvg-country="ENG",BBC3
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/960px-American_Broadcasting_Company_Logo.svg.png?_=20210409132254" tvg-id="ABC.us@East" group-title="Filmové" tvg-country="USA",abc
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/automotorsport.png" tvg-id="Auto.Motor.Sport.cz" group-title="Športové" tvg-country="CZ",Auto Motor Sport Channel
 http://88.212.15.19:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11728" tvg-id="Superyacht.cz" group-title="Športové" tvg-country="ENG",SUPERYACHT
@@ -317,6 +337,14 @@ http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/golfchannel.png" tvg-id="Golf.Channel.cz" group-title="Športové" tvg-country="CZ",Golf channel
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-id="BBC.Four.cz" group-title="Filmové" tvg-country="ENG",BBC4
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" tvg-id="Sky.Sport.F1.cz" group-title="Športové" tvg-country="ENG",Sky Sport F1
+http://smart.lokkeweb.workers.dev/ID=2161191460bd08567ad36a
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" tvg-id="FIFA+.cz" group-title="Športové" tvg-country="ENG",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png?_=20230724154551" tvg-id="World.Poker.Tour.cz" group-title="Športové" tvg-country="ENG",World Poker Tour
+https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12502" tvg-id="Real.madrid.cz" group-title="Športové" tvg-country="ENG",Real Madrid TV
 http://88.212.15.19:80/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12283" tvg-id="Tanec.cz" group-title="Iné" tvg-country="SK",Tanec
@@ -371,6 +399,8 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://88.212.15.19:80/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11731" tvg-id="Rai.Tre.cz" group-title="Filmové" tvg-country="I",RAI3
 http://88.212.15.19:80/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/960px-Rai_5_logo.svg.png" tvg-id="Rai5.it@SD" group-title="Filmové" tvg-country="I",RAI5
+http://78.130.250.2:8023/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rebel.png" tvg-id="Rebel.cz" group-title="Hudobné" tvg-country="CZ",REBEL
 http://88.212.15.19:80/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12158" tvg-id="Music.Box.Hits.cz" group-title="Hudobné" tvg-country="ENG",MUSICBOX HITS
@@ -389,6 +419,8 @@ http://88.212.15.19:80/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/iconcerts.png" tvg-id="iConcerts.cz" group-title="Hudobné" tvg-country="ENG",STINGRAY iconcerts
 http://88.212.15.19:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" tvg-id="Totalmusic.Dance.cz" group-title="Hudobné" tvg-country="ENG",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ocko.png" tvg-id="Óčko.cz" group-title="Hudobné" tvg-country="CZ",Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ockoexpres.png" tvg-id="Óčko.Expres.cz" group-title="Hudobné" tvg-country="CZ",Ocko Expres HD
@@ -423,6 +455,12 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/NOW_90s_%26_00s.png" tvg-id="Now.90.cz" group-title="Hudobné" tvg-country="ENG",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/93/Eurotv.png" tvg-id="EuroTV.it@SD" group-title="Hudobné" tvg-country="I",Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png?_=20201211173353" tvg-id="KissKissTV.it@SD" group-title="Hudobné" tvg-country="I",KISS KISS
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12266" tvg-id="Pianko.cz" group-title="Iné" tvg-country="SK",Pianko
+http://88.212.15.19:80/live/test_pianko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7937" tvg-id="Arirang.cz" group-title="Spravodajské" tvg-country="Korea",Arirang Korea
 http://88.212.15.19:80/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D_dS13cUyTcXM3BjR9BaF-B_MLvzO9_Oq-EafTQvaZgi54MLQ5CSm2I3SSqJdwSSjvoY=w240-h480-rw" tvg-id="Aquarium.cz" group-title="Iné" tvg-country="UA",AQUARIUM
