@@ -224,21 +224,21 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="PL",BBC EARTH
 http://46.149.191.217:9002/play/a01k
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1920px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp1hd.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP2_HD_logo.svg/960px-TVP2_HD_logo.svg.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp2hd.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
 https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpolonia.png" tvg-id="Polonia.cz" group-title="Filmové" tvg-country="PL",TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/TVP_World_%282021%29.svg" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
+#EXTINF:-1 tvg-logo="" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
 http://88.212.15.19:80/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcworldnews.png" tvg-id="BBC.World.News.cz" group-title="Spravodajské" tvg-country="ENG",BBC NEWS
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" tvg-id="CNews.cz" group-title="Spravodajské" tvg-country="ENG",CNN
 http://88.212.15.19:80/live/test_cnn_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/e5a6dc3a41bfc9899cc31e7d00ab0b86.svg" tvg-id="Euronews.cz" group-title="Spravodajské" tvg-country="ENG",EURONEWS
+#EXTINF:-1 tvg-logo="https://upcsource.upc.sk/public/tv_station_logos/1594818887.png" tvg-id="Euronews.cz" group-title="Spravodajské" tvg-country="ENG",EURONEWS
 http://88.212.15.17/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/skynews.png" tvg-id="Sky.news.cz" group-title="Spravodajské" tvg-country="ENG",SKYNEWS
 http://88.212.15.17/live/test_skynews/playlist.m3u8
@@ -254,22 +254,14 @@ https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
 http://88.212.15.17/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/espresso_tv_4-yy_logotip_zelenyy.png?Xevrfskxt9JZBbQIdC.JA4IzLagTljQ9&itok=26lWgs7v" tvg-id="Espreso.TV.cz" group-title="Spravodajské" tvg-country="UA",Espresso
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Global_News_%282022%29.svg/1920px-Global_News_%282022%29.svg.png?_=20250722042834" tvg-id="Global.News.cz" group-title="Spravodajské" tvg-country="ENG",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11736" tvg-id="Current.time.cz" group-title="Iné" tvg-country="UA",Current Time
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
 http://88.212.15.19:80/live/bbc_first/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1280px-ITV1_logo_%282022%29.svg.png?_=20241022192006" tvg-id="ITV1.cz" group-title="Filmové" tvg-country="ENG",ITV1
-http://46.43.65.98/ITV1/index.m3u8
-#EXTINF:-1 tvg-logo="https://smallimg.pngkey.com/png/small/49-498402_itv2-2015-blue-colored-gradient-itv2-logo-png.png" tvg-id="ITV2.cz" group-title="Filmové" tvg-country="ENG",ITV2
-http://46.43.65.98/ITV2/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/itv3-logo-png_seeklogo-458197.png" tvg-id="ITV3.cz" group-title="Filmové" tvg-country="ENG",ITV3
-http://46.43.65.98/ITV3/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/itv4-logo-png_seeklogo-458199.png" tvg-id="ITV4.cz" group-title="Filmové" tvg-country="ENG",ITV4
-http://46.43.65.98/ITV4/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1042.1635541150.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC2
-https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png?_=20241109155317" tvg-id="BBC.One.cz" group-title="Filmové" tvg-country="ENG",BBC One
+http://31.149.103.41:8000/play/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1042.1635541150.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC Two
+http://31.149.103.41:8000/play/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/cbbc-logo-png_seeklogo-475471.png" tvg-id="CBBC.cz" group-title="Filmové" tvg-country="ENG",BBC3
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/960px-American_Broadcasting_Company_Logo.svg.png?_=20210409132254" tvg-id="ABC.us@East" group-title="Filmové" tvg-country="USA",abc
@@ -299,9 +291,9 @@ http://185.188.188.237:5000/live/novasport2/playlist.m3u8
 http://185.188.188.237:5000/live/novasport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novasport4.png" tvg-id="Nova.Sport.4.cz" group-title="Športové" tvg-country="CZ",Nova sport 4
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Nova_Sport_5.svg" tvg-id="Nova.Sport.5.cz" group-title="Športové" tvg-country="CZ",Nova sport 5
+#EXTINF:-1 tvg-logo="https://img.telkac.zoznam.sk/data/images/channel/2024/10/04/image_new_231.thumb.png" tvg-id="Nova.Sport.5.cz" group-title="Športové" tvg-country="CZ",Nova sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_Sport_6_2024.png" tvg-id="Nova.Sport.6.cz" group-title="Športové" tvg-country="CZ",Nova sport 6
+#EXTINF:-1 tvg-logo="https://img.telkac.zoznam.sk/data/images/channel/2024/10/04/image_new_233.thumb.png" tvg-id="Nova.Sport.6.cz" group-title="Športové" tvg-country="CZ",Nova sport 6
 http://178.143.8.242:8001/1:0:16:312:c94:3:eb0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11012" tvg-id="Sporty.TV.cz" group-title="Športové" tvg-country="CZ",SPORTY TV
 http://88.212.15.19:80/live/sporty_tv/index.m3u8
@@ -353,8 +345,6 @@ http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" tvg-id="Sky.Sport.F1.cz" group-title="Športové" tvg-country="ENG",Sky Sport F1
 http://smart.lokkeweb.workers.dev/ID=2161191460bd08567ad36a
-#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" tvg-id="Sky.Sports.Football.cz" group-title="Športové" tvg-country="ENG",Sky Sports Football
-http://46.43.65.98/skysportsfootball/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" tvg-id="FIFA+.cz" group-title="Športové" tvg-country="ENG",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png?_=20230724154551" tvg-id="World.Poker.Tour.cz" group-title="Športové" tvg-country="ENG",World Poker Tour
@@ -387,7 +377,7 @@ https://dash4.antik.sk/live/test_central/playlist.m3u8
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Polar_2_CZ.svg/revision/latest/scale-to-width-down/300?cb=20251123235732" tvg-id="POLAR2.cz" group-title="Iné" tvg-country="CZ",TV POLAR2
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/c85d15ea68690a4b33db30020bdcc3db.svg" tvg-id="A11.cz" group-title="Regionálne" tvg-country="CZ",A11
+#EXTINF:-1 tvg-logo="https://upcsource.upc.sk/public/tv_station_logos/1748255496.png" tvg-id="A11.cz" group-title="Regionálne" tvg-country="CZ",A11
 http://88.212.15.19:80/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10358" tvg-id="DVTV.Extra.cz" group-title="Regionálne" tvg-country="CZ",DV TV
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
@@ -445,7 +435,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ockoexpres.png" tvg-id="Óčko.Expres.cz" group-title="Hudobné" tvg-country="CZ",Ocko Expres HD
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" tvg-id="Óčko.Star.cz" group-title="Hudobné" tvg-country="CZ",OCKO STAR
+#EXTINF:-1 tvg-logo="https://m7cdn.io/skylink/common/img/channels/ocko-star-826.png" tvg-id="Óčko.Star.cz" group-title="Hudobné" tvg-country="CZ",OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ockoblack.png" tvg-id="Óčko.Black.cz" group-title="Hudobné" tvg-country="CZ",Ocko Black
 http://88.212.15.19:80/live/test_ocko_black/playlist.m3u8
@@ -969,4 +959,6 @@ http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17853
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/17599
 #EXTINF:0,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXT-X-EPG-URL="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
