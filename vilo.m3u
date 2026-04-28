@@ -156,6 +156,8 @@ http://88.212.15.17/live/test_cs_mystery_avc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/investigationdiscovery.png" tvg-id="ID.cz" group-title="Dokumentárne" tvg-country="CZ",ID Xtra
 http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10802" tvg-id="Viasat.True.Crime.cz" group-title="Dokumentárne" tvg-country="CZ",Viasat True Crime
+http://178.143.8.242:8001/1:0:16:36F3:C8C:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/natgeohdcz.png" tvg-id="National.Geographic.HD.cz" group-title="Dokumentárne" tvg-country="CZ",National Geographic HD
 http://88.212.15.19:80/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/natgeowildhdcz.png" tvg-id="National.Geographic.Wild.cz" group-title="Dokumentárne" tvg-country="CZ",National Geographic Wild
@@ -200,6 +202,8 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8954" tvg-id="Cartoonito.cz" group-title="Detské" tvg-country="CZ",CARTOONITO
 http://88.212.15.19:80/live/test_boomerang_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cartoonnetwork.png" tvg-id="Cartoon.Network.cz" group-title="Detské" tvg-country="CZ",Cartoon Network
+http://178.143.8.242:8001/1:0:16:36F5:C8C:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nickelodeon.png" tvg-id="Nickelodeon.cz" group-title="Detské" tvg-country="CZ",Nickelodeon
 http://88.212.15.19:80/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11291" tvg-id="Nick.Jr..cz" group-title="Detské" tvg-country="CZ",Nick Jr.
