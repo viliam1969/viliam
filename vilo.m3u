@@ -489,6 +489,10 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 http://169.150.255.53/Sat1/mpegts
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sixx.png" tvg-id="Sixx.cz" group-title="Filmové" tvg-country="D",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtl.png" tvg-id="RTL.cz" group-title="Filmové" tvg-country="D",RTL
+http://147.32.95.18:42666/udp/233.10.47.33:1234
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtlzwei.png" tvg-id="RTL2.cz" group-title="Filmové" tvg-country="D",RTL2
+http://147.32.95.18:42666/udp/233.10.47.34:1234
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/orf1.png" tvg-id="ORF1.cz" group-title="Filmové" tvg-country="A",ORF1
 http://147.32.95.18:42666/udp/233.10.47.98:1234
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/orf2.png" tvg-id="ORF2.cz" group-title="Filmové" tvg-country="A",ORF2
