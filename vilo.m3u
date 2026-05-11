@@ -146,6 +146,8 @@ http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.19:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history.png" tvg-id="History.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",History
 http://88.212.15.19:80/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history2.png" tvg-id="History2.cz" group-title="Dokumentárne" tvg-country="ENG",History2
+http://78.46.57.167:9350/hls/102.m3u8?token=5krwd98reqv
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cshistory.png" tvg-id="CS.History.cz" group-title="Dokumentárne" tvg-country="CZ",CS History
 http://88.212.15.17/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/viasathistory.png" tvg-id="Viasat.History.cz" group-title="Dokumentárne" tvg-country="CZ",Viasat History
@@ -186,7 +188,7 @@ http://a4529.alfa48.xyz:80/yildirim241222-2/n6hb9Sab/185920
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/seznamcz.png" tvg-id="Seznam.cz.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Seznam.cz TV
 http://88.212.15.19:80/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/relax.png" tvg-id="RELAX.cz" group-title="" tvg-country="",Relax TV
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/relax.png" tvg-id="RELAX.cz" group-title="Hudobné" tvg-country="CZ",Relax TV
 http://88.212.15.19:80/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/disneychannel.png" tvg-id="Disney.Channel.cz" group-title="Detské" tvg-country="CZ",Disney Channel
 http://88.212.15.19:80/live/test_disney/playlist.m3u8
@@ -226,8 +228,8 @@ http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/MovieSphere_2020_logo.jpg/revision/latest?cb=20250814094924" tvg-id="MovieSphere.us@UK" group-title="Filmové" tvg-country="ENG",Moviesphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="PL",BBC EARTH
-http://46.149.191.217:9002/play/a01k
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="CZ",BBC EARTH
+http://78.46.57.167:9350/hls/98.m3u8?token=5krwd98reqv
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp1hd.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp2hd.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
@@ -395,6 +397,8 @@ https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 https://stream-18.mazana.tv/kuryrtv.m3u8s
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11206" tvg-id="Doktor.cz" group-title="Iné" tvg-country="SK",TV DOKTOR
 https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" tvg-id="E!.Entertainment.cz" group-title="Dokumentárne" tvg-country="CZ",E!
+http://78.46.57.167:9350/hls/106.m3u8?token=5krwd98reqv
 #EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/19e5c8601d1e3c8b6e72745c6834a966.svg" tvg-id="Lux.cz" group-title="Náboženské" tvg-country="SK",LUX
 http://88.212.15.19:80/live/test_lux_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xv8-rUN-VY4YhzoY1EewTo1zTElYzul2OlB0O8KAJZ4QWNXPicJrXS2x4XPq-C-TxA=w480-h960-rw" tvg-id="Noe.cz" tvg-id="Noe.cz" group-title="Náboženské" tvg-country="CZ",NOE
