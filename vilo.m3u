@@ -222,6 +222,10 @@ http://88.212.15.19:80/live/test_nicktoons/playlist.m3u8
 http://88.212.15.19:80/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/docubox.png" tvg-id="DocuBox.HD.cz" group-title="Dokumentárne" tvg-country="ENG",DOCUBOX
 http://88.212.15.17/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fwOuEBl.png" tvg-id="SportOutdoor.tv" group-title="Dokumentárne" tvg-country="I",SportOutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/outdoorchannel.png" tvg-id="Outdoor.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",OUTDOOR CHANNEL
+https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nauticalhd.png" tvg-id="Nautical.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",NAUTICAL CHANNEL
 http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d9/Wonder_TV_%282020-.n.v.%29.png/revision/latest?cb=20231124135730" tvg-id="Wonder.uk@SD" group-title="Dokumentárne" tvg-country="ENG",Wonder
@@ -591,8 +595,12 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 http://78.130.250.2:8023/play/a06l/index.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna.cz
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio VIVA
+http://88.212.15.19:80/live/test_viva_radio/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Dobré rádio
+https://dash2.antik.sk/live/test_dobre_radio_atktv/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Rádio 80 - 90s
 http://stream.funradio.sk:8000/80-90-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio CZ-SK
