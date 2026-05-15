@@ -68,6 +68,8 @@ http://88.212.15.19:80/live/test_filmbox_family_atk_1200/playlist.m3u8
 http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/filmboxarthouse.png" tvg-id="FilmBox.Arthouse.cz" group-title="Filmové" tvg-country="ENG",FILM BOX ARTHOUSE
 http://88.212.15.17/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/tcm-network-logo-png-transparent.png" tvg-id="TCM.cz" group-title="Filmové" tvg-country="ENG",TCM
+http://rezofoot.tv/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojcinema.png" tvg-id="JOJ.Cinema.cz" group-title="Filmové" tvg-country="CZ",JOJ Cinema
 http://88.212.15.19:80/live/test_joj_cinema_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/filmplus.png" tvg-id="Film+.cz" group-title="Filmové" tvg-country="CZ",Film+
@@ -220,6 +222,8 @@ http://88.212.15.19:80/live/test_minimax/playlist.m3u8
 http://88.212.15.19:80/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=6136" tvg-id="Lala.TV.cz" group-title="Detské" tvg-country="CZ",Lala TV
 http://88.212.15.19:80/live/test_lala_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/1024/comedycentral.png" tvg-id="Comedy.Central.(pl).cz" group-title="Detské" tvg-country="ENG",Comedy Central
+http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/docubox.png" tvg-id="DocuBox.HD.cz" group-title="Dokumentárne" tvg-country="ENG",DOCUBOX
 http://88.212.15.17/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwOuEBl.png" tvg-id="SportOutdoor.tv" group-title="Dokumentárne" tvg-country="I",SportOutdoor.tv
@@ -234,6 +238,8 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="CZ",BBC EARTH
 http://78.46.57.167:9350/hls/98.m3u8?token=5krwd98reqv
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/paramount-logo-png_seeklogo-611178.png" tvg-id="Paramount.Channel.cz" group-title="Filmové" tvg-country="ENG",Paramount Channel
+http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp1hd.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp2hd.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
@@ -487,6 +493,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png?_=20201211173353" tvg-id="KissKissTV.it@SD" group-title="Hudobné" tvg-country="I",KISS KISS
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/1024/vh1.png" tvg-id="VHI.cz" group-title="Hudobné" tvg-country="ENG",VH1
+http://rezofoot.tv/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12266" tvg-id="Pianko.cz" group-title="Iné" tvg-country="SK",Pianko
 http://88.212.15.19:80/live/test_pianko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7937" tvg-id="Arirang.cz" group-title="Spravodajské" tvg-country="Korea",Arirang Korea
