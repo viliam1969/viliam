@@ -15,7 +15,7 @@ http://88.212.15.19:80/live/test_markiza_krimi_hevc/playlist.m3u8
 http://178.143.8.242:8001/1:0:16:3C2B:C90:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12482" tvg-id="JOJ.Krimi,cz" group-title="Filmové" tvg-country="SK",JOJ Krimi
 http://88.212.15.19:80/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojhd.png" tvg-id="JOJ.cz" group-title="Filmové" tvg-country="SK",JOJ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_TV_JOJ_-_2020.svg/1280px-Logo_TV_JOJ_-_2020.svg.png" tvg-id="JOJ.cz" group-title="Filmové" tvg-country="SK",JOJ
 http://88.212.15.19:80/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojplus.png" tvg-id="JOJ.Plus.cz" group-title="Filmové" tvg-country="SK",Joj Plus
 http://88.212.15.19:80/live/test_pluska_25p/playlist.m3u8
