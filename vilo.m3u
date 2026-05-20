@@ -246,6 +246,8 @@ https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpolonia.png" tvg-id="Polonia.cz" group-title="Filmové" tvg-country="PL",TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/canalplusdomo.png" tvg-id="Canal+.Domo.cz" group-title="Dokumentárne" tvg-country="PL",CANAL+ DOMO PL
+http://bocian.io:8880/annaochnio/NTQ0MTgwMTM5/105416
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7568" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
@@ -288,6 +290,8 @@ http://31.149.103.41:8000/play/27/index.m3u8
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/960px-American_Broadcasting_Company_Logo.svg.png?_=20210409132254" tvg-id="ABC.us@East" group-title="Filmové" tvg-country="USA",abc
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.u" group-title="Filmové" tvg-country="USA",24HourFreeMovies
+https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/automotorsport.png" tvg-id="Auto.Motor.Sport.cz" group-title="Športové" tvg-country="CZ",Auto Motor Sport Channel
 http://88.212.15.19:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11728" tvg-id="Superyacht.cz" group-title="Športové" tvg-country="ENG",SUPERYACHT
