@@ -244,8 +244,8 @@ http://178.143.8.242:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/MovieSphere_2020_logo.jpg/revision/latest?cb=20250814094924" tvg-id="MovieSphere.us@UK" group-title="Filmové" tvg-country="ENG",Moviesphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="CZ",BBC EARTH
-http://78.46.57.167:9350/hls/98.m3u8?token=5krwd98reqv
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcearth.png" tvg-id="BBC.Earth.CZ.cz" group-title="Dokumentárne" tvg-country="ENG",BBC EARTH
+http://46.149.191.217:9002/play/a01k
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/paramount-logo-png_seeklogo-611178.png" tvg-id="Paramount.Channel.cz" group-title="Filmové" tvg-country="ENG",Paramount Channel
 http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp1hd.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
