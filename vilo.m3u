@@ -95,7 +95,7 @@ http://88.212.15.19:80/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primalove.png" tvg-id="Prima.LOVE.cz" group-title="Filmové" tvg-country="CZ",Prima LOVE
 http://78.46.57.167:9350/hls/17.m3u8?token=5krwd98reqv
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primalove.png" tvg-id="Prima.LOVE.SK.cz" group-title="Filmové" tvg-country="CZ",Prima LOVE SK
-http://88.212.15.19:80/live/test_prima_love_hevc/playlist.m3u8;
+http://88.212.15.19:80/live/test_prima_love_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primazoom.png" tvg-id="Prima.ZOOM.cz" group-title="Filmové" tvg-country="CZ",Prima ZOOM
 http://88.212.15.19:80/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primakrimi.png" tvg-id="Prima.Krimi.cz" group-title="Filmové" tvg-country="CZ",Prima Krimi
