@@ -189,6 +189,8 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 http://88.212.15.19:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/foodnetwork.png" tvg-id="Food.Network.cz" group-title="Varenie" tvg-country="CZ",Food Network
 http://92.242.254.28:12002/udp/227.40.50.175:1234
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/cz/mnamtv.png" tvg-id="Mňam.TV.cz" group-title="Varenie" tvg-country="CZ",Mňam TV
+http://uh23.djrnopvxv.top:8080/VIP013771759054221388/f95292285a08/2205
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12275" tvg-id="Kitchen.cz" group-title="Varenie" tvg-country="ENG",KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/seznamcz.png" tvg-id="Seznam.cz.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Seznam.cz TV
@@ -313,6 +315,10 @@ http://88.212.15.19:80/live/bbc_first/index.m3u8
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19185/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv2.png" tvg-id="ITV2.cz" group-title="Filmové" tvg-country="ENG",ITV2
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19186/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv3.png" tvg-id="ITV3.cz" group-title="Filmové" tvg-country="ENG",ITV3
+http://192.129.159.196:8020/watch/9ab7e7d9-6981-4f0c-ba2d-c8f97cfd064d/server1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv4.png" tvg-id="ITV4.cz" group-title="Filmové" tvg-country="ENG",ITV4
+http://192.129.159.196:8020/watch/9ab7e7d9-87fa-4448-99e6-6fb0f1d319a3/server1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbcone.png" tvg-id="BBC.One.cz" group-title="Filmové" tvg-country="ENG",BBC One
 http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbctwo.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC Two
@@ -381,6 +387,8 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 https://estreams.tv.nej.cz/dash/CH_SUPERTENNIS_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/golfchannel.png" tvg-id="Golf.Channel.cz" group-title="Športové" tvg-country="CZ",Golf channel
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-id="BBC.Four.cz" group-title="Filmové" tvg-country="ENG",BBC4
+http://193.239.186.232/BBC4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" tvg-id="Sky.Sport.F1.cz" group-title="Športové" tvg-country="ENG",Sky Sport F1
 http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",Sky Sports Action
