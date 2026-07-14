@@ -53,13 +53,13 @@ http://88.212.15.19:80/live/test_hbo_hd_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/hbo3.png" tvg-id="HBO3.cz" group-title="Filmové" tvg-country="CZ",HBO 3
 http://88.212.15.19:80/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtvnews.hu/hirek/a-filmbox-minden-hangulathoz-kinal-filmelmenyt" tvg-id="Filmbox+.hits.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ hits
+#EXTINF:-1 tvg-logo="https://www.skylink.sk/media/r4hfbvwy/filmboxplus-logos_2026_fbplus-hits.png?format=webp&quality=60&v=1dcf8cd79989860" tvg-id="Filmbox+.hits.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ hits
 http://88.212.15.19:80/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FILMBOX%2B_one.svg/1920px-FILMBOX%2B_one.svg.png" tvg-id="Filmbox+.one.(hu).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ one
 http://88.212.15.19:80/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FILMBOX%2B_emotion.svg/3840px-FILMBOX%2B_emotion.svg.png" tvg-id="Filmbox+.emotion.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ emotion
 http://88.212.15.19:80/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:FILMBOX%2B_comedy.svg" tvg-id="Filmbox+.comedy.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ comedy
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Filmbox%2B_Comedy_%282026-.n.v.%29.png/revision/latest?cb=20260613041320" tvg-id="Filmbox+.comedy.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ comedy
 http://88.212.15.19:80/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.skylink.sk/media/obalwtth/filmboxplus-logos_2026_fbplus-lovecrime.png?format=webp&quality=60&v=1dcf8d71c5a2880" tvg-id="Filmbox+.love&amp;crime.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ love&crime
 http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8
