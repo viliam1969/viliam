@@ -23,16 +23,22 @@ http://88.212.15.19:80/live/test_pluska_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=9385" tvg-id="JOJ.Svet.cz" group-title="Dokumentárne" tvg-country="SK",JOJ Svet 
 http://88.212.15.19:80/live/test_joj_svet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8311" tvg-id="JOJ.24.cz" group-title="Spravodajské" tvg-country="SK",JOJ 24 
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ta3.png" tvg-id="TA3.cz" group-title="Spravodajské" tvg-country="SK",TA3
 http://88.212.15.19:80/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct24.png" tvg-id="ČT24.cz" group-title="Spravodajské" tvg-country="CZ",ČT24
 http://88.212.15.19:80/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ctfs.ceskatelevize.cz/static/v8.19/assets/images/ivysilani_onDark.ab6917666b20cb702da012b12652cb96.svg" tvg-id="" group-title="Spravodajské" tvg-country="CZ",ivysílaní
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cnnprimanews.png" tvg-id="CNN.Prima.News.cz" group-title="Spravodajské" tvg-country="CZ",CNN Prima News
 http://88.212.15.19:80/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct1.png" tvg-id="ČT1.cz" group-title="Filmové" tvg-country="CZ",ČT1
 http://88.212.15.19:80/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct2.png" tvg-id="ČT2.cz" group-title="Filmové" tvg-country="CZ",ČT2
 http://88.212.15.19:80/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ctart.png" tvg-id="ČT.art.cz" group-title="Filmové" tvg-country="CZ",ČT art
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTart
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nova.png" tvg-id="Nova.cz" group-title="Filmové" tvg-country="CZ",Nova
 http://88.212.15.19:80/live/test_nova_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novaaction.png" tvg-id="Nova.Action.cz" group-title="Filmové" tvg-country="CZ",Nova Action
@@ -191,7 +197,7 @@ http://88.212.15.19:80/live/test_seznam_hevc_25p/playlist.m3u8
 http://88.212.15.19:80/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/disneychannel.png" tvg-id="Disney.Channel.cz" group-title="Detské" tvg-country="CZ",Disney Channel
 http://88.212.15.19:80/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ctart.png" tvg-id="ČT.art.cz" group-title="Detské" tvg-country="CZ",ČT art
+#EXTINF:-1 tvg-logo="https://decko.ceskatelevize.cz/cms/layouts-decko/svg/dudek2022/logo_header.svg" tvg-id="ČT.:D.cz" group-title="Detské" tvg-country="CZ",ČT :D
 http://88.212.15.19:80/live/test_ct_art_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rik.png" tvg-id="Rik.TV.cz" group-title="Detské" tvg-country="SK",Rik TV
 http://88.212.15.19:80/live/test_rik/playlist.m3u8
@@ -415,6 +421,8 @@ http://88.212.15.19:80/live/mb_dance/index.m3u8
 http://88.212.15.19:80/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12161" tvg-id="Music.Box.Sexy.cz" group-title="Hudobné" tvg-country="ENG",MUSICBOX SEXY
 http://88.212.15.19:80/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/mtv.png" tvg-id="MTV.cz" group-title="Hudobné" tvg-country="ENG",MTV LIVE
+http://178.23.88.55/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/360tunebox.png" tvg-id="360TuneBox.cz" group-title="Hudobné" tvg-country="ENG",360TuneBox
 http://88.212.15.19:80/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/250px-NOW_Rock_logo.png" tvg-id="Now.Rock.cz" group-title="Hudobné" tvg-country="ENG",NOW ROCK
