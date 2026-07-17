@@ -125,7 +125,7 @@ http://88.212.15.17/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8445" tvg-id="Story4.cz" group-title="Filmové" tvg-country="CZ",STORY4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dash3.antik.sk/stream/nvidia_story_4/playlist_cenc.mpd
+https://dash3.antik.sk/stream/nvidia_story_4/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/filmeuropeplus.png" tvg-id="Film.Europe.+.cz" group-title="Filmové" tvg-country="CZ",Film Europe+
 http://185.188.188.237:5000/live/filmeuropeplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/filmeuropehd.png" tvg-id="Film.Europe.cz" group-title="Filmové" tvg-country="CZ",Film Europe
@@ -136,7 +136,7 @@ http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/epicdrama.png" tvg-id="Epic.Drama.cz" group-title="Filmové" tvg-country="CZ",Epic Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dash3.antik.sk/stream/nvidia_epic_drama/playlist_cenc.mpd
+https://dash3.antik.sk/stream/nvidia_epic_drama/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11131" tvg-id="Canal+.Action.cz" group-title="Filmové" tvg-country="CZ",CANAL+ ACTION
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/travelchannel.png" tvg-id="Travel.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",Travel channel
@@ -220,7 +220,7 @@ http://88.212.15.19:80/live/test_disney/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-disney-junior-logo-transparent-png-701751694774905qihesgpohf.png" tvg-id="Disney.Junior.cz" group-title="Detské" tvg-country="CZ",Disney jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dash3.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
+https://dash3.antik.sk/stream/hisi_disney_jr/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://decko.ceskatelevize.cz/cms/layouts-decko/svg/dudek2022/logo_header.svg" tvg-id="ČT.:D.cz" group-title="Detské" tvg-country="CZ",ČT :D
 http://88.212.15.19:80/live/test_ct_art_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rik.png" tvg-id="Rik.TV.cz" group-title="Detské" tvg-country="SK",Rik TV
