@@ -334,10 +334,6 @@ http://88.212.15.19:80/live/bbc_first/index.m3u8
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19185/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv2.png" tvg-id="ITV2.cz" group-title="Filmové" tvg-country="ENG",ITV2
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19186/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv3.png" tvg-id="ITV3.cz" group-title="Filmové" tvg-country="ENG",ITV3
-http://45.153.96.44:8008
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv4.png" tvg-id="ITV4.cz" group-title="Filmové" tvg-country="ENG",ITV4
-http://45.153.96.44:8009
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbcone.png" tvg-id="BBC.One.cz" group-title="Filmové" tvg-country="ENG",BBC One
 http://7brlines.top:8080/muniqueiribeiibpt1/41a7nyvk/359434
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbctwo.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC Two
@@ -471,8 +467,6 @@ http://88.212.15.19:80/live/test_lux_hevc/playlist.m3u8
 http://88.212.15.19:80/live/test_noe_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https:/i.imgur.com/jO8kAY2.png" tvg-id="Life.TV.cz" group-title="Náboženské" tvg-country="SK",LifeTV
 https://lifetv.mpks.sk/s.m3u8
-#EXTINF:-1 tvg-logo="https:/i.imgur.com/tYhXeRq.png" tvg-id="ManaCirkevOnline.sk" group-title="Náboženské" tvg-country="SK",Maná Cirkev Online
-https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7810" tvg-id="English.Club.TV.cz" group-title="Iné" tvg-country="ENG",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2023/09/lang-lab-720x420.jpg" tvg-id="LangLab.cz" group-title="Iné" tvg-country="ENG",Langlabs
@@ -483,8 +477,6 @@ http://88.212.15.19:80/live/lingotoons/index.m3u8
 http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://116.202.210.205/icn/icons/rai1.png" tvg-id="Rai.Uno.cz" group-title="Filmové" tvg-country="I",RAI1
 http://88.212.15.19:80/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png?_=20221224120327" tvg-id="Rai.Duo.cz" group-title="Filmové" tvg-country="I",RAI2
-http://85.14.32.26:8800/udp/239.100.10.142:5000
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11731" tvg-id="Rai.Tre.cz" group-title="Filmové" tvg-country="I",RAI3
 http://88.212.15.19:80/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rebel.png" tvg-id="Rebel.cz" group-title="Hudobné" tvg-country="CZ",REBEL
@@ -613,14 +605,10 @@ http://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream/playlist.m3u8
 http://stream.strba.sk:1935/strba/VYHLAD_SKOK.stream/playlist.m3u8
 #EXTINF:0, Strbske Pleso4
 http://stream.strba.sk:1935/strba/STRB_AREAL.stream/playlist.m3u8
-#EXTINF:0, Strbske Pleso5
-http://stream.strba.sk:1935/strba/BEZ_AREAL.stream/playlist.m3u8
 #EXTINF:0, Strbske Pleso6
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:0, Solisko Furkotka
 http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
-#EXTINF:0,DONOVALY4
-https://stream.profi-net.sk/donovaly/KASA_ZAHRADISTE.stream/chunklist_w1890987052.m3u8
 #EXTINF:0,park tv
 http://88.212.15.19:80/live/test_park_tv/playlist.m3u8
 #EXTINF:0,Barrandovsky  most Praha
@@ -649,8 +637,6 @@ https://webcam.bergregions.insyscd.net/live/meander_aqua_2/index.m3u8
 https://nstream.tssgroup.cloud/tss/fitechbb/video1.m3u8
 #EXTINF:0,NEW YORK Madison Square
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
-#EXTINF:0,VATIKAN
-http://78.130.250.2:8023/play/a06l/index.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
