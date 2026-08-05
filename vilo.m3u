@@ -450,6 +450,10 @@ http://88.212.15.17/live/test_vega/playlist.m3u8
 http://88.212.15.17/live/test_severka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12280" tvg-id="Central.cz" group-title="Regionálne" tvg-country="SK",TV CENTRAL
 https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="TelevizePrerov.cz@SD" group-title="Regionálne" tvg-country="CZ",TV PŘEROV
+#EXTVLCOPT:http-referrer=https://tvprerov.cz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
+https://173.212.247.21/live/tvprerov.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/polar.png" tvg-id="POLAR.cz" group-title="Iné" tvg-country="CZ",TV POLAR
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Polar_2_CZ.svg/revision/latest/scale-to-width-down/300?cb=20251123235732" tvg-id="POLAR2.cz" group-title="Iné" tvg-country="CZ",TV POLAR2
@@ -582,6 +586,10 @@ https://kukaj.profi-net.sk/live/KAMZIKY.stream/chunklist_w366099569.m3u8
 https://kukaj.profi-net.sk/live/BOCIANY_LUPCA.stream%20/chunklist_w1814489146.m3u8
 #EXTINF:0,SPISSKE BYSTRE bociany
 https://kukaj.profi-net.sk/live/BOCIANY_SPISSKEBYSTRE.stream/chunklist_w44212850.m3u8
+#EXTINF:0,LEĽKÁ LOMNICA bociany
+https://kukaj.profi-net.sk/live/BOCIANY_VELKALOMNICA.stream/chunklist_w1836575849.m3u8
+#EXTINF:0,Demänová bociany
+https://kukaj.profi-net.sk/live/BOCIANY_DEMANOVA.stream/chunklist_w1344967595.m3u8
 #EXTINF:0,TATRALANDIA1
 https://stream.profi-net.sk/tmr//STREAM48.stream/chunklist_w145363969.m3u8
 #EXTINF:0,TATRALANDIA2
@@ -638,6 +646,10 @@ http://stream.kukaj.se/stream/1/video.m3u8
 http://stream.kukaj.se/stream/15/video.m3u8
 #EXTINF:0,RAJECKE TEPLICE
 https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
+#EXTINF:0,AQUACITY POPRAD
+https://sts068.feratel.co.at/streams/stsstore055/1/01015_6a7325f0-96faVid.mp4?dcsdesign=WTP_panorama.sk
+#EXTINF:0,Thermal Park Vrbov
+https://fn.rtsp.me/2z7hBfewlxu6bDTr_UOGQQ/1785935639/hls/hhzBEYKK.m3u8?ip=195.91.102.106
 #EXTINF:0,ORAVICE
 https://webcam.bergregions.insyscd.net/live/meander_aqua_2/index.m3u8
 #EXTINF:0,Kováčová
