@@ -210,6 +210,8 @@ https://dash3.antik.sk/stream/hisi_food_network/playlist_cbcs.mpd
 http://uh23.djrnopvxv.top:8080/VIP013771759054221388/f95292285a08/2205
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12275" tvg-id="Kitchen.cz" group-title="Varenie" tvg-country="ENG",KITCHEN TV
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Varenie" tvg-country="PL",CANAL+ KUCHNIA
+http://193.24.244.60:1001/udp/239.254.1.13:6060
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/seznamcz.png" tvg-id="Seznam.cz.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Seznam.cz TV
 http://88.212.15.19:80/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/relax.png" tvg-id="RELAX.cz" group-title="Hudobné" tvg-country="CZ",Relax TV
@@ -386,6 +388,12 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11133" tvg-id="Canal.plus.Sport.2.cz" group-title="Športové" tvg-country="CZ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11134" tvg-id="Canal.plus.Sport.3.cz" group-title="Športové" tvg-country="CZ",Canal+ Sport 3
+http://7brlines.top:8080/muniqueiribeiibpt1/41a7nyvk/308218
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11135" tvg-id="Canal.plus.Sport.4.cz" group-title="Športové" tvg-country="CZ",Canal+ Sport 4
+http://7brlines.top:8080/muniqueiribeiibpt1/41a7nyvk/308219
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11136" tvg-id="Canal.plus.Sport.5.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 5
+http://193.24.244.60:1001/udp/239.254.1.15:6060
 #EXTINF:-1 tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/oneplay_sport1.png" tvg-id="Oneplay.Sport.1.cz" group-title="Športové" tvg-country="CZ",Oneplay Sport 1
 http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/oneplay_sport2.png" tvg-id="Oneplay.Sport.2.cz" group-title="Športové" tvg-country="CZ",Oneplay Sport 2
@@ -508,6 +516,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://88.212.15.17/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11011" tvg-id="Šlágr.Premium.cz" group-title="Hudobné" tvg-country="CZ",Šláger Premium
 http://88.212.15.17/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/slagr1.png" tvg-id="Šlágr.Muzika.cz" group-title="Hudobné" tvg-country="CZ",Šláger 1
+https://stream-13.mazana.tv/slagroriginal.m3u
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/slagr2.png" tvg-id="Šlágr.Originál.cz" group-title="Hudobné" tvg-country="CZ",Šláger 2
 http://88.212.15.17/live/test_slagr_2_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7826" tvg-id="Folklorika.cz" group-title="Hudobné" tvg-country="SK",Folklorika
