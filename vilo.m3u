@@ -137,6 +137,8 @@ http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/epicdrama.png" tvg-id="Epic.Drama.cz" group-title="Filmové" tvg-country="CZ",Epic Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/stream/hisi_epic_drama/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/id_17WOMEM/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" tvg-id="KVIFF.TV.cz" group-title="Filmové" tvg-country="CZ",KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11131" tvg-id="Canal+.Action.cz" group-title="Filmové" tvg-country="CZ",CANAL+ ACTION
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/travelchannel.png" tvg-id="Travel.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",Travel channel
@@ -330,15 +332,21 @@ http://88.212.15.19/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
 http://88.212.15.19:80/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv1.png" tvg-id="ITV1.cz" group-title="Filmové" tvg-country="ENG",ITV1
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19185/mpegts
+http://45.14.84.37/itv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv2.png" tvg-id="ITV2.cz" group-title="Filmové" tvg-country="ENG",ITV2
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19186/mpegts
+http://45.14.84.37/itv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv3.png" tvg-id="ITV3.cz" group-title="Filmové" tvg-country="ENG",ITV3
+http://45.14.84.37/itv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv4.png" tvg-id="ITV4.cz" group-title="Filmové" tvg-country="ENG",ITV4
+http://45.14.84.37/itv4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbcone.png" tvg-id="BBC.One.cz" group-title="Filmové" tvg-country="ENG",BBC One
-http://7brlines.top:8080/muniqueiribeiibpt1/41a7nyvk/359434
+http://45.14.84.37/bbc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbctwo.png" tvg-id="BBC.Two.cz" group-title="Filmové" tvg-country="ENG",BBC Two
-http://7brlines.top:8080/muniqueiribeiibpt1/41a7nyvk/359433
+http://45.14.84.37/bbc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbcthree.png" tvg-id="CBBC.cz" group-title="Filmové" tvg-country="ENG",BBC3
-http://7brlines.top:8080/muniqueiribeiibpt1/41a7nyvk/360056
+http://45.14.84.37/bbc3/index.m3u8
+#EXTINF:-1 tvg-logo= tvg-id=Sky One group-title=Filmové tvg-country=ENG,Sky One
+http://45.14.84.37/sky1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.u" group-title="Filmové" tvg-country="USA",24HourFreeMovies
 https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/automotorsport.png" tvg-id="Auto.Motor.Sport.cz" group-title="Športové" tvg-country="CZ",Auto Motor Sport Channel
@@ -404,6 +412,8 @@ http://45.129.141.180:9981/stream/channelid/1597775099?profile=pass
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10835" tvg-id="PREMIER.SPORT.2.SK.cz" group-title="Športové" tvg-country="SK",PREMIER SPORT 2
 http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="CZ",Ballcasterz
+http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7941" tvg-id="Tennis.Channel.cz" group-title="Športové" tvg-country="ENG",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="IT",SKY SPORT TENNIS
