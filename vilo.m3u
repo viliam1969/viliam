@@ -307,6 +307,8 @@ https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 http://88.212.15.19/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
 http://88.212.15.19:80/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/bbcone.png" tvg-id="BBC.One.cz" group-title="Filmové" tvg-country="ENG",BBC One
+http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/960px-American_Broadcasting_Company_Logo.svg.png?_=20210409132254" tvg-id="ABC.us@East" group-title="Filmové" tvg-country="USA",abc
 http://stream.cammonitorplus.net/1782/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.u" group-title="Filmové" tvg-country="USA",24HourFreeMovies
@@ -374,8 +376,14 @@ http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7941" tvg-id="Tennis.Channel.cz" group-title="Športové" tvg-country="ENG",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="CR",ARENA TENNIS
+http://45.129.141.180:9981/stream/channelid/1061151849?profile=pass
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",SKY SPORT TENNIS
+http://45.129.141.180:9981/stream/channelid/1363722412?profile=pass
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/golfchannel.png" tvg-id="Golf.Channel.cz" group-title="Športové" tvg-country="CZ",Golf channel
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",Sky Sports Premier ligue
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8?
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",GTTV
 https://stream.ostv.sk/GTTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" tvg-id="FIFA+.cz" group-title="Športové" tvg-country="ENG",FIFA+
@@ -468,6 +476,8 @@ http://88.212.15.19:80/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/iconcerts.png" tvg-id="iConcerts.cz" group-title="Hudobné" tvg-country="ENG",STINGRAY iconcerts
 http://88.212.15.19:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Hudobné" tvg-country="ENG",STINGRAY retro
+http://technologycloud.eu/play/live.php?mac=00:1A:79:D0:EE:94&stream=1423340&extension=ts&play_token=aItrT71uVM
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" tvg-id="Totalmusic.Dance.cz" group-title="Hudobné" tvg-country="ENG",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ocko.png" tvg-id="Óčko.cz" group-title="Hudobné" tvg-country="CZ",Óčko
@@ -526,6 +536,12 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sixx.png" tvg-id="Sixx.cz" group-title="Filmové" tvg-country="D",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtl.png" tvg-id="RTL.cz" group-title="Filmové" tvg-country="D",RTL
+http://5.254.89.106/6151/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtlzwei.png" tvg-id="RTL2.cz" group-title="Filmové" tvg-country="D",RTL2
+http://5.254.89.106/6152/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/orf1.png" tvg-id="ORF1.cz" group-title="Filmové" tvg-country="A",ORF1
+http://5.254.89.106/6159/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/orf2.png" tvg-id="ORF2.cz" group-title="Filmové" tvg-country="A",ORF2
 http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/orf-iii-kultur-und-information5549.logowik.com.webp" tvg-id="ORF3.cz" group-title="Iné" tvg-country="A",ORF3
@@ -560,7 +576,11 @@ https://stream2.profi-net.sk/tmr/STREAM2.stream/playlist.m3u8
 https://stream2.profi-net.sk/tmr/STREAM51.stream/playlist.m3u8
 #EXTINF:0,LIPTOVSKA MARA MARINA LIPTOV
 https://stream2.profi-net.sk/live/MARINA.stream/chunklist_w409357769.m3u8
-#EXTINF:31,HREBIENOK
+#EXTINF:0,Tatry zo Svitu
+https://dash3.antik.sk/live/test_tatry/playlist.m3u8
+#EXTINF:0,Starý Smokovec - lanovka
+https://stream.profi-net.sk/tmr//STREAM15.stream/index.m3u8
+#EXTINF:0,HREBIENOK
 https://stream.profi-net.sk/tmr/STREAM14.stream/chunklist_w341247000.m3u8
 #EXTINF:0,SEDLO1
 https://stream.profi-net.sk/tmr/STREAM44.stream/chunklist_w1962130475.m3u8
@@ -578,18 +598,18 @@ http://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream/playlist.m3u8
 http://stream.strba.sk:1935/strba/VYHLAD_SKOK.stream/playlist.m3u8
 #EXTINF:0, Strbske Pleso4
 http://stream.strba.sk:1935/strba/STRB_AREAL.stream/playlist.m3u8
-#EXTINF:0, Strbske Pleso6
+#EXTINF:0, Strbske Pleso5
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:0, Solisko Furkotka
 http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
-#EXTINF:0,DONOVALY4
+#EXTINF:0,DONOVALY
 https://stream.profi-net.sk/donovaly/KASA_ZAHRADISTE.stream/chunklist_w1890987052.m3u8
 #EXTINF:0,park tv
 http://88.212.15.19:80/live/test_park_tv/playlist.m3u8
 #EXTINF:0,Barrandovsky  most Praha
 https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
 #EXTINF:0,Letisko Vaclava Havla Praha
-https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
+https://dash2.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
 #EXTINF:0,Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:0,Vitznau Rigi CH
@@ -604,12 +624,10 @@ https://dash2.antik.sk/live/test_nitra_zobor_panorama_atk_1200/playlist.m3u8
 http://stream.kukaj.se/stream/1/video.m3u8
 #EXTINF:0,Tri Koruny
 http://stream.kukaj.se/stream/15/video.m3u8
+#EXTINF:0,Banska Stiavnica
+https://dash3.antik.sk/live/test_stiavnica/playlist.m3u8
 #EXTINF:0,RAJECKE TEPLICE
 https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
-#EXTINF:0,AQUACITY POPRAD
-https://sts068.feratel.co.at/streams/stsstore055/1/01015_6a7325f0-96faVid.mp4?dcsdesign=WTP_panorama.sk
-#EXTINF:0,Thermal Park Vrbov
-https://fn.rtsp.me/2z7hBfewlxu6bDTr_UOGQQ/1785935639/hls/hhzBEYKK.m3u8?ip=195.91.102.106
 #EXTINF:0,ORAVICE
 https://webcam.bergregions.insyscd.net/live/meander_aqua_2/index.m3u8
 #EXTINF:0,Kováčová
