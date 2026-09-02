@@ -275,8 +275,22 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp1hd.png" tvg-id="TVP1.cz" group-title="Filmové" tvg-country="PL",TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp2hd.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
+#EXTVLCOPT:http-referrer=https://vod.tvp.pl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://tvpi.travny.workers.dev/tvp2.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpolonia.png" tvg-id="Polonia.cz" group-title="Filmové" tvg-country="PL",TVP POLONIA
 http://88.212.15.19:80/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/polsat.png" tvg-id="Polsat.cz" group-title="Filmové" tvg-country="PL",Polsat
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpuls.png" tvg-id="TV.Puls.cz" group-title="Filmové" tvg-country="PL",TV PULS
+https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpuls2.png" tvg-id="TV.Puls2.cz" group-title="Filmové" tvg-country="PL",TV PULS2
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/canalplusdomo.png" tvg-id="Canal+.Domo.cz" group-title="Dokumentárne" tvg-country="PL",CANAL+ DOMO PL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/iptv/stream/b76d04b7869daf54564803.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
 http://88.212.15.19:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7568" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
@@ -362,6 +376,18 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11133" tvg-id="Canal.plus.Sport.2.cz" group-title="Športové" tvg-country="CZ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11134" tvg-id="Canal.plus.Sport.3.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/iptv/stream/51fad710694c68023704b3.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11135" tvg-id="Canal.plus.Sport.4.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/iptv/stream/3516116cb866e04ee0a5aa.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11136" tvg-id="Canal.plus.Sport.5.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/iptv/stream/3d879fd9ff97bc8744dad0.m3u8
 #EXTINF:-1 tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/oneplay_sport1.png" tvg-id="Oneplay.Sport.1.cz" group-title="Športové" tvg-country="CZ",Oneplay Sport 1
 http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/oneplay_sport2.png" tvg-id="Oneplay.Sport.2.cz" group-title="Športové" tvg-country="CZ",Oneplay Sport 2
@@ -452,6 +478,8 @@ http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
 http://bpl.online24.pm/play/227/75BA4FC1CA5013E/mpegts
 #EXTINF:-1 tvg-logo="http://116.202.210.205/icn/icons/rai1.png" tvg-id="Rai.Uno.cz" group-title="Filmové" tvg-country="I",RAI1
 http://88.212.15.19:80/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png?_=20221224120327" tvg-id="Rai.Duo.cz" group-title="Filmové" tvg-country="I",RAI2
+http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11731" tvg-id="Rai.Tre.cz" group-title="Filmové" tvg-country="I",RAI3
 http://88.212.15.19:80/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Rai4.it@SD" group-title="Filmové" tvg-country="I",RAI4
