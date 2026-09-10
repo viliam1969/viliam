@@ -161,7 +161,7 @@ http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.19:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history.png" tvg-id="History.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",History
 http://88.212.15.19:80/live/test_history/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history2.png" tvg-id="History2.cz" group-title="Dokumentárne" tvg-country="ENG",History2
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history2.png" tvg-id="History2.cz" group-title="Dokumentárne" tvg-country="CZ",History2
 http://88.212.15.19/live/test_h2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cshistory.png" tvg-id="CS.History.cz" group-title="Dokumentárne" tvg-country="CZ",CS History
 http://88.212.15.17/live/test_cs_history_avc_25p/playlist.m3u8
@@ -374,6 +374,8 @@ http://88.212.15.19:80/live/test_arenasport_dva/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/eurosport2.png" tvg-id="Eurosport.2.cz" group-title="Športové" tvg-country="CZ",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="CZ",Eurosport4K
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11133" tvg-id="Canal.plus.Sport.2.cz" group-title="Športové" tvg-country="CZ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11134" tvg-id="Canal.plus.Sport.3.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 3
@@ -402,12 +404,20 @@ http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7941" tvg-id="Tennis.Channel.cz" group-title="Športové" tvg-country="ENG",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportnetwork.it/wp-content/uploads/2014/12/supertennis-big-uai-258x172.png" tvg-id="Supertennis.cz" group-title="Športové" tvg-country="IT",SuperTennis
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/19111/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="CR",ARENA TENNIS
 http://45.129.141.180:9981/stream/channelid/1061151849?profile=pass
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",SKY SPORT TENNIS
 http://45.129.141.180:9981/stream/channelid/1363722412?profile=pass
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="DE",SKY SPORT BUNDESLIGA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2480/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="IT",SKY SPORT 24
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/19107/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/golfchannel.png" tvg-id="Golf.Channel.cz" group-title="Športové" tvg-country="CZ",Golf channel
 http://88.212.15.19:80/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" tvg-id="Sky.Sport.F1.cz" group-title="Športové" tvg-country="DE",Sky Sport F1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/19027/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",Sky Sports Premier ligue
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8?
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",GTTV
