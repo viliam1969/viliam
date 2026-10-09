@@ -33,6 +33,8 @@ http://88.212.15.19:80/live/test_ct24_hevc/playlist.m3u8
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cnnprimanews.png" tvg-id="CNN.Prima.News.cz" group-title="Spravodajské" tvg-country="CZ",CNN Prima News
 http://88.212.15.19:80/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Spravodajské" tvg-country="CZ",TN live
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova-news/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct1.png" tvg-id="ČT1.cz" group-title="Filmové" tvg-country="CZ",ČT1
 http://88.212.15.19:80/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct2.png" tvg-id="ČT2.cz" group-title="Filmové" tvg-country="CZ",ČT2
@@ -210,6 +212,8 @@ https://dash3.antik.sk/stream/hisi_food_network/playlist_cbcs.mpd
 http://88.212.15.17/live/test_kitchen_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Varenie" tvg-country="PL",CANAL+ KUCHNIA
 http://neosfpoo.top:8080/221699939571001/51699939571183/10184
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Varenie" tvg-country="PL",BBC Lifestyle
+http://92.114.85.87:8017/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/seznamcz.png" tvg-id="Seznam.cz.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Seznam.cz TV
 http://88.212.15.19:80/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/relax.png" tvg-id="RELAX.cz" group-title="Hudobné" tvg-country="CZ",Relax TV
@@ -257,6 +261,8 @@ http://206.212.244.63/641/index.m3u8
 http://185.98.209.11:81/minimax/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://turbotv.sk/wp-content/themes/turbotv/public/images/logo-turbotv.png?id=9a1552eab22467b806d231e12931dc28" tvg-id="Turbo.TV.cz" group-title="Detské" tvg-country="CZ",Turbo TV
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Študentské" tvg-country="SK",Via TV
+http://88.212.15.19:80/live/via_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-id="BBC.Four.cz" group-title="Detské" tvg-country="ENG",BBC4
 http://193.239.186.232/BBC4/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/docubox.png" tvg-id="DocuBox.HD.cz" group-title="Dokumentárne" tvg-country="ENG",DOCUBOX
@@ -395,10 +401,18 @@ http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11133" tvg-id="Canal.plus.Sport.2.cz" group-title="Športové" tvg-country="CZ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11134" tvg-id="Canal.plus.Sport.3.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 3
-http://neosfpoo.top:8080/221699939571001/51699939571183/23832
-#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11135" tvg-id="Canal.plus.Sport.4.cz" group-title="Športové" tvg-country="PL",Canal+ Sport 4
-http://neosfpoo.top:8080/221699939571001/51699939571183/10130
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11134" tvg-id="Canal.plus.Sport.3.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 3
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11135" tvg-id="Canal.plus.Sport.4.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 4
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11136" tvg-id="Canal.plus.Sport.5.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 5
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11137" tvg-id="Canal.plus.Sport.6.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 6 
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11138" tvg-id="Canal.plus.Sport.7.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 7
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11060" tvg-id="Canal.plus.Sport.8.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 8
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/oneplay_sport1.png" tvg-id="Oneplay.Sport.1.cz" group-title="Športové" tvg-country="CZ",Oneplay Sport 1
 http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/oneplay_sport2.png" tvg-id="Oneplay.Sport.2.cz" group-title="Športové" tvg-country="CZ",Oneplay Sport 2
@@ -465,6 +479,10 @@ http://88.212.15.17/live/test_vega/playlist.m3u8
 http://88.212.15.17/live/test_severka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12280" tvg-id="Central.cz" group-title="Regionálne" tvg-country="SK",TV CENTRAL
 https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="TelevizePrerov.cz@SD" group-title="Regionálne" tvg-country="CZ",TV PŘEROV
+#EXTVLCOPT:http-referrer=https://tvprerov.cz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
+https://173.212.247.21/live/tvprerov.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/polar.png" tvg-id="POLAR.cz" group-title="Iné" tvg-country="CZ",TV POLAR
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upcsource.upc.sk/public/tv_station_logos/1748255496.png" tvg-id="A11.cz" group-title="Regionálne" tvg-country="CZ",A11
