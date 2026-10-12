@@ -24,7 +24,7 @@ http://88.212.15.17:80/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=9385" tvg-id="JOJ.Svet.cz" group-title="Dokumentárne" tvg-country="SK",JOJ Svet 
 http://88.212.15.17:80/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8311" tvg-id="JOJ.24.cz" group-title="Spravodajské" tvg-country="SK",JOJ 24 
-http://88.212.15.19/live/test_joj_24_atk_tv/playlist.m3u8
+http://88.212.15.17/live/test_joj_24_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ta3.png" tvg-id="TA3.cz" group-title="Spravodajské" tvg-country="SK",TA3
 http://88.212.15.17:80/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct24.png" tvg-id="ČT24.cz" group-title="Spravodajské" tvg-country="CZ",ČT24
@@ -164,7 +164,7 @@ http://88.212.15.17:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history.png" tvg-id="History.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",History
 http://88.212.15.17:80/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history2.png" tvg-id="History2.cz" group-title="Dokumentárne" tvg-country="CZ",History2
-http://88.212.15.19/live/test_h2/playlist.m3u8
+http://88.212.15.17/live/test_h2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cshistory.png" tvg-id="CS.History.cz" group-title="Dokumentárne" tvg-country="CZ",CS History
 http://88.212.15.17/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12607" tvg-id="Viasat.History.cz" group-title="Dokumentárne" tvg-country="CZ",Viasat History
@@ -192,7 +192,7 @@ http://88.212.15.17:80/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c" tvg-id="Sports Fishing.cz" group-title="Dokumentárne" tvg-country="ENG",Sports Fishing
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/animalplanet.png" tvg-id="Animal.Planet.cz" group-title="Dokumentárne" tvg-country="CZ",Animal Planet
-http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
+http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/jpg/01/10/02/71/1000_F_110027197_b3UsmkUaTnDsGW2HanCrW95kXlJUUYYw.jpg" tvg-id="Wild.Nature.cz" group-title="Dokumentárne" tvg-country="ENG",Wild Nature
 https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7817" tvg-id="HaHa.TV.cz" group-title="Iné" tvg-country="SK",HAHA TV
@@ -326,7 +326,7 @@ https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11736" tvg-id="Current.time.cz" group-title="Iné" tvg-country="UA",Current Time
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Iné" tvg-country="UA",Svoboda
-http://88.212.15.19/live/svoboda/index.m3u8
+http://88.212.15.17/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
 http://88.212.15.17:80/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv1.png" tvg-id="ITV1.cz" group-title="Filmové" tvg-country="ENG",ITV1
@@ -354,7 +354,7 @@ http://88.212.15.17:80/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rxn/bdee6150-92f7-4612-af0d-ac6362a7002f.png" tvg-id="JOJ.A PORT.cz" group-title="Športové" tvg-country="SK",JOJ Šport
 http://88.212.15.17:80/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11207" tvg-id="JOJ.A port.2.cz" group-title="Športové" tvg-country="SK",JOJ Šport 2
-http://88.212.15.19/live/joj_sport_2_avc/index.m3u8
+http://88.212.15.17/live/joj_sport_2_avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sport1.png" tvg-id="Sport1.cz" group-title="Športové" tvg-country="CZ",Sport 1
 http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sport2.png" tvg-id="Sport2.cz" group-title="Športové" tvg-country="CZ",Sport 2
@@ -388,7 +388,7 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/eurosport2.png" tvg-id="Eurosport.2.cz" group-title="Športové" tvg-country="CZ",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="CZ",Eurosport4K
-http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+http://88.212.15.17/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11133" tvg-id="Canal.plus.Sport.2.cz" group-title="Športové" tvg-country="CZ",CANAL+ SPORT2 
 http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11134" tvg-id="Canal.plus.Sport.3.cz" group-title="Športové" tvg-country="SK",Canal+ Sport 3
@@ -560,7 +560,7 @@ http://88.212.15.17:80/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D_dS13cUyTcXM3BjR9BaF-B_MLvzO9_Oq-EafTQvaZgi54MLQ5CSm2I3SSqJdwSSjvoY=w240-h480-rw" tvg-id="Aquarium.cz" group-title="Iné" tvg-country="UA",AQUARIUM
 http://iptv.prosto.tv:7000/ch310/video.m3u8?secret=191yc7ul
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12283" tvg-id="Antik.cz" group-title="Iné" tvg-country="SK",INFOKANAL ANTIK
-http://88.212.15.19/live/test_infokanal_tizen/playlist.m3u8
+http://88.212.15.17/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAAeFBMVEXvAB7////vABnwOz7+7O7uAADvABP82dv95efvAAbvABD/+/zvABb1jJD0dHnza3Dzb3T+9vf4trf0gIP+8fL83+HyXGH5vL/6zs/3paf2mZz2kpX3oKP4rLD1hInyYGHxTE7wGCXxWFrvLzLzYmjxPkb6x8nxUFd/qm8SAAACxklEQVR4nO3a23aqMBAG4HQLEoyKgEK09Xzo+7/hRqt1FRCTkMzkYv4r7/qtyeRIGaNQKBQKhUKhUCgUCoVCoVAoFArFj/zzMGzgYVjgYdiHhyGUagilGkK1JA14JGW5XE3yaZIks2n++VUiolK53ky3u8E+vCeO458fKCgus3x3+/Oj4bjaVRqBBqVlvh1UFRl1bciAHhGV+XWshi21QULJzaESvfXAoRbZVKlCcKj5+nAMY1UPBIqvTzolAkAJedKtkWtUtDqGI90aOUVVRdqHYyORK1SwPJsWyRWKb47h0FzkAiVz1SUSCiVkMTaZbi5Rl8RoBXCJkkVshWQRtcjtVMkiik/skWyhlsfQHskKSlxY70XANoon5vuJI9R80n3cxkBdzlabyQaKn6yPXG9UZnfO2UDxwvKcs4AqXZXJHBUkzspkjJJOJl0vlFi6mXR9UKKwuPdaQkmHHW6Kyob9LgUuULnLWWeGqlYC9yRN1MJ9O2mjLnv7p5S+qNLx6mSCWkG0uCbqE6addFBiBmhSRcEsBVoocQA1qaEKWJMKKv0GNqmgoOukgEqB+0kJBTvvlFACw/QONXF98jVArTDq9AaVodSpG3XBqVMnKtqDnVWUUUHs/tqii5pvkRqqC3XCaqgO1Bei6RUqwzS9QAXa36Ldo9Id0AVPBwV6S1BE4TZUOypq++8hZJQ44zZUKyrHHrwWVIlvaqACht1QTZSY4W3Dz9RQaw8Gr47iPgxeDSVOPgxeDYW+lN/j4eD9ReV+DN4fFNqNqpGnKT1DvUi/zRM18aZQTxSHeyZ/m1+U8y+LGnmYSo9MD5QYoN3RW3JHLf3pcvZA8aM/Xc4eKMivQQq5mQK/TD+oqYeoaI+tqOWKwr6lN3LbYLAR9VwL5dNifgvmI/DL+Df1qnyk/pmYT2e73wRn7zqKMR8eWRop0F/ImvkPpPwsxYDzfxIAAAAASUVORK5CYII=" tvg-id="PRO7.cz" group-title="Filmové" tvg-country="D",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sat1gold.png" tvg-id="SAT1.Gold.cz" group-title="Filmové" tvg-country="D",SAT1 Gold
@@ -570,9 +570,9 @@ https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sixx.png" tvg-id="Sixx.cz" group-title="Filmové" tvg-country="D",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtl.png" tvg-id="RTL.cz" group-title="Filmové" tvg-country="D",RTL
-http://88.212.15.19/live/test_rtl_ger_tizen/playlist.m3u8
+http://88.212.15.17/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtlzwei.png" tvg-id="RTL2.cz" group-title="Filmové" tvg-country="D",RTL2
-http://88.212.15.19/live/test_rtl_zwei_tizen/playlist.m3u8
+http://88.212.15.17/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/orf1.png" tvg-id="ORF1.cz" group-title="Filmové" tvg-country="A",ORF1
 http://neosfpoo.top:8080/221699939571001/51699939571183/10539
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/orf2.png" tvg-id="ORF2.cz" group-title="Filmové" tvg-country="A",ORF2
@@ -660,21 +660,21 @@ https://nstream.tssgroup.cloud/tss/fitechbb/video1.m3u8
 #EXTINF:0,NEW YORK Madison Square
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1,Kostol Trebisov
-http://88.212.15.19/live/test_kostol_trebisov/playlist.m3u8
+http://88.212.15.17/live/test_kostol_trebisov/playlist.m3u8
 #EXTINF:-1,Kostol Zdana
-http://88.212.15.19/live/test_zdana/playlist.m3u8
+http://88.212.15.17/live/test_zdana/playlist.m3u8
 #EXTINF:-1,Kostol Secovce
-http://88.212.15.19/live/test_secovce/playlist.m3u8
+http://88.212.15.17/live/test_secovce/playlist.m3u8
 #EXTINF:-1,Kostol Terasa Kosice
-http://88.212.15.19/live/test_terasa/playlist.m3u8
+http://88.212.15.17/live/test_terasa/playlist.m3u8
 #EXTINF:-1,Kostol Nizna Mysla
-http://88.212.15.19/live/test_mysla/playlist.m3u8
+http://88.212.15.17/live/test_mysla/playlist.m3u8
 #EXTINF:-1,Kostol Kavecany
-http://88.212.15.19/live/test_kavecany/playlist.m3u8
+http://88.212.15.17/live/test_kavecany/playlist.m3u8
 #EXTINF:-1,Kostol Budimir
-http://88.212.15.19/live/test_budimir/playlist.m3u8
+http://88.212.15.17/live/test_budimir/playlist.m3u8
 #EXTINF:-1,Kostol Myslava
-http://88.212.15.19/live/test_myslava/playlist.m3u8
+http://88.212.15.17/live/test_myslava/playlist.m3u8
 #EXTINF:-1,Kostol Kosice
 http://www.ikostol.sk/live/kostol_dom/playlist.m3u8
 #EXTINF:-1,Kostol  Vranov nad Toplou
@@ -690,7 +690,7 @@ https://www.ikostol.sk/live/kostol_milosrdenstva/playlist.m3u8
 #EXTINF:-1,Kosice Dom sv. Alzbety
 https://www.ikostol.sk/live/kostol_dom/playlist.m3u8
 #EXTINF:-1,apostol
-http://88.212.15.19/live/apostol_tv/index.m3u8
+http://88.212.15.17/live/apostol_tv/index.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
