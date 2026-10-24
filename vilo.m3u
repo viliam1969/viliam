@@ -1,74 +1,74 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jednotka.png" tvg-id="Jednotka.cz" group-title="Filmové" tvg-country="SK",Jednotka
-http://88.212.15.17:80/live/test_jednotka_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/dvojkahd.png" tvg-id="Dvojka.cz" group-title="Filmové" tvg-country="SK",Dvojka
-http://88.212.15.17:80/live/test_dvojka_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rtvs24.png" tvg-id="RTVS.24.cz" group-title="Spravodajské" tvg-country="SK",:24
-http://88.212.15.17:80/live/test_trojka_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/dajto.png" tvg-id="TV.DAJTO.cz" group-title="Filmové" tvg-country="SK",Dajto
-http://88.212.15.17:80/live/test_dajto_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/markiza.png" tvg-id="Markíza.cz" group-title="Filmové" tvg-country="SK",Markíza
-http://88.212.15.17:80/live/test_markiza_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=9415" tvg-id="Markíza.KRIMI.cz" group-title="Filmové" tvg-country="SK",Markíza Krimi
-http://88.212.15.17:80/live/test_markiza_krimi_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11007" tvg-id="Markíza.KLASIK.cz" group-title="Filmové" tvg-country="SK",Markíza Klasik
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12482" tvg-id="JOJ.Krimi,cz" group-title="Filmové" tvg-country="SK",JOJ Krimi
-http://88.212.15.17:80/live/test_wau_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_TV_JOJ_-_2020.svg/1280px-Logo_TV_JOJ_-_2020.svg.png" tvg-id="JOJ.cz" group-title="Filmové" tvg-country="SK",JOJ
-http://88.212.15.17:80/live/test_joj_hd_high_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojplus.png" tvg-id="JOJ.Plus.cz" group-title="Filmové" tvg-country="SK",Joj Plus
-http://88.212.15.17:80/live/test_pluska_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/doma.png" tvg-id="Doma.cz" group-title="Filmové" tvg-country="SK",Doma
-http://88.212.15.17:80/live/test_doma_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=9385" tvg-id="JOJ.Svet.cz" group-title="Dokumentárne" tvg-country="SK",JOJ Svet 
-http://88.212.15.17:80/live/test_joj_svet/playlist.m3u8
+http://88.212.15.30:80/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8311" tvg-id="JOJ.24.cz" group-title="Spravodajské" tvg-country="SK",JOJ 24 
 http://88.212.15.17/live/test_joj_24_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ta3.png" tvg-id="TA3.cz" group-title="Spravodajské" tvg-country="SK",TA3
-http://88.212.15.17:80/live/test_ta3_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct24.png" tvg-id="ČT24.cz" group-title="Spravodajské" tvg-country="CZ",ČT24
-http://88.212.15.17:80/live/test_ct24_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ctfs.ceskatelevize.cz/static/v8.19/assets/images/ivysilani_onDark.ab6917666b20cb702da012b12652cb96.svg" tvg-id="" group-title="Spravodajské" tvg-country="CZ",ivysílaní
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cnnprimanews.png" tvg-id="CNN.Prima.News.cz" group-title="Spravodajské" tvg-country="CZ",CNN Prima News
-http://88.212.15.17:80/live/test_cnn_pirma_news/playlist.m3u8
+http://88.212.15.30:80/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Spravodajské" tvg-country="CZ",Nova TN live
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/nova-news/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Spravodajské" tvg-country="SK",Markiza TN live
 https://santovic-test.6f.sk/sktv-forwarders/get.php?x=MarkizaTNLive
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct1.png" tvg-id="ČT1.cz" group-title="Filmové" tvg-country="CZ",ČT1
-http://88.212.15.17:80/live/test_ct1_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ct2.png" tvg-id="ČT2.cz" group-title="Filmové" tvg-country="CZ",ČT2
-http://88.212.15.17:80/live/test_ct2_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nova.png" tvg-id="Nova.cz" group-title="Filmové" tvg-country="CZ",Nova
-http://88.212.15.17:80/live/test_nova_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nova_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novaaction.png" tvg-id="Nova.Action.cz" group-title="Filmové" tvg-country="CZ",Nova Action
-http://88.212.15.17:80/live/test_nova_action_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nova_action_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novacinema.png" tvg-id="Nova.Cinema.cz" group-title="Filmové" tvg-country="CZ",Nova Cinema
-http://88.212.15.17:80/live/test_nova_cinema_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nova_cinema_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novalady.png" tvg-id="Nova.Lady.cz" group-title="Filmové" tvg-country="CZ",Nova Lady
-http://88.212.15.17:80/live/test_nova_lady_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novafun.png" tvg-id="Nova.Fun.cz" group-title="Filmové" tvg-country="CZ",Nova Fun
-http://88.212.15.17:80/live/test_nova_fun_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nova_fun_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12113" tvg-id="Nova.Krimi.cz" group-title="Filmové" tvg-country="CZ",Nova KRIMI
-http://88.212.15.17:80/live/test_nova_gold_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nova_gold_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11000" tvg-id="Warner.TV.cz" group-title="Filmové" tvg-country="CZ",WARNER TV
-http://88.212.15.17:80/live/warner_tv/index.m3u8
+http://88.212.15.30:80/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/hbo.png" tvg-id="HBO.cz" group-title="Filmové" tvg-country="CZ",HBO
-http://88.212.15.17:80/live/test_hbo_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/hbo2.png" tvg-id="HBO2.cz" group-title="Filmové" tvg-country="CZ",HBO 2
-http://88.212.15.17:80/live/test_hbo2_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/hbo3.png" tvg-id="HBO3.cz" group-title="Filmové" tvg-country="CZ",HBO 3
-http://88.212.15.17:80/live/test_hbo3_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.skylink.sk/media/r4hfbvwy/filmboxplus-logos_2026_fbplus-hits.png?format=webp&quality=60&v=1dcf8cd79989860" tvg-id="Filmbox+.hits.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ hits
-http://88.212.15.17:80/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FILMBOX%2B_one.svg/1920px-FILMBOX%2B_one.svg.png" tvg-id="Filmbox+.one.(hu).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ one
-http://88.212.15.17:80/live/test_filmbox/playlist.m3u8
+http://88.212.15.30:80/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FILMBOX%2B_emotion.svg/3840px-FILMBOX%2B_emotion.svg.png" tvg-id="Filmbox+.emotion.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ emotion
-http://88.212.15.17:80/live/test_film_boxextra_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_film_boxextra_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Filmbox%2B_Comedy_%282026-.n.v.%29.png/revision/latest?cb=20260613041320" tvg-id="Filmbox+.comedy.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ comedy
-http://88.212.15.17:80/live/test_filmbox_family_atk_1200/playlist.m3u8
+http://88.212.15.30:80/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.skylink.sk/media/obalwtth/filmboxplus-logos_2026_fbplus-lovecrime.png?format=webp&quality=60&v=1dcf8d71c5a2880" tvg-id="Filmbox+.love&amp;crime.(hr).cz" group-title="Filmové" tvg-country="CZ",FILMBOX+ love&crime
 http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FILMBOX%2B_festival.svg/3840px-FILMBOX%2B_festival.svg.png" tvg-id="Filmbox+.festival.(hr).cz" group-title="Filmové" tvg-country="ENG",FILMBOX+ festival
@@ -76,41 +76,41 @@ http://88.212.15.17/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/tcm-network-logo-png-transparent.png" tvg-id="TCM.cz" group-title="Filmové" tvg-country="ENG",TCM
 http://31.43.191.125:8080/restream/restream/483
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojcinema.png" tvg-id="JOJ.Cinema.cz" group-title="Filmové" tvg-country="CZ",JOJ Cinema
-http://88.212.15.17:80/live/test_joj_cinema_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_joj_cinema_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/filmplus.png" tvg-id="Film+.cz" group-title="Filmové" tvg-country="CZ",Film+
-http://88.212.15.17:80/live/test_film_plus_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/csfilm.png" tvg-id="CS.Film.cz" group-title="Filmové" tvg-country="CZ",CS Film
-http://88.212.15.17:80/live/test_cs_film_avc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_cs_film_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cinemax.png" tvg-id="Cinemax.cz" group-title="Filmové" tvg-country="CZ",Cinemax
-http://88.212.15.17:80/live/test_cinemax_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cinemax2.png" tvg-id="Cinemax.2.cz" group-title="Filmové" tvg-country="CZ",Cinemax 2
-http://88.212.15.17:80/live/test_cinemax2_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/amc.png" tvg-id="AMC.cz" group-title="Filmové" tvg-country="CZ",AMC
-http://88.212.15.17:80/live/test_amc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/axn.png" tvg-id="AXN.cz" group-title="Filmové" tvg-country="CZ",AXN
-http://88.212.15.17:80/live/test_axn/playlist.m3u8
+http://88.212.15.30:80/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/axnwhite.png" tvg-id="AXN.White.cz" group-title="Filmové" tvg-country="CZ",AXN White
-http://88.212.15.17:80/live/test_white/playlist.m3u8
+http://88.212.15.30:80/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/axnblack.png" tvg-id="AXN.Black.cz" group-title="Filmové" tvg-country="CZ",AXN Black
-http://88.212.15.17:80/live/test_black/playlist.m3u8
+http://88.212.15.30:80/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/prima.png" tvg-id="Prima.cz" group-title="Filmové" tvg-country="CZ",Prima
 http://88.212.15.17/live/test_prima_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10631" tvg-id="Prima.SK.cz" group-title="Filmové" tvg-country="CZ",Prima SK
-http://88.212.15.17:80/live/test_prima_plus_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primalove.png" tvg-id="Prima.LOVE.cz" group-title="Filmové" tvg-country="CZ",Prima LOVE
 http://185.188.188.237:5000/live/primalove/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primalove.png" tvg-id="Prima.LOVE.SK.cz" group-title="Filmové" tvg-country="CZ",Prima LOVE SK
-http://88.212.15.17:80/live/test_prima_love_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_prima_love_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primazoom.png" tvg-id="Prima.ZOOM.cz" group-title="Filmové" tvg-country="CZ",Prima ZOOM
-http://88.212.15.17:80/live/test_prima_zoom_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primakrimi.png" tvg-id="Prima.Krimi.cz" group-title="Filmové" tvg-country="CZ",Prima Krimi
 http://185.188.188.237:5000/live/primakrimi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primakrimi.png" tvg-id="Prima.KRIMI.SK.cz" group-title="Filmové" tvg-country="CZ",Prima Krimi SK
-http://88.212.15.17:80/live/test_prima_krimi_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_prima_krimi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primacool.png" tvg-id="Prima.Cool.cz" group-title="Filmové" tvg-country="CZ",Prima COOL
 http://185.188.188.237:5000/live/primacool/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primacool.png" tvg-id="Prima.COOL.SK.cz" group-title="Filmové" tvg-country="SK",Prima Cool SK
-http://88.212.15.17:80/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+http://88.212.15.30:80/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primastar.png" tvg-id="Prima.Star.cz" group-title="Filmové" tvg-country="CZ",Prima Star
 http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primashowt2.png" tvg-id="Prima.Show.cz" group-title="Filmové" tvg-country="CZ",Prima Show
@@ -118,9 +118,9 @@ http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/primamax.png" tvg-id="Prima.MAX.cz" group-title="Filmové" tvg-country="CZ",Prima MAX
 http://185.188.188.237:5000/live/primamax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/barrandovtvt2.png" tvg-id="Barrandov.cz" group-title="Filmové" tvg-country="CZ",Barrandov TV
-http://88.212.15.17:80/live/test_barrandov/playlist.m3u8
+http://88.212.15.30:80/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/kinobarrandov.png" tvg-id="Krimi.Barrandov.cz" group-title="Filmové" tvg-country="CZ",Barrandov Kino
-http://88.212.15.17:80/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+http://88.212.15.30:80/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/barrandovkrimi.png" tvg-id="BARRANDOV.PLUS.cz" group-title="Filmové" tvg-country="CZ",Barrandov Krimi
 http://88.212.15.17/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -146,15 +146,15 @@ http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11131" tvg-id="Canal+.Action.cz" group-title="Filmové" tvg-country="CZ",CANAL+ ACTION
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/travelchannel.png" tvg-id="Travel.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",Travel channel
-http://88.212.15.17:80/live/test_travel_channel_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/travelxp.png" tvg-id="Travelxp.HD.cz" group-title="Dokumentárne" tvg-country="CZ",Travel XP
-http://88.212.15.17:80/live/travel_xp/index.m3u8
+http://88.212.15.30:80/live/travel_xp/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/crimeandinvestigation.png" tvg-id="Crime.and.Investigation.cz" group-title="Dokumentárne" tvg-country="CZ",Crime and Investigation
-http://88.212.15.17:80/live/test_cai_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/spektrum.png" tvg-id="Spektrum.cz" group-title="Dokumentárne" tvg-country="CZ",Spektrum
-http://88.212.15.17:80/live/test_spektrum/playlist.m3u8
+http://88.212.15.30:80/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/spektrumhome.png" tvg-id="Spektrum.Home.cz" group-title="Dokumentárne" tvg-country="CZ",Spektrum Home
-http://88.212.15.17:80/live/test_home_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8325" tvg-id="HGTV.cz" group-title="Dokumentárne" tvg-country="CZ",HGTV
 http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11727" tvg-id="Skvelé.TV.cz" group-title="Dokumentárne" tvg-country="SK",SkveleTV
@@ -164,9 +164,9 @@ http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tlc.png" tvg-id="TLC.cz" group-title="Dokumentárne" tvg-country="CZ",TLC
 http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12276" tvg-id="Kanal.1.cz" group-title="Iné" tvg-country="SK",Kanal1
-http://88.212.15.17:80/live/test_upnetwork/playlist.m3u8
+http://88.212.15.30:80/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history.png" tvg-id="History.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",History
-http://88.212.15.17:80/live/test_history/playlist.m3u8
+http://88.212.15.30:80/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/history2.png" tvg-id="History2.cz" group-title="Dokumentárne" tvg-country="CZ",History2
 http://88.212.15.17/live/test_h2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cshistory.png" tvg-id="CS.History.cz" group-title="Dokumentárne" tvg-country="CZ",CS History
@@ -176,23 +176,23 @@ http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/csmystery.png" tvg-id="CS.Mystery.cz" group-title="Dokumentárne" tvg-country="CZ",CS Mystery
 http://88.212.15.17/live/test_cs_mystery_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.ibb.co/bsVFkk/discovery.png" tvg-id="Discovery.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",Discovery Channel
-http://88.212.15.17:80/live/test_discovery_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/investigationdiscovery.png" tvg-id="ID.cz" group-title="Dokumentárne" tvg-country="CZ",ID Xtra
 http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12603" tvg-id="Viasat.True.Crime.cz" group-title="Dokumentárne" tvg-country="CZ",Viasat True Crime
 http://46.149.191.219:9105/play/a03d
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/natgeohdcz.png" tvg-id="National.Geographic.HD.cz" group-title="Dokumentárne" tvg-country="CZ",National Geographic HD
-http://88.212.15.17:80/live/test_ngc/playlist.m3u8
+http://88.212.15.30:80/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/natgeowildhdcz.png" tvg-id="National.Geographic.Wild.cz" group-title="Dokumentárne" tvg-country="CZ",National Geographic Wild
-http://88.212.15.17:80/live/test_ngw/playlist.m3u8
+http://88.212.15.30:80/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/lovenature.png" tvg-id="Love.Nature.cz" group-title="Dokumentárne" tvg-country="CZ",LOVE NATURE
-http://88.212.15.17:80/live/test_lovenature/playlist.m3u8
+http://88.212.15.30:80/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12604" tvg-id="Viasat.Nature.cz" group-title="Dokumentárne" tvg-country="CZ",Viasat Nature
 http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2024/02/huntfishtv.png" tvg-id="Hunt Fish TV.cz" group-title="Dokumentárne" tvg-country="ENG",Hunt Fish TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/fishingandhunting.png" tvg-id="FISHING.and.HUNTING.(UPC).cz" group-title="Dokumentárne" tvg-country="CZ",Fishing & Hunting
-http://88.212.15.17:80/live/test_fishing_hunting/playlist.m3u8
+http://88.212.15.30:80/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c" tvg-id="Sports Fishing.cz" group-title="Dokumentárne" tvg-country="ENG",Sports Fishing
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/animalplanet.png" tvg-id="Animal.Planet.cz" group-title="Dokumentárne" tvg-country="CZ",Animal Planet
@@ -200,11 +200,11 @@ http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/jpg/01/10/02/71/1000_F_110027197_b3UsmkUaTnDsGW2HanCrW95kXlJUUYYw.jpg" tvg-id="Wild.Nature.cz" group-title="Dokumentárne" tvg-country="ENG",Wild Nature
 https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7817" tvg-id="HaHa.TV.cz" group-title="Iné" tvg-country="SK",HAHA TV
-http://88.212.15.17:80/live/test_haha_tv/playlist.m3u8
+http://88.212.15.30:80/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/mnau.png" tvg-id="Mňau.TV.cz" group-title="Iné" tvg-country="SK",MNAU
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpaprika.png" tvg-id="Paprika.cz" group-title="Varenie" tvg-country="CZ",Paprika TV
-http://88.212.15.17:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -221,11 +221,11 @@ http://0v6ltnhf.virelloso.top/iptv/HLVUU64TK3EUVKBV5CNRZH4Q/7302/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Varenie" tvg-country="PL",BBC Lifestyle
 http://92.114.85.87:8017/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/seznamcz.png" tvg-id="Seznam.cz.TV.cz" group-title="Dokumentárne" tvg-country="CZ",Seznam.cz TV
-http://88.212.15.17:80/live/test_seznam_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/relax.png" tvg-id="RELAX.cz" group-title="Hudobné" tvg-country="CZ",Relax TV
-http://88.212.15.17:80/live/test_relax/playlist.m3u8
+http://88.212.15.30:80/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/disneychannel.png" tvg-id="Disney.Channel.cz" group-title="Detské" tvg-country="CZ",Disney Channel
-http://88.212.15.17:80/live/test_disney/playlist.m3u8
+http://88.212.15.30:80/live/test_disney/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -234,33 +234,33 @@ http://88.212.15.17:80/live/test_disney/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ctart.png" tvg-id="ČT.art.cz" group-title="Detské" tvg-country="CZ",ČT art
-http://88.212.15.17:80/live/test_ct_art_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_ct_art_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rik.png" tvg-id="Rik.TV.cz" group-title="Detské" tvg-country="SK",Rik TV
-http://88.212.15.17:80/live/test_rik/playlist.m3u8
+http://88.212.15.30:80/live/test_rik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yscr6Rk/duck-tv.png" tvg-id="duck.tv.cz" group-title="Detské" tvg-country="CZ",Duck TV
-http://88.212.15.17:80/live/test_duck_tv_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Duck_TV_Plus.svg" tvg-id="ducktv.plus.cz" group-title="Detské" tvg-country="CZ",DuckTV plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XPDcTBT/tom-jerry.png" tvg-id="Tom&Jerry" tvg-id="Tom&Jerry" group-title="Detské" tvg-country="CZ",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8954" tvg-id="Cartoonito.cz" group-title="Detské" tvg-country="CZ",CARTOONITO
-http://88.212.15.17:80/live/test_boomerang_tizen/playlist.m3u8
+http://88.212.15.30:80/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/cartoonnetwork.png" tvg-id="Cartoon.Network.cz" group-title="Detské" tvg-country="CZ",Cartoon Network
 http://81.201.55.198:8001/1:0:16:36F5:C8C:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nickelodeon.png" tvg-id="Nickelodeon.cz" group-title="Detské" tvg-country="CZ",Nickelodeon
-http://88.212.15.17:80/live/test_nickelodeon_hevc_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11291" tvg-id="Nick.Jr..cz" group-title="Detské" tvg-country="CZ",Nick Jr.
-http://88.212.15.17:80/live/test_nick_jr/playlist.m3u8
+http://88.212.15.30:80/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jimjam.png" tvg-id="Jim.Jam.cz" group-title="Detské" tvg-country="CZ",Jim Jam
-http://88.212.15.17:80/live/test_jim_jam/playlist.m3u8
+http://88.212.15.30:80/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/jojko.png" tvg-id="JOJKO.cz" group-title="Detské" tvg-country="SK",Jojko
-http://88.212.15.17:80/live/test_jojko_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_jojko_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/minimax.png" tvg-id="Minimax.cz" group-title="Detské" tvg-country="CZ",Minimax
-http://88.212.15.17:80/live/test_minimax/playlist.m3u8
+http://88.212.15.30:80/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nicktoons.png" tvg-id="Nicktoons.cz" group-title="Detské" tvg-country="CZ",Nicktoons
-http://88.212.15.17:80/live/test_nicktoons/playlist.m3u8
+http://88.212.15.30:80/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=6136" tvg-id="Lala.TV.cz" group-title="Detské" tvg-country="CZ",Lala TV
-http://88.212.15.17:80/live/test_lala_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Baby_TV.svg/revision/latest?cb=20241110001558" tvg-id="Baby.TV.cz" group-title="Detské" tvg-country="CZ",BABY TV
 http://206.212.244.63/641/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/831/47592B0B9D3C0860894B8711E110440D/minimax_Converted.png" tvg-id="Minimax.cz" group-title="Detské" tvg-country="CZ",minimax
@@ -268,7 +268,7 @@ http://185.98.209.11:81/minimax/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://turbotv.sk/wp-content/themes/turbotv/public/images/logo-turbotv.png?id=9a1552eab22467b806d231e12931dc28" tvg-id="Turbo.TV.cz" group-title="Detské" tvg-country="CZ",Turbo TV
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Študentské" tvg-country="SK",Via TV
-http://88.212.15.17:80/live/via_tv/index.m3u8
+http://88.212.15.30:80/live/via_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-id="BBC.Four.cz" group-title="Detské" tvg-country="ENG",BBC4
 http://193.239.186.232/BBC4/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/docubox.png" tvg-id="DocuBox.HD.cz" group-title="Dokumentárne" tvg-country="ENG",DOCUBOX
@@ -290,7 +290,7 @@ http://0v6ltnhf.virelloso.top/iptv/HLVUU64TK3EUVKBV5CNRZH4Q/7292/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvp2hd.png" tvg-id="TVP2.cz" group-title="Filmové" tvg-country="PL",TVP2
 http://0v6ltnhf.virelloso.top/iptv/HLVUU64TK3EUVKBV5CNRZH4Q/7293/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpolonia.png" tvg-id="Polonia.cz" group-title="Filmové" tvg-country="PL",TVP POLONIA
-http://88.212.15.17:80/live/test_tvp_polonia/playlist.m3u8
+http://88.212.15.30:80/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/polsat.png" tvg-id="Polsat.cz" group-title="Filmové" tvg-country="PL",Polsat
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvn.png" tvg-id="TVN.cz" group-title="Filmové" tvg-country="PL",TVN
@@ -310,13 +310,13 @@ http://neosfpoo.top:8080/221699939571001/51699939571183/10225
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvphistoria.png" tvg-id="TVP.Historia.cz" group-title="Dokumentárne" tvg-country="PL",TVP Historia
 http://neosfpoo.top:8080/221699939571001/51699939571183/10251
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
-http://88.212.15.17:80/live/test_tvp_info/playlist.m3u8
+http://88.212.15.30:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7568" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
-http://88.212.15.17:80/live/test_tvp_world/playlist.m3u8
+http://88.212.15.30:80/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/bbcworldnews.png" tvg-id="BBC.World.News.cz" group-title="Spravodajské" tvg-country="ENG",BBC NEWS
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/cnn.png" tvg-id="CNews.cz" group-title="Spravodajské" tvg-country="ENG",CNN
-http://88.212.15.17:80/live/test_cnn_1200_atk/playlist.m3u8
+http://88.212.15.30:80/live/test_cnn_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upcsource.upc.sk/public/tv_station_logos/1594818887.png" tvg-id="Euronews.cz" group-title="Spravodajské" tvg-country="ENG",EURONEWS
 http://88.212.15.17/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/skynews.png" tvg-id="Sky.news.cz" group-title="Spravodajské" tvg-country="ENG",SKYNEWS
@@ -324,7 +324,7 @@ http://88.212.15.17/live/test_skynews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/france24inenglish.png" tvg-id="France24.EN.cz" group-title="Spravodajské" tvg-country="ENG",France 24 
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/trtworld.png" tvg-id="TRT.World.cz" group-title="Spravodajské" tvg-country="ENG",TRT WORLD
-http://88.212.15.17:80/live/test_trt_world_atktv/playlist.m3u8
+http://88.212.15.30:80/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7939" tvg-id="CGTN.English.cz" group-title="Spravodajské" tvg-country="ENG",CGTN
 http://88.212.15.17/live/test_cgtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11735" tvg-id="Newsmax.TV.cz" group-title="Spravodajské" tvg-country="ENG",Newsmax
@@ -338,7 +338,7 @@ https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Iné" tvg-country="UA",Svoboda
 http://88.212.15.17/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-logo="https://bbcfirst.ca/wp-content/uploads/2021/02/BBC-First-BlackBoxLogo-copy.png" tvg-id="BBC.First.cz" group-title="Filmové" tvg-country="ENG",BBC FIRST
-http://88.212.15.17:80/live/bbc_first/index.m3u8
+http://88.212.15.30:80/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv1.png" tvg-id="ITV1.cz" group-title="Filmové" tvg-country="ENG",ITV1
 http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pipelka/picons/refs/heads/master/picons/itv2.png" tvg-id="ITV2.cz" group-title="Filmové" tvg-country="ENG",ITV2
@@ -356,13 +356,13 @@ http://86.25.135.71:1998/stream/channelid/47551291?profile=matroska
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.u" group-title="Filmové" tvg-country="USA",24HourFreeMovies
 https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/automotorsport.png" tvg-id="Auto.Motor.Sport.cz" group-title="Športové" tvg-country="CZ",Auto Motor Sport Channel
-http://88.212.15.17:80/live/test_ams/playlist.m3u8
+http://88.212.15.30:80/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11728" tvg-id="Superyacht.cz" group-title="Športové" tvg-country="ENG",SUPERYACHT
-http://88.212.15.17:80/live/test_superyacht/playlist.m3u8
+http://88.212.15.30:80/live/test_superyacht/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC3AMIAK/822-sport.png" tvg-id="RTVS.SPORT.cz" group-title="Športové" tvg-country="SK",:Šport
-http://88.212.15.17:80/live/test_rtvs_sport_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rxn/bdee6150-92f7-4612-af0d-ac6362a7002f.png" tvg-id="JOJ.A PORT.cz" group-title="Športové" tvg-country="SK",JOJ Šport
-http://88.212.15.17:80/live/test_joj_sport_hd_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11207" tvg-id="JOJ.A port.2.cz" group-title="Športové" tvg-country="SK",JOJ Šport 2
 http://88.212.15.17/live/joj_sport_2_avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sport1.png" tvg-id="Sport1.cz" group-title="Športové" tvg-country="CZ",Sport 1
@@ -370,7 +370,7 @@ http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/sport2.png" tvg-id="Sport2.cz" group-title="Športové" tvg-country="CZ",Sport 2
 http://88.212.15.17/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ctsport.png" tvg-id="ČT.sport.cz" group-title="Športové" tvg-country="CZ",ČT sport
-http://88.212.15.17:80/live/test_ctsport_25p/playlist.m3u8
+http://88.212.15.30:80/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novasport1.png" tvg-id="Nova.Sport.1.cz" group-title="Športové" tvg-country="CZ",Nova Sport 1
 http://185.188.188.237:5000/live/novasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/novasport2.png" tvg-id="Nova.Sport.2.cz" group-title="Športové" tvg-country="CZ",Nova Sport 2
@@ -386,13 +386,13 @@ http://81.201.55.198:8001/1:0:16:312:c94:3:eb0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12661" tvg-id="Prima.SPORT.cz" group-title="Športové" tvg-country="CZ",Prima SPORT
 http://178.143.8.242:8001/1:0:19:3D02:C95:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11012" tvg-id="Sporty.TV.cz" group-title="Športové" tvg-country="CZ",SPORTY TV
-http://88.212.15.17:80/live/sporty_tv/index.m3u8
+http://88.212.15.30:80/live/sporty_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/fastandfunbox.png" tvg-id="Fast&amp;Funbox.HD.cz" group-title="Športové" tvg-country="ENG",Fast and FunBox
-http://88.212.15.17:80/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+http://88.212.15.30:80/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?aid=12678" tvg-id="Arena.Sport.1.cz" group-title="Športové" tvg-country="CZ",Kanal1 Sport
-http://88.212.15.17:80/live/test_arenasport/playlist.m3u8
+http://88.212.15.30:80/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?aid=12679" tvg-id="Arena.Sport.2.cz" group-title="Športové" tvg-country="CZ",Kanal1 XTRA
-http://88.212.15.17:80/live/test_arenasport_dva/playlist.m3u8
+http://88.212.15.30:80/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/eurosport1.png" tvg-id="Eurosport.1.cz" group-title="Športové" tvg-country="CZ",Eurosport 1
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/eurosport2.png" tvg-id="Eurosport.2.cz" group-title="Športové" tvg-country="CZ",Eurosport 2
@@ -438,7 +438,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2480/inde
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="IT",SKY SPORT 24
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/19107/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/golfchannel.png" tvg-id="Golf.Channel.cz" group-title="Športové" tvg-country="CZ",Golf channel
-http://88.212.15.17:80/live/test_golf_channel/playlist.m3u8
+http://88.212.15.30:80/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" tvg-id="Sky.Sport.F1.cz" group-title="Športové" tvg-country="DE",Sky Sport F1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/19027/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Športové" tvg-country="ENG",Sky Sports Premier ligue
@@ -452,7 +452,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idiFUlnk7r/w/483/h/142/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" tvg-id="World.Poker.Tour.cz" group-title="Športové" tvg-country="ENG",World Poker Tour
 https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12502" tvg-id="Real.madrid.cz" group-title="Športové" tvg-country="ENG",Real Madrid TV
-http://88.212.15.17:80/live/real_madrid_tv/index.m3u8
+http://88.212.15.30:80/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" tvg-id="" group-title="Športové" tvg-country="FR",BEIN SPORTS 1 
 http://31.43.191.125:8080/restream/restream/373
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" tvg-id="" group-title="Športové" tvg-country="FR",BEIN SPORTS 2
@@ -486,55 +486,55 @@ https://173.212.247.21/live/tvprerov.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/polar.png" tvg-id="POLAR.cz" group-title="Iné" tvg-country="CZ",TV POLAR
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upcsource.upc.sk/public/tv_station_logos/1748255496.png" tvg-id="A11.cz" group-title="Regionálne" tvg-country="CZ",A11
-http://88.212.15.17:80/live/test_regionalni_tv/playlist.m3u8
+http://88.212.15.30:80/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10358" tvg-id="DVTV.Extra.cz" group-title="Regionálne" tvg-country="CZ",DV TV
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=10118" tvg-id="Kuryr.cz" group-title="Regionálne" tvg-country="CZ",KURYR TV
 https://stream-18.mazana.tv/kuryrtv.m3u8s
 #EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/19e5c8601d1e3c8b6e72745c6834a966.svg" tvg-id="Lux.cz" group-title="Náboženské" tvg-country="SK",LUX
-http://88.212.15.17:80/live/test_lux_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_lux_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xv8-rUN-VY4YhzoY1EewTo1zTElYzul2OlB0O8KAJZ4QWNXPicJrXS2x4XPq-C-TxA=w480-h960-rw" tvg-id="Noe.cz" tvg-id="Noe.cz" group-title="Náboženské" tvg-country="CZ",NOE
-http://88.212.15.17:80/live/test_noe_hevc/playlist.m3u8
+http://88.212.15.30:80/live/test_noe_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https:/i.imgur.com/jO8kAY2.png" tvg-id="Life.TV.cz" group-title="Náboženské" tvg-country="SK",LifeTV
 https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7810" tvg-id="English.Club.TV.cz" group-title="Iné" tvg-country="ENG",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2023/09/lang-lab-720x420.jpg" tvg-id="LangLab.cz" group-title="Iné" tvg-country="ENG",Langlabs
-http://88.212.15.17:80/live/langlabs/index.m3u8
+http://88.212.15.30:80/live/langlabs/index.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2023/09/LINGO-TOONS_logo1-720x420.jpg" tvg-id="LingoToons.cz" group-title="Iné" tvg-country="ENG",Lingotoons
-http://88.212.15.17:80/live/lingotoons/index.m3u8
+http://88.212.15.30:80/live/lingotoons/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png?_=20191110105547" tvg-id="FashionBox.HD.cz" group-title="Móda" tvg-country="ENG",FashionBox
 http://88.212.15.17/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://116.202.210.205/icn/icons/rai1.png" tvg-id="Rai.Uno.cz" group-title="Filmové" tvg-country="I",RAI1
-http://88.212.15.17:80/live/test_rai_uno_tizen/playlist.m3u8
+http://88.212.15.30:80/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png?_=20221224120327" tvg-id="Rai.Duo.cz" group-title="Filmové" tvg-country="I",RAI2
 http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11731" tvg-id="Rai.Tre.cz" group-title="Filmové" tvg-country="I",RAI3
-http://88.212.15.17:80/live/test_rai_tre_tizen/playlist.m3u8
+http://88.212.15.30:80/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Rai4.it@SD" group-title="Filmové" tvg-country="I",RAI4
 http://neosfpoo.top:8080/221699939571001/51699939571183/61948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/960px-Rai_5_logo.svg.png" tvg-id="Rai5.it@SD" group-title="Filmové" tvg-country="I",RAI5
 http://neosfpoo.top:8080/221699939571001/51699939571183/61951
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/rebel.png" tvg-id="Rebel.cz" group-title="Hudobné" tvg-country="CZ",REBEL
-http://88.212.15.17:80/live/test_rebel/playlist.m3u8
+http://88.212.15.30:80/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12158" tvg-id="Music.Box.Hits.cz" group-title="Hudobné" tvg-country="ENG",MUSICBOX HITS
-http://88.212.15.17:80/live/mb_hits/index.m3u8
+http://88.212.15.30:80/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12160" tvg-id="Music.Box.Dance.cz" group-title="Hudobné" tvg-country="ENG",MUSICBOX DANCE
-http://88.212.15.17:80/live/mb_dance/index.m3u8
+http://88.212.15.30:80/live/mb_dance/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12159" tvg-id="Music.Box.Classic.cz" group-title="Hudobné" tvg-country="ENG",MUSICBOX CLASSIC
-http://88.212.15.17:80/live/mb_classic/index.m3u8
+http://88.212.15.30:80/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12161" tvg-id="Music.Box.Sexy.cz" group-title="Hudobné" tvg-country="ENG",MUSICBOX SEXY
-http://88.212.15.17:80/live/mb_sexy/index.m3u8
+http://88.212.15.30:80/live/mb_sexy/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/mtv.png" tvg-id="MTV.cz" group-title="Hudobné" tvg-country="ENG",MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/360tunebox.png" tvg-id="360TuneBox.cz" group-title="Hudobné" tvg-country="ENG",360TuneBox
-http://88.212.15.17:80/live/test_360_tunebox_medium_atk/playlist.m3u8
+http://88.212.15.30:80/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/250px-NOW_Rock_logo.png" tvg-id="Now.Rock.cz" group-title="Hudobné" tvg-country="ENG",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Hudobné" tvg-country="ENG",METAL ROCK
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8?ads_amagi_channel_id=1063&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=195.146.2.115&ads_market=sk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=metal-rocks_sk&ads_rtv_content_id=7215&ads_rtv_content_language=&ads_rtvid=267071&ads_streaming_id=0e3f6903-8376-4fb2-a91f-1488389c7646&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/iconcerts.png" tvg-id="iConcerts.cz" group-title="Hudobné" tvg-country="ENG",STINGRAY iconcerts
-http://88.212.15.17:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+http://88.212.15.30:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" tvg-id="Totalmusic.Dance.cz" group-title="Hudobné" tvg-country="ENG",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ocko.png" tvg-id="Óčko.cz" group-title="Hudobné" tvg-country="CZ",Óčko
@@ -544,7 +544,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://m7cdn.io/skylink/common/img/channels/ocko-star-826.png" tvg-id="Óčko.Star.cz" group-title="Hudobné" tvg-country="CZ",OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/ockoblack.png" tvg-id="Óčko.Black.cz" group-title="Hudobné" tvg-country="CZ",Ocko Black
-http://88.212.15.17:80/live/test_ocko_black/playlist.m3u8
+http://88.212.15.30:80/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/retromusictv.png" tvg-id="Retro.Music.cz" group-title="Hudobné" tvg-country="CZ",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/senzi.png" tvg-id="SENZI.cz" group-title="Hudobné" tvg-country="CZ",SENZI
@@ -556,7 +556,7 @@ https://stream-13.mazana.tv/slagroriginal.m3u
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/slagr2.png" tvg-id="Šlágr.Originál.cz" group-title="Hudobné" tvg-country="CZ",Šláger 2
 http://88.212.15.17/live/test_slagr_2_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7826" tvg-id="Folklorika.cz" group-title="Hudobné" tvg-country="SK",Folklorika
-http://88.212.15.17:80/live/test_folklorika_atktv/playlist.m3u8
+http://88.212.15.30:80/live/test_folklorika_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=8334" tvg-id="Romana.cz" group-title="Iné" tvg-country="SK",ROMANA
 http://88.212.15.17/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNYnHWt8/Music_Channel.png" tvg-id="Music.Box.Classic.cz" group-title="Hudobné" tvg-country="ENG",MUSIC TV
@@ -576,9 +576,9 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png?_=20201211173353" tvg-id="KissKissTV.it@SD" group-title="Hudobné" tvg-country="I",KISS KISS
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12266" tvg-id="Pianko.cz" group-title="Iné" tvg-country="SK",Pianko
-http://88.212.15.17:80/live/test_pianko/playlist.m3u8
+http://88.212.15.30:80/live/test_pianko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7937" tvg-id="Arirang.cz" group-title="Spravodajské" tvg-country="Korea",Arirang Korea
-http://88.212.15.17:80/live/test_arirang/playlist.m3u8
+http://88.212.15.30:80/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D_dS13cUyTcXM3BjR9BaF-B_MLvzO9_Oq-EafTQvaZgi54MLQ5CSm2I3SSqJdwSSjvoY=w240-h480-rw" tvg-id="Aquarium.cz" group-title="Iné" tvg-country="UA",AQUARIUM
 http://iptv.prosto.tv:7000/ch310/video.m3u8?secret=191yc7ul
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12283" tvg-id="Antik.cz" group-title="Iné" tvg-country="SK",INFOKANAL ANTIK
@@ -656,7 +656,7 @@ http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:0, Solisko Furkotka
 http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
 #EXTINF:0,park tv
-http://88.212.15.17:80/live/test_park_tv/playlist.m3u8
+http://88.212.15.30:80/live/test_park_tv/playlist.m3u8
 #EXTINF:0,Letisko Vaclava Havla Praha
 https://dash2.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
 #EXTINF:0,Praha na dlani
@@ -718,7 +718,7 @@ http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio VIVA
-http://88.212.15.17:80/live/test_viva_radio/playlist.m3u8
+http://88.212.15.30:80/live/test_viva_radio/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Dobré rádio
 https://dash2.antik.sk/live/test_dobre_radio_atktv/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Rádio 80 - 90s
