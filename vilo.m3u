@@ -145,6 +145,14 @@ https://dash3.antik.sk/stream/hisi_epic_drama/playlist_cbcs.mpd
 http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=11131" tvg-id="Canal+.Action.cz" group-title="Filmové" tvg-country="CZ",CANAL+ ACTION
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Filmové" tvg-country="CZ",CANAL+
+http://81.201.55.198:8001/1:0:19:334C:C93:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Filmové" tvg-country="CZ",CANAL+ DRAMA
+http://81.201.55.198:8001/1:0:19:3cfa:C95:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Filmové" tvg-country="CZ",CANAL+ CRIME
+http://81.201.55.198:8001/1:0:19:52B3:C99:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Filmové" tvg-country="CZ",CANAL+ CLASSICS
+http://81.201.55.198:8001/1:0:19:1F53:CA1:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/travelchannel.png" tvg-id="Travel.Channel.cz" group-title="Dokumentárne" tvg-country="CZ",Travel channel
 http://88.212.15.30:80/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/travelxp.png" tvg-id="Travelxp.HD.cz" group-title="Dokumentárne" tvg-country="CZ",Travel XP
@@ -179,6 +187,8 @@ http://88.212.15.30:80/live/test_cs_mystery_avc_25p/playlist.m3u8
 http://88.212.15.30:80/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/investigationdiscovery.png" tvg-id="ID.cz" group-title="Dokumentárne" tvg-country="CZ",ID Xtra
 http://88.212.15.30:80/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=12603" tvg-id="Viasat.True.Crime.cz" group-title="Dokumentárne" tvg-country="CZ",Viasat True Crime
+http://81.201.55.198:8001/1:0:16:36F3:C8C:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/natgeohdcz.png" tvg-id="National.Geographic.HD.cz" group-title="Dokumentárne" tvg-country="CZ",National Geographic HD
 http://88.212.15.30:80/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/natgeowildhdcz.png" tvg-id="National.Geographic.Wild.cz" group-title="Dokumentárne" tvg-country="CZ",National Geographic Wild
@@ -273,6 +283,8 @@ http://88.212.15.30:80/live/test_docubox_medium_atk/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/outdoorchannel.png" tvg-id="Outdoor.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",OUTDOOR CHANNEL
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/119/mpegts
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/nauticalhd.png" tvg-id="Nautical.Channel.cz" group-title="Dokumentárne" tvg-country="ENG",NAUTICAL CHANNEL
+http://81.201.55.198:8001/1:0:19:1BFD:C88:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d9/Wonder_TV_%282020-.n.v.%29.png/revision/latest?cb=20231124135730" tvg-id="Wonder.uk@SD" group-title="Dokumentárne" tvg-country="ENG",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/MovieSphere_2020_logo.jpg/revision/latest?cb=20250814094924" tvg-id="MovieSphere.us@UK" group-title="Filmové" tvg-country="ENG",Moviesphere
@@ -287,10 +299,22 @@ http://0v6ltnhf.virelloso.top/iptv/HLVUU64TK3EUVKBV5CNRZH4Q/7293/index.m3u8
 http://88.212.15.30:80/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/polsat.png" tvg-id="Polsat.cz" group-title="Filmové" tvg-country="PL",Polsat
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvn.png" tvg-id="TVN.cz" group-title="Filmové" tvg-country="PL",TVN
+https://tinyurl.com/SaSha-48/7286/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tv4.png" tvg-id="TV4.cz" group-title="Filmové" tvg-country="PL",TV4
+https://tinyurl.com/SaSha-48/7290/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpuls.png" tvg-id="TV.Puls.cz" group-title="Filmové" tvg-country="PL",TV PULS
 https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvn7.png" tvg-id="TVN7.cz" group-title="Filmové" tvg-country="PL",TVN7
+https://tinyurl.com/SaSha-48/7279/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpuls2.png" tvg-id="TV.Puls2.cz" group-title="Filmové" tvg-country="PL",TV PULS2
 https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tv6.png" tvg-id="TV6.cz" group-title="Filmové" tvg-country="PL",TV6
+https://tinyurl.com/SaSha-48/7289/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/superpolsat.png" tvg-id="Super.Polsat.cz" group-title="Filmové" tvg-country="PL",Super Polsat
+https://tinyurl.com/SaSha-48/6109/index.m3u8
+#EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvphistoria.png" tvg-id="TVP.Historia.cz" group-title="Dokumentárne" tvg-country="PL",TVP Historia
+https://tinyurl.com/SaSha-48/7283/index.m3u8
 #EXTINF:-1 tvg-logo="https://marhycz.github.io/picons/640/tvpinfo.png" tvg-id="TVP.Info.cz" group-title="Spravodajské" tvg-country="PL",TVP INFO
 http://88.212.15.30:80/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xbmc-kodi.cz/attachment.php?thumbnail=7568" tvg-id="TVP.World.cz" group-title="Spravodajské" tvg-country="PL",TVP WORLD
